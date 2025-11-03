@@ -1,0 +1,2358 @@
+id_outbreak,Year,Disease,Country,iso3,unsd_region,who_region
+2025AFGA000,2025,Cholera,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2025AGOA000,2025,Cholera,Angola,AGO,Africa,African Region
+2025ALBU071,2025,COVID-19,Albania,ALB,Europe,European Region
+2025ARGB05,2025,Measles,Argentina,ARG,Americas,Region of the Americas
+2025ARGU071,2025,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2025ARMU071,2025,COVID-19,Armenia,ARM,Asia,European Region
+2025ATGA920,2025,Chikungunya mosquito-borne viral fever,Antigua and Barbuda,ATG,Americas,Region of the Americas
+2025AUSA920,2025,Chikungunya mosquito-borne viral fever,Australia,AUS,Oceania,Western Pacific Region
+2025AUTU071,2025,COVID-19,Austria,AUT,Europe,European Region
+2025AZEU071,2025,COVID-19,Azerbaijan,AZE,Asia,European Region
+2025BDIA000,2025,Cholera,Burundi,BDI,Africa,African Region
+2025BELU071,2025,COVID-19,Belgium,BEL,Europe,European Region
+2025BFAU071,2025,COVID-19,Burkina Faso,BFA,Africa,African Region
+2025BGDA000,2025,Cholera,Bangladesh,BGD,Asia,South-East Asia Region
+2025BGDA920,2025,Chikungunya mosquito-borne viral fever,Bangladesh,BGD,Asia,South-East Asia Region
+2025BGDB348,2025,Unspecified viral disease,Bangladesh,BGD,Asia,South-East Asia Region
+2025BGDU071,2025,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2025BGRU071,2025,COVID-19,Bulgaria,BGR,Europe,European Region
+2025BHSA920,2025,Chikungunya mosquito-borne viral fever,Bahamas,BHS,Americas,Region of the Americas
+2025BIHU071,2025,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2025BLRU071,2025,COVID-19,Belarus,BLR,Europe,European Region
+2025BLZA920,2025,Chikungunya mosquito-borne viral fever,Belize,BLZ,Americas,Region of the Americas
+2025BLZB05,2025,Measles,Belize,BLZ,Americas,Region of the Americas
+2025BLZU071,2025,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2025BOLA920,2025,Chikungunya mosquito-borne viral fever,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2025BOLA959,2025,"Yellow fever, unspecified",Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2025BOLA968,2025,Chapare virus,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2025BOLU071,2025,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2025BRAA959,2025,"Yellow fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2025BRAB05,2025,Measles,Brazil,BRA,Americas,Region of the Americas
+2025BRAU071,2025,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2025BRBU071,2025,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2025BRNU071,2025,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2025BTNU071,2025,COVID-19,Bhutan,BTN,Asia,South-East Asia Region
+2025CAFU071,2025,COVID-19,Central African Republic,CAF,Africa,African Region
+2025CANA920,2025,Chikungunya mosquito-borne viral fever,Canada,CAN,Americas,Region of the Americas
+2025CANB05,2025,Measles,Canada,CAN,Americas,Region of the Americas
+2025CHEU071,2025,COVID-19,Switzerland,CHE,Europe,European Region
+2025CHLA920,2025,Chikungunya mosquito-borne viral fever,Chile,CHL,Americas,Region of the Americas
+2025CHLU071,2025,COVID-19,Chile,CHL,Americas,Region of the Americas
+2025CHNA920,2025,Chikungunya mosquito-borne viral fever,China,CHN,Asia,Western Pacific Region
+2025CHNJ101,2025,"Influenza with other manifestations, seasonal influenza virus identified",China,CHN,Asia,Western Pacific Region
+2025CHNJ121,2025,Pneumonia due to Respiratory syncytial virus,China,CHN,Asia,Western Pacific Region
+2025CHNJ123,2025,Pneumonia due to Human metapneumovirus,China,CHN,Asia,Western Pacific Region
+2025CHNJ206,2025,Acute bronchitis due to Rhinovirus,China,CHN,Asia,Western Pacific Region
+2025CHNU071,2025,COVID-19,China,CHN,Asia,Western Pacific Region
+2025CIVA000,2025,Cholera,CÃ´te d'Ivoire,CIV,Africa,African Region
+2025CIVU071,2025,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2025CMRU071,2025,COVID-19,Cameroon,CMR,Africa,African Region
+2025CODA000,2025,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2025CODA984,2025,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2025CODU071,2025,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2025COGA000,2025,Cholera,Congo,COG,Africa,African Region
+2025COLA920,2025,Chikungunya mosquito-borne viral fever,Colombia,COL,Americas,Region of the Americas
+2025COLA959,2025,"Yellow fever, unspecified",Colombia,COL,Americas,Region of the Americas
+2025COLU071,2025,COVID-19,Colombia,COL,Americas,Region of the Americas
+2025COMA920,2025,Chikungunya mosquito-borne viral fever,Comoros,COM,Africa,African Region
+2025CRIA920,2025,Chikungunya mosquito-borne viral fever,Costa Rica,CRI,Americas,Region of the Americas
+2025CRIU071,2025,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2025CUBU071,2025,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2025CYPU071,2025,COVID-19,Cyprus,CYP,Asia,European Region
+2025CZEU071,2025,COVID-19,Czechia,CZE,Europe,European Region
+2025DEUU071,2025,COVID-19,Germany,DEU,Europe,European Region
+2025DNKU071,2025,COVID-19,Denmark,DNK,Europe,European Region
+2025DZAU071,2025,COVID-19,Algeria,DZA,Africa,African Region
+2025ECUA920,2025,Chikungunya mosquito-borne viral fever,Ecuador,ECU,Americas,Region of the Americas
+2025ECUA959,2025,"Yellow fever, unspecified",Ecuador,ECU,Americas,Region of the Americas
+2025ECUU071,2025,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2025ESTU071,2025,COVID-19,Estonia,EST,Europe,European Region
+2025ETHA000,2025,Cholera,Ethiopia,ETH,Africa,African Region
+2025ETHU071,2025,COVID-19,Ethiopia,ETH,Africa,African Region
+2025FINU071,2025,COVID-19,Finland,FIN,Europe,European Region
+2025FRAA920,2025,Chikungunya mosquito-borne viral fever,France,FRA,Europe,European Region
+2025FRAU071,2025,COVID-19,France,FRA,Europe,European Region
+2025GABU071,2025,COVID-19,Gabon,GAB,Africa,African Region
+2025GBRU071,2025,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2025GEOU071,2025,COVID-19,Georgia,GEO,Asia,European Region
+2025GHAA000,2025,Cholera,Ghana,GHA,Africa,African Region
+2025GHAU071,2025,COVID-19,Ghana,GHA,Africa,African Region
+2025GINU071,2025,COVID-19,Guinea,GIN,Africa,African Region
+2025GRCU071,2025,COVID-19,Greece,GRC,Europe,European Region
+2025GRDA920,2025,Chikungunya mosquito-borne viral fever,Grenada,GRD,Americas,Region of the Americas
+2025GTMU071,2025,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2025GUYU071,2025,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2025HNDU071,2025,COVID-19,Honduras,HND,Americas,Region of the Americas
+2025HRVU071,2025,COVID-19,Croatia,HRV,Europe,European Region
+2025HTIA000,2025,Cholera,Haiti,HTI,Americas,Region of the Americas
+2025HTIA920,2025,Chikungunya mosquito-borne viral fever,Haiti,HTI,Americas,Region of the Americas
+2025HTIU071,2025,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2025HUNU071,2025,COVID-19,Hungary,HUN,Europe,European Region
+2025IDNA920,2025,Chikungunya mosquito-borne viral fever,Indonesia,IDN,Asia,South-East Asia Region
+2025IDNU071,2025,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2025INDA000,2025,Cholera,India,IND,Asia,South-East Asia Region
+2025INDA920,2025,Chikungunya mosquito-borne viral fever,India,IND,Asia,South-East Asia Region
+2025INDA925,2025,Zika virus disease,India,IND,Asia,South-East Asia Region
+2025INDB348,2025,Unspecified viral disease,India,IND,Asia,South-East Asia Region
+2025INDU071,2025,COVID-19,India,IND,Asia,South-East Asia Region
+2025IRLU071,2025,COVID-19,Ireland,IRL,Europe,European Region
+2025ISLU071,2025,COVID-19,Iceland,ISL,Europe,European Region
+2025ISRA809,2025,"Acute poliomyelitis, unspecified",Israel,ISR,Asia,European Region
+2025ITAA920,2025,Chikungunya mosquito-borne viral fever,Italy,ITA,Europe,European Region
+2025ITAU071,2025,COVID-19,Italy,ITA,Europe,European Region
+2025JAMU071,2025,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2025JPNA920,2025,Chikungunya mosquito-borne viral fever,Japan,JPN,Asia,Western Pacific Region
+2025KENA000,2025,Cholera,Kenya,KEN,Africa,African Region
+2025KENA920,2025,Chikungunya mosquito-borne viral fever,Kenya,KEN,Africa,African Region
+2025KENU071,2025,COVID-19,Kenya,KEN,Africa,African Region
+2025KHMJ090,2025,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2025KORA920,2025,Chikungunya mosquito-borne viral fever,Korea Republic of,KOR,Asia,Western Pacific Region
+2025LCAU071,2025,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2025LIEU071,2025,COVID-19,Liechtenstein,LIE,Europe,
+2025LKAA920,2025,Chikungunya mosquito-borne viral fever,Sri Lanka,LKA,Asia,South-East Asia Region
+2025LSOU071,2025,COVID-19,Lesotho,LSO,Africa,African Region
+2025LTUU071,2025,COVID-19,Lithuania,LTU,Europe,European Region
+2025LUXU071,2025,COVID-19,Luxembourg,LUX,Europe,European Region
+2025LVAU071,2025,COVID-19,Latvia,LVA,Europe,European Region
+2025MARB05,2025,Measles,Morocco,MAR,Africa,Eastern Mediterranean Region
+2025MDAU071,2025,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2025MDGU071,2025,COVID-19,Madagascar,MDG,Africa,African Region
+2025MEXB05,2025,Measles,Mexico,MEX,Americas,Region of the Americas
+2025MEXJ090,2025,Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,Americas,Region of the Americas
+2025MEXU071,2025,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2025MKDU071,2025,COVID-19,North Macedonia,MKD,Europe,European Region
+2025MLIU071,2025,COVID-19,Mali,MLI,Africa,African Region
+2025MLTU071,2025,COVID-19,Malta,MLT,Europe,European Region
+2025MMRA000,2025,Cholera,Myanmar,MMR,Asia,South-East Asia Region
+2025MMRU071,2025,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2025MOZA000,2025,Cholera,Mozambique,MOZ,Africa,African Region
+2025MOZU071,2025,COVID-19,Mozambique,MOZ,Africa,African Region
+2025MRTU071,2025,COVID-19,Mauritania,MRT,Africa,African Region
+2025MUSA920,2025,Chikungunya mosquito-borne viral fever,Mauritius,MUS,Africa,African Region
+2025MUSU071,2025,COVID-19,Mauritius,MUS,Africa,African Region
+2025MWIA000,2025,Cholera,Malawi,MWI,Africa,African Region
+2025MYSA920,2025,Chikungunya mosquito-borne viral fever,Malaysia,MYS,Asia,Western Pacific Region
+2025MYTA920,2025,Chikungunya mosquito-borne viral fever,Mayotte,MYT,Africa,
+2025NAMA000,2025,Cholera,Namibia,NAM,Africa,African Region
+2025NCLA920,2025,Chikungunya mosquito-borne viral fever,New Caledonia,NCL,Oceania,
+2025NERU071,2025,COVID-19,Niger,NER,Africa,African Region
+2025NGAA000,2025,Cholera,Nigeria,NGA,Africa,African Region
+2025NGAU071,2025,COVID-19,Nigeria,NGA,Africa,African Region
+2025NICU071,2025,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2025NLDU071,2025,COVID-19,Netherlands,NLD,Europe,European Region
+2025NORU071,2025,COVID-19,Norway,NOR,Europe,European Region
+2025NPLA000,2025,Cholera,Nepal,NPL,Asia,South-East Asia Region
+2025NPLU071,2025,COVID-19,Nepal,NPL,Asia,South-East Asia Region
+2025NZLU071,2025,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2025PAKA000,2025,Cholera,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2025PAKA920,2025,Chikungunya mosquito-borne viral fever,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2025PANA920,2025,Chikungunya mosquito-borne viral fever,Panama,PAN,Americas,Region of the Americas
+2025PANU071,2025,COVID-19,Panama,PAN,Americas,Region of the Americas
+2025PERA959,2025,"Yellow fever, unspecified",Peru,PER,Americas,Region of the Americas
+2025PERU071,2025,COVID-19,Peru,PER,Americas,Region of the Americas
+2025PHLA920,2025,Chikungunya mosquito-borne viral fever,Philippines,PHL,Asia,Western Pacific Region
+2025PNGA809,2025,"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,Oceania,Western Pacific Region
+2025POLU071,2025,COVID-19,Poland,POL,Europe,European Region
+2025PRTU071,2025,COVID-19,Portugal,PRT,Europe,European Region
+2025PRYA920,2025,Chikungunya mosquito-borne viral fever,Paraguay,PRY,Americas,Region of the Americas
+2025REUA920,2025,Chikungunya mosquito-borne viral fever,RÃ©union,REU,Africa,
+2025ROUU071,2025,COVID-19,Romania,ROU,Europe,European Region
+2025RUSU071,2025,COVID-19,Russian Federation,RUS,Europe,European Region
+2025RWAA000,2025,Cholera,Rwanda,RWA,Africa,African Region
+2025RWAU071,2025,COVID-19,Rwanda,RWA,Africa,African Region
+2025SAUA390,2025,Meningococcal meningitis,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2025SAUU040,2025,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2025SDNA000,2025,Cholera,Sudan,SDN,Africa,Eastern Mediterranean Region
+2025SENA920,2025,Chikungunya mosquito-borne viral fever,Senegal,SEN,Africa,African Region
+2025SENU071,2025,COVID-19,Senegal,SEN,Africa,African Region
+2025SGPA920,2025,Chikungunya mosquito-borne viral fever,Singapore,SGP,Asia,Western Pacific Region
+2025SLVU071,2025,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2025SOMA000,2025,Cholera,Somalia,SOM,Africa,Eastern Mediterranean Region
+2025SOMA920,2025,Chikungunya mosquito-borne viral fever,Somalia,SOM,Africa,Eastern Mediterranean Region
+2025SRBU071,2025,COVID-19,Serbia,SRB,Europe,European Region
+2025SSDA000,2025,Cholera,South Sudan,SSD,Africa,African Region
+2025SSDU071,2025,COVID-19,South Sudan,SSD,Africa,African Region
+2025SURU071,2025,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2025SVKU071,2025,COVID-19,Slovakia,SVK,Europe,European Region
+2025SVNU071,2025,COVID-19,Slovenia,SVN,Europe,European Region
+2025SWEU071,2025,COVID-19,Sweden,SWE,Europe,European Region
+2025TCAU071,2025,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2025TCDA000,2025,Cholera,Chad,TCD,Africa,African Region
+2025TGOA000,2025,Cholera,Togo,TGO,Africa,African Region
+2025TGOU071,2025,COVID-19,Togo,TGO,Africa,African Region
+2025THAA000,2025,Cholera,Thailand,THA,Asia,South-East Asia Region
+2025THAA220,2025,Cutaneous anthrax,Thailand,THA,Asia,South-East Asia Region
+2025THAA920,2025,Chikungunya mosquito-borne viral fever,Thailand,THA,Asia,South-East Asia Region
+2025THAU071,2025,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2025TLSA829,2025,"Rabies, unspecified",Timor-Leste,TLS,Asia,South-East Asia Region
+2025TTOA920,2025,Chikungunya mosquito-borne viral fever,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2025TURU071,2025,COVID-19,Turkey,TUR,Asia,European Region
+2025TZAA000,2025,Cholera,Tanzania United Republic of,TZA,Africa,African Region
+2025TZAA983,2025,Marburg disease,Tanzania United Republic of,TZA,Africa,African Region
+2025TZAU071,2025,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2025UGAA000,2025,Cholera,Uganda,UGA,Africa,African Region
+2025UGAA988,2025,Sudan virus disease,Uganda,UGA,Africa,African Region
+2025UGAU071,2025,COVID-19,Uganda,UGA,Africa,African Region
+2025UKRU071,2025,COVID-19,Ukraine,UKR,Europe,European Region
+2025URYU071,2025,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2025USAA920,2025,Chikungunya mosquito-borne viral fever,United States of America,USA,Americas,Region of the Americas
+2025USAB05,2025,Measles,United States of America,USA,Americas,Region of the Americas
+2025UZBU071,2025,COVID-19,Uzbekistan,UZB,Asia,European Region
+2025VENU071,2025,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2025VGBU071,2025,COVID-19,Virgin Islands (British),VGB,Americas,
+2025YEMA000,2025,Cholera,Yemen,YEM,Asia,Eastern Mediterranean Region
+2025ZAFU071,2025,COVID-19,South Africa,ZAF,Africa,African Region
+2025ZMBA000,2025,Cholera,Zambia,ZMB,Africa,African Region
+2025ZWEA000,2025,Cholera,Zimbabwe,ZWE,Africa,African Region
+2025ZWEU071,2025,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2024ABWA979,2024,"Dengue fever, unspecified",Aruba,ABW,Americas,
+2024AFGA979,2024,"Dengue fever, unspecified",Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2024AFGU071,2024,COVID-19,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2024AGOA979,2024,"Dengue fever, unspecified",Angola,AGO,Africa,African Region
+2024AGOU071,2024,COVID-19,Angola,AGO,Africa,African Region
+2024ALBU071,2024,COVID-19,Albania,ALB,Europe,European Region
+2024ARGA979,2024,"Dengue fever, unspecified",Argentina,ARG,Americas,Region of the Americas
+2024ARGU071,2024,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2024ARMU071,2024,COVID-19,Armenia,ARM,Asia,European Region
+2024ATGA979,2024,"Dengue fever, unspecified",Antigua and Barbuda,ATG,Americas,Region of the Americas
+2024AUSA979,2024,"Dengue fever, unspecified",Australia,AUS,Oceania,Western Pacific Region
+2024AUSJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Australia,AUS,Oceania,Western Pacific Region
+2024AUSU071,2024,COVID-19,Australia,AUS,Oceania,Western Pacific Region
+2024AUTA700,2024,Infections due to Chlamydia psittaci,Austria,AUT,Europe,European Region
+2024AUTU071,2024,COVID-19,Austria,AUT,Europe,European Region
+2024AZEU071,2024,COVID-19,Azerbaijan,AZE,Asia,European Region
+2024BDIB04,2024,Monkeypox,Burundi,BDI,Africa,African Region
+2024BDIU071,2024,COVID-19,Burundi,BDI,Africa,African Region
+2024BELU071,2024,COVID-19,Belgium,BEL,Europe,European Region
+2024BENA979,2024,"Dengue fever, unspecified",Benin,BEN,Africa,African Region
+2024BESA979,2024,"Dengue fever, unspecified",Bonaire Sint Eustatius and Saba,BES,Americas,
+2024BFAA959,2024,"Yellow fever, unspecified",Burkina Faso,BFA,Africa,African Region
+2024BFAA979,2024,"Dengue fever, unspecified",Burkina Faso,BFA,Africa,African Region
+2024BFAU071,2024,COVID-19,Burkina Faso,BFA,Africa,African Region
+2024BGDA979,2024,"Dengue fever, unspecified",Bangladesh,BGD,Asia,South-East Asia Region
+2024BGDB348,2024,Unspecified viral disease,Bangladesh,BGD,Asia,South-East Asia Region
+2024BGDU071,2024,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2024BGRU071,2024,COVID-19,Bulgaria,BGR,Europe,European Region
+2024BHSA979,2024,"Dengue fever, unspecified",Bahamas,BHS,Americas,Region of the Americas
+2024BHSU071,2024,COVID-19,Bahamas,BHS,Americas,Region of the Americas
+2024BIHU071,2024,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2024BLMA979,2024,"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,Americas,
+2024BLRU071,2024,COVID-19,Belarus,BLR,Europe,European Region
+2024BLZA979,2024,"Dengue fever, unspecified",Belize,BLZ,Americas,Region of the Americas
+2024BLZU071,2024,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2024BOLA930,2024,Oropouche virus disease,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2024BOLA979,2024,"Dengue fever, unspecified",Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2024BOLU071,2024,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2024BRAA930,2024,Oropouche virus disease,Brazil,BRA,Americas,Region of the Americas
+2024BRAA979,2024,"Dengue fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2024BRAJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,Americas,Region of the Americas
+2024BRAU071,2024,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2024BRBA923,2024,West Nile virus infection,Barbados,BRB,Americas,Region of the Americas
+2024BRBA979,2024,"Dengue fever, unspecified",Barbados,BRB,Americas,Region of the Americas
+2024BRBU071,2024,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2024BRNU071,2024,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2024BWAU071,2024,COVID-19,Botswana,BWA,Africa,African Region
+2024CAFA959,2024,"Yellow fever, unspecified",Central African Republic,CAF,Africa,African Region
+2024CAFU071,2024,COVID-19,Central African Republic,CAF,Africa,African Region
+2024CANA930,2024,Oropouche virus disease,Canada,CAN,Americas,Region of the Americas
+2024CANU071,2024,COVID-19,Canada,CAN,Americas,Region of the Americas
+2024CHEU071,2024,COVID-19,Switzerland,CHE,Europe,European Region
+2024CHLA979,2024,"Dengue fever, unspecified",Chile,CHL,Americas,Region of the Americas
+2024CHLU071,2024,COVID-19,Chile,CHL,Americas,Region of the Americas
+2024CHNA979,2024,"Dengue fever, unspecified",China,CHN,Asia,Western Pacific Region
+2024CHNJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2024CHNU071,2024,COVID-19,China,CHN,Asia,Western Pacific Region
+2024CIVA959,2024,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2024CIVA979,2024,"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2024CIVB04,2024,Monkeypox,CÃ´te d'Ivoire,CIV,Africa,African Region
+2024CIVU071,2024,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2024CMRA959,2024,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2024CMRU071,2024,COVID-19,Cameroon,CMR,Africa,African Region
+2024CODA959,2024,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2024CODB04,2024,Monkeypox,Congo Democratic Republic of the,COD,Africa,African Region
+2024CODB342,2024,"Coronavirus infection, unspecified site",Congo Democratic Republic of the,COD,Africa,African Region
+2024CODB348,2024,Unspecified viral disease,Congo Democratic Republic of the,COD,Africa,African Region
+2024CODB509,2024,"Malaria due to Plasmodium falciparum, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2024CODJ101,2024,"Influenza with other manifestations, seasonal influenza virus identified",Congo Democratic Republic of the,COD,Africa,African Region
+2024CODJ120,2024,Pneumonia due to Adenovirus,Congo Democratic Republic of the,COD,Africa,African Region
+2024CODJ122,2024,Pneumonia due to parainfluenza virus,Congo Democratic Republic of the,COD,Africa,African Region
+2024CODU049,2024,Severe acute respiratory syndrome,Congo Democratic Republic of the,COD,Africa,African Region
+2024CODU071,2024,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2024COGA959,2024,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2024COGU071,2024,COVID-19,Congo,COG,Africa,African Region
+2024COKU071,2024,COVID-19,Cook Islands,COK,Oceania,Western Pacific Region
+2024COLA930,2024,Oropouche virus disease,Colombia,COL,Americas,Region of the Americas
+2024COLA979,2024,"Dengue fever, unspecified",Colombia,COL,Americas,Region of the Americas
+2024COLU071,2024,COVID-19,Colombia,COL,Americas,Region of the Americas
+2024CPVA979,2024,"Dengue fever, unspecified",Cabo Verde,CPV,Africa,African Region
+2024CRIA979,2024,"Dengue fever, unspecified",Costa Rica,CRI,Americas,Region of the Americas
+2024CRIU071,2024,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2024CUBA930,2024,Oropouche virus disease,Cuba,CUB,Americas,Region of the Americas
+2024CUBA979,2024,"Dengue fever, unspecified",Cuba,CUB,Americas,Region of the Americas
+2024CUBU071,2024,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2024CUWA979,2024,"Dengue fever, unspecified",CuraÃ§ao,CUW,Americas,
+2024CYMA930,2024,Oropouche virus disease,Cayman Islands,CYM,Americas,
+2024CYMA979,2024,"Dengue fever, unspecified",Cayman Islands,CYM,Americas,
+2024CYPU071,2024,COVID-19,Cyprus,CYP,Asia,European Region
+2024CZEU071,2024,COVID-19,Czechia,CZE,Europe,European Region
+2024DEUA700,2024,Infections due to Chlamydia psittaci,Germany,DEU,Europe,European Region
+2024DEUU071,2024,COVID-19,Germany,DEU,Europe,European Region
+2024DNKA700,2024,Infections due to Chlamydia psittaci,Denmark,DNK,Europe,European Region
+2024DNKU071,2024,COVID-19,Denmark,DNK,Europe,European Region
+2024DOMA979,2024,"Dengue fever, unspecified",Dominican Republic,DOM,Americas,Region of the Americas
+2024DZAU071,2024,COVID-19,Algeria,DZA,Africa,African Region
+2024ECUA930,2024,Oropouche virus disease,Ecuador,ECU,Americas,Region of the Americas
+2024ECUA979,2024,"Dengue fever, unspecified",Ecuador,ECU,Americas,Region of the Americas
+2024ECUU071,2024,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2024ERIA979,2024,"Dengue fever, unspecified",Eritrea,ERI,Africa,African Region
+2024ESPJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Spain,ESP,Europe,European Region
+2024ESTU071,2024,COVID-19,Estonia,EST,Europe,European Region
+2024ETHA979,2024,"Dengue fever, unspecified",Ethiopia,ETH,Africa,African Region
+2024ETHB509,2024,"Malaria due to Plasmodium falciparum, unspecified",Ethiopia,ETH,Africa,African Region
+2024ETHU071,2024,COVID-19,Ethiopia,ETH,Africa,African Region
+2024FINU071,2024,COVID-19,Finland,FIN,Europe,European Region
+2024FJIA979,2024,"Dengue fever, unspecified",Fiji,FJI,Oceania,Western Pacific Region
+2024FRAA979,2024,"Dengue fever, unspecified",France,FRA,Europe,European Region
+2024FRAU071,2024,COVID-19,France,FRA,Europe,European Region
+2024FSMA979,2024,"Dengue fever, unspecified",Micronesia (Federated States of),FSM,Oceania,Western Pacific Region
+2024FSMU071,2024,COVID-19,Micronesia (Federated States of),FSM,Oceania,Western Pacific Region
+2024GABU071,2024,COVID-19,Gabon,GAB,Africa,African Region
+2024GBRU071,2024,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2024GEOU071,2024,COVID-19,Georgia,GEO,Asia,European Region
+2024GHAA979,2024,"Dengue fever, unspecified",Ghana,GHA,Africa,African Region
+2024GHAJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Ghana,GHA,Africa,African Region
+2024GHAU071,2024,COVID-19,Ghana,GHA,Africa,African Region
+2024GINA959,2024,"Yellow fever, unspecified",Guinea,GIN,Africa,African Region
+2024GINU071,2024,COVID-19,Guinea,GIN,Africa,African Region
+2024GLPA979,2024,"Dengue fever, unspecified",Guadeloupe,GLP,Americas,
+2024GMBU071,2024,COVID-19,Gambia,GMB,Africa,African Region
+2024GRCU071,2024,COVID-19,Greece,GRC,Europe,European Region
+2024GRDA979,2024,"Dengue fever, unspecified",Grenada,GRD,Americas,Region of the Americas
+2024GTMA979,2024,"Dengue fever, unspecified",Guatemala,GTM,Americas,Region of the Americas
+2024GTMU071,2024,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2024GUFA979,2024,"Dengue fever, unspecified",French Guiana,GUF,Americas,
+2024GUYA930,2024,Oropouche virus disease,Guyana,GUY,Americas,Region of the Americas
+2024GUYA979,2024,"Dengue fever, unspecified",Guyana,GUY,Americas,Region of the Americas
+2024GUYU071,2024,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2024HNDA979,2024,"Dengue fever, unspecified",Honduras,HND,Americas,Region of the Americas
+2024HNDU071,2024,COVID-19,Honduras,HND,Americas,Region of the Americas
+2024HRVU071,2024,COVID-19,Croatia,HRV,Europe,European Region
+2024HTIU071,2024,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2024HUNU071,2024,COVID-19,Hungary,HUN,Europe,European Region
+2024IDNA809,2024,"Acute poliomyelitis, unspecified",Indonesia,IDN,Asia,South-East Asia Region
+2024IDNU071,2024,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2024INDA928,2024,"Arthropod-borne viral fever, virus unspecified",India,IND,Asia,South-East Asia Region
+2024INDJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,India,IND,Asia,South-East Asia Region
+2024INDU071,2024,COVID-19,India,IND,Asia,South-East Asia Region
+2024IRLU071,2024,COVID-19,Ireland,IRL,Europe,European Region
+2024IRNA979,2024,"Dengue fever, unspecified",Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2024IRNU071,2024,COVID-19,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2024ISLU071,2024,COVID-19,Iceland,ISL,Europe,European Region
+2024ITAU071,2024,COVID-19,Italy,ITA,Europe,European Region
+2024JAMA979,2024,"Dengue fever, unspecified",Jamaica,JAM,Americas,Region of the Americas
+2024JAMU071,2024,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2024KAZU071,2024,COVID-19,Kazakhstan,KAZ,Asia,European Region
+2024KENA979,2024,"Dengue fever, unspecified",Kenya,KEN,Africa,African Region
+2024KENB04,2024,Monkeypox,Kenya,KEN,Africa,African Region
+2024KENU071,2024,COVID-19,Kenya,KEN,Africa,African Region
+2024KGZU071,2024,COVID-19,Kyrgyzstan,KGZ,Asia,European Region
+2024KHMA979,2024,"Dengue fever, unspecified",Cambodia,KHM,Asia,Western Pacific Region
+2024KHMJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2024KHMU071,2024,COVID-19,Cambodia,KHM,Asia,Western Pacific Region
+2024KNAA979,2024,"Dengue fever, unspecified",Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2024KWTU071,2024,COVID-19,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2024LAOA979,2024,"Dengue fever, unspecified",Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2024LAOU071,2024,COVID-19,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2024LBRA979,2024,"Dengue fever, unspecified",Liberia,LBR,Africa,African Region
+2024LBRU071,2024,COVID-19,Liberia,LBR,Africa,African Region
+2024LCAA979,2024,"Dengue fever, unspecified",Saint Lucia,LCA,Americas,Region of the Americas
+2024LCAU071,2024,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2024LIEU071,2024,COVID-19,Liechtenstein,LIE,Europe,
+2024LKAA979,2024,"Dengue fever, unspecified",Sri Lanka,LKA,Asia,South-East Asia Region
+2024LKAU071,2024,COVID-19,Sri Lanka,LKA,Asia,South-East Asia Region
+2024LTUU071,2024,COVID-19,Lithuania,LTU,Europe,European Region
+2024LUXU071,2024,COVID-19,Luxembourg,LUX,Europe,European Region
+2024LVAU071,2024,COVID-19,Latvia,LVA,Europe,European Region
+2024MAFA979,2024,"Dengue fever, unspecified",Saint Martin (French part),MAF,Americas,
+2024MARU071,2024,COVID-19,Morocco,MAR,Africa,Eastern Mediterranean Region
+2024MDAU071,2024,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2024MDGU071,2024,COVID-19,Madagascar,MDG,Africa,African Region
+2024MDVA979,2024,"Dengue fever, unspecified",Maldives,MDV,Asia,South-East Asia Region
+2024MEXA979,2024,"Dengue fever, unspecified",Mexico,MEX,Americas,Region of the Americas
+2024MEXJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,Americas,Region of the Americas
+2024MEXU071,2024,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2024MHLU071,2024,COVID-19,Marshall Islands,MHL,Oceania,Western Pacific Region
+2024MKDU071,2024,COVID-19,North Macedonia,MKD,Europe,European Region
+2024MLIA979,2024,"Dengue fever, unspecified",Mali,MLI,Africa,African Region
+2024MLIU071,2024,COVID-19,Mali,MLI,Africa,African Region
+2024MLTU071,2024,COVID-19,Malta,MLT,Europe,European Region
+2024MMRA979,2024,"Dengue fever, unspecified",Myanmar,MMR,Asia,South-East Asia Region
+2024MMRU071,2024,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2024MNGU071,2024,COVID-19,Mongolia,MNG,Asia,Western Pacific Region
+2024MNPU071,2024,COVID-19,Northern Mariana Islands,MNP,Oceania,
+2024MOZU071,2024,COVID-19,Mozambique,MOZ,Africa,African Region
+2024MRTA979,2024,"Dengue fever, unspecified",Mauritania,MRT,Africa,African Region
+2024MRTU071,2024,COVID-19,Mauritania,MRT,Africa,African Region
+2024MSRA979,2024,"Dengue fever, unspecified",Montserrat,MSR,Americas,
+2024MTQA979,2024,"Dengue fever, unspecified",Martinique,MTQ,Americas,
+2024MUSA979,2024,"Dengue fever, unspecified",Mauritius,MUS,Africa,African Region
+2024MUSU071,2024,COVID-19,Mauritius,MUS,Africa,African Region
+2024MYSA979,2024,"Dengue fever, unspecified",Malaysia,MYS,Asia,Western Pacific Region
+2024MYSU071,2024,COVID-19,Malaysia,MYS,Asia,Western Pacific Region
+2024MYTA979,2024,"Dengue fever, unspecified",Mayotte,MYT,Africa,
+2024NCLA979,2024,"Dengue fever, unspecified",New Caledonia,NCL,Oceania,
+2024NCLU071,2024,COVID-19,New Caledonia,NCL,Oceania,
+2024NERA959,2024,"Yellow fever, unspecified",Niger,NER,Africa,African Region
+2024NERA979,2024,"Dengue fever, unspecified",Niger,NER,Africa,African Region
+2024NERU071,2024,COVID-19,Niger,NER,Africa,African Region
+2024NGAA959,2024,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2024NGAU071,2024,COVID-19,Nigeria,NGA,Africa,African Region
+2024NICA979,2024,"Dengue fever, unspecified",Nicaragua,NIC,Americas,Region of the Americas
+2024NICU071,2024,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2024NIUU071,2024,COVID-19,Niue,NIU,Oceania,Western Pacific Region
+2024NLDA700,2024,Infections due to Chlamydia psittaci,Netherlands,NLD,Europe,European Region
+2024NLDU071,2024,COVID-19,Netherlands,NLD,Europe,European Region
+2024NORU071,2024,COVID-19,Norway,NOR,Europe,European Region
+2024NPLA979,2024,"Dengue fever, unspecified",Nepal,NPL,Asia,South-East Asia Region
+2024NZLU071,2024,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2024PAKA979,2024,"Dengue fever, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2024PANA930,2024,Oropouche virus disease,Panama,PAN,Americas,Region of the Americas
+2024PANA979,2024,"Dengue fever, unspecified",Panama,PAN,Americas,Region of the Americas
+2024PANU071,2024,COVID-19,Panama,PAN,Americas,Region of the Americas
+2024PERA930,2024,Oropouche virus disease,Peru,PER,Americas,Region of the Americas
+2024PERA979,2024,"Dengue fever, unspecified",Peru,PER,Americas,Region of the Americas
+2024PERU071,2024,COVID-19,Peru,PER,Americas,Region of the Americas
+2024PHLU071,2024,COVID-19,Philippines,PHL,Asia,Western Pacific Region
+2024PLWA979,2024,"Dengue fever, unspecified",Palau,PLW,Oceania,Western Pacific Region
+2024PLWU071,2024,COVID-19,Palau,PLW,Oceania,Western Pacific Region
+2024POLU071,2024,COVID-19,Poland,POL,Europe,European Region
+2024PRIA979,2024,"Dengue fever, unspecified",Puerto Rico,PRI,Americas,
+2024PRTU071,2024,COVID-19,Portugal,PRT,Europe,European Region
+2024PRYA979,2024,"Dengue fever, unspecified",Paraguay,PRY,Americas,Region of the Americas
+2024PYFA979,2024,"Dengue fever, unspecified",French Polynesia,PYF,Oceania,
+2024PYFU071,2024,COVID-19,French Polynesia,PYF,Oceania,
+2024REUA979,2024,"Dengue fever, unspecified",RÃ©union,REU,Africa,
+2024ROUU071,2024,COVID-19,Romania,ROU,Europe,European Region
+2024RUSU071,2024,COVID-19,Russian Federation,RUS,Europe,European Region
+2024RWAA983,2024,Marburg disease,Rwanda,RWA,Africa,African Region
+2024RWAB04,2024,Monkeypox,Rwanda,RWA,Africa,African Region
+2024RWAU071,2024,COVID-19,Rwanda,RWA,Africa,African Region
+2024SAUU040,2024,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2024SDNA979,2024,"Dengue fever, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2024SENA979,2024,"Dengue fever, unspecified",Senegal,SEN,Africa,African Region
+2024SENU071,2024,COVID-19,Senegal,SEN,Africa,African Region
+2024SGPA979,2024,"Dengue fever, unspecified",Singapore,SGP,Asia,Western Pacific Region
+2024SGPU071,2024,COVID-19,Singapore,SGP,Asia,Western Pacific Region
+2024SLBA979,2024,"Dengue fever, unspecified",Solomon Islands,SLB,Oceania,Western Pacific Region
+2024SLEU071,2024,COVID-19,Sierra Leone,SLE,Africa,African Region
+2024SLVA979,2024,"Dengue fever, unspecified",El Salvador,SLV,Americas,Region of the Americas
+2024SLVU071,2024,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2024SSDA959,2024,"Yellow fever, unspecified",South Sudan,SSD,Africa,African Region
+2024SSDU071,2024,COVID-19,South Sudan,SSD,Africa,African Region
+2024STPA979,2024,"Dengue fever, unspecified",Sao Tome and Principe,STP,Africa,African Region
+2024STPU071,2024,COVID-19,Sao Tome and Principe,STP,Africa,African Region
+2024SURA979,2024,"Dengue fever, unspecified",Suriname,SUR,Americas,Region of the Americas
+2024SURU071,2024,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2024SVKU071,2024,COVID-19,Slovakia,SVK,Europe,European Region
+2024SVNU071,2024,COVID-19,Slovenia,SVN,Europe,European Region
+2024SWEA700,2024,Infections due to Chlamydia psittaci,Sweden,SWE,Europe,European Region
+2024SWEB04,2024,Monkeypox,Sweden,SWE,Europe,European Region
+2024SWEU071,2024,COVID-19,Sweden,SWE,Europe,European Region
+2024SWZU071,2024,COVID-19,Eswatini,SWZ,Africa,African Region
+2024SXMA979,2024,"Dengue fever, unspecified",Sint Maarten (Dutch part),SXM,Americas,
+2024SYCA979,2024,"Dengue fever, unspecified",Seychelles,SYC,Africa,African Region
+2024SYCU071,2024,COVID-19,Seychelles,SYC,Africa,African Region
+2024TCAA979,2024,"Dengue fever, unspecified",Turks and Caicos Islands,TCA,Americas,
+2024TCAU071,2024,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2024TCDA959,2024,"Yellow fever, unspecified",Chad,TCD,Africa,African Region
+2024TCDB172,2024,Acute hepatitis E,Chad,TCD,Africa,African Region
+2024TCDU071,2024,COVID-19,Chad,TCD,Africa,African Region
+2024TGOA959,2024,"Yellow fever, unspecified",Togo,TGO,Africa,African Region
+2024TGOU071,2024,COVID-19,Togo,TGO,Africa,African Region
+2024THAA979,2024,"Dengue fever, unspecified",Thailand,THA,Asia,South-East Asia Region
+2024THAU071,2024,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2024TKLA979,2024,"Dengue fever, unspecified",Tokelau,TKL,Oceania,
+2024TLSA821,2024,Urban rabies,Timor-Leste,TLS,Asia,South-East Asia Region
+2024TONA979,2024,"Dengue fever, unspecified",Tonga,TON,Oceania,Western Pacific Region
+2024TONU071,2024,COVID-19,Tonga,TON,Oceania,Western Pacific Region
+2024TTOA979,2024,"Dengue fever, unspecified",Trinidad and Tobago,TTO,Americas,Region of the Americas
+2024TURU071,2024,COVID-19,Turkey,TUR,Asia,European Region
+2024TUVA979,2024,"Dengue fever, unspecified",Tuvalu,TUV,Oceania,Western Pacific Region
+2024TZAU071,2024,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2024UGAA959,2024,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2024UGAB04,2024,Monkeypox,Uganda,UGA,Africa,African Region
+2024UGAU071,2024,COVID-19,Uganda,UGA,Africa,African Region
+2024UKRU071,2024,COVID-19,Ukraine,UKR,Europe,European Region
+2024URYA831,2024,Western equine encephalitis,Uruguay,URY,Americas,Region of the Americas
+2024URYA979,2024,"Dengue fever, unspecified",Uruguay,URY,Americas,Region of the Americas
+2024URYU071,2024,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2024USAA930,2024,Oropouche virus disease,United States of America,USA,Americas,Region of the Americas
+2024USAA979,2024,"Dengue fever, unspecified",United States of America,USA,Americas,Region of the Americas
+2024USAJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,Americas,Region of the Americas
+2024UZBU071,2024,COVID-19,Uzbekistan,UZB,Asia,European Region
+2024VCTA979,2024,"Dengue fever, unspecified",Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2024VENU071,2024,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2024VGBA979,2024,"Dengue fever, unspecified",Virgin Islands (British),VGB,Americas,
+2024VGBU071,2024,COVID-19,Virgin Islands (British),VGB,Americas,
+2024VIRA979,2024,"Dengue fever, unspecified",Virgin Islands (U.S.),VIR,Americas,
+2024VNMA979,2024,"Dengue fever, unspecified",Viet Nam,VNM,Asia,Western Pacific Region
+2024VNMJ090,2024,Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,Asia,Western Pacific Region
+2024VUTA979,2024,"Dengue fever, unspecified",Vanuatu,VUT,Oceania,Western Pacific Region
+2024WLFA979,2024,"Dengue fever, unspecified",Wallis and Futuna,WLF,Oceania,
+2024WLFU071,2024,COVID-19,Wallis and Futuna,WLF,Oceania,
+2024WSMA979,2024,"Dengue fever, unspecified",Samoa,WSM,Oceania,Western Pacific Region
+2024WSMU071,2024,COVID-19,Samoa,WSM,Oceania,Western Pacific Region
+2024ZAFB04,2024,Monkeypox,South Africa,ZAF,Africa,African Region
+2024ZAFU071,2024,COVID-19,South Africa,ZAF,Africa,African Region
+2024ZMBU071,2024,COVID-19,Zambia,ZMB,Africa,African Region
+2024ZWEU071,2024,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2023ABWA979,2023,"Dengue fever, unspecified",Aruba,ABW,Americas,
+2023ABWU071,2023,COVID-19,Aruba,ABW,Americas,
+2023AFGA000,2023,Cholera,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2023AFGU071,2023,COVID-19,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2023AGOU071,2023,COVID-19,Angola,AGO,Africa,African Region
+2023AIAA979,2023,"Dengue fever, unspecified",Anguilla,AIA,Americas,
+2023ALBU071,2023,COVID-19,Albania,ALB,Europe,European Region
+2023ANDU071,2023,COVID-19,Andorra,AND,Europe,European Region
+2023AREU040,2023,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2023AREU071,2023,COVID-19,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2023ARGA831,2023,Western equine encephalitis,Argentina,ARG,Americas,Region of the Americas
+2023ARGA920,2023,Chikungunya mosquito-borne viral fever,Argentina,ARG,Americas,Region of the Americas
+2023ARGA979,2023,"Dengue fever, unspecified",Argentina,ARG,Americas,Region of the Americas
+2023ARGU071,2023,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2023ARMU071,2023,COVID-19,Armenia,ARM,Asia,European Region
+2023ASMU071,2023,COVID-19,American Samoa,ASM,Oceania,
+2023ATGA979,2023,"Dengue fever, unspecified",Antigua and Barbuda,ATG,Americas,Region of the Americas
+2023AUSU071,2023,COVID-19,Australia,AUS,Oceania,Western Pacific Region
+2023AUTA051,2023,Botulism,Austria,AUT,Europe,European Region
+2023AUTU071,2023,COVID-19,Austria,AUT,Europe,European Region
+2023AZEU071,2023,COVID-19,Azerbaijan,AZE,Asia,European Region
+2023BDIA000,2023,Cholera,Burundi,BDI,Africa,African Region
+2023BDIA809,2023,"Acute poliomyelitis, unspecified",Burundi,BDI,Africa,African Region
+2023BDIU071,2023,COVID-19,Burundi,BDI,Africa,African Region
+2023BELU071,2023,COVID-19,Belgium,BEL,Europe,European Region
+2023BENU071,2023,COVID-19,Benin,BEN,Africa,African Region
+2023BESU071,2023,COVID-19,Bonaire Sint Eustatius and Saba,BES,Americas,
+2023BFAU071,2023,COVID-19,Burkina Faso,BFA,Africa,African Region
+2023BGDA000,2023,Cholera,Bangladesh,BGD,Asia,South-East Asia Region
+2023BGDA979,2023,"Dengue fever, unspecified",Bangladesh,BGD,Asia,South-East Asia Region
+2023BGDB348,2023,Unspecified viral disease,Bangladesh,BGD,Asia,South-East Asia Region
+2023BGDU071,2023,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2023BGRU071,2023,COVID-19,Bulgaria,BGR,Europe,European Region
+2023BHSA979,2023,"Dengue fever, unspecified",Bahamas,BHS,Americas,Region of the Americas
+2023BHSU071,2023,COVID-19,Bahamas,BHS,Americas,Region of the Americas
+2023BIHU071,2023,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2023BLMA979,2023,"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,Americas,
+2023BLMU071,2023,COVID-19,Saint BarthÃ©lemy,BLM,Americas,
+2023BLZA979,2023,"Dengue fever, unspecified",Belize,BLZ,Americas,Region of the Americas
+2023BLZU071,2023,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2023BMUA979,2023,"Dengue fever, unspecified",Bermuda,BMU,Americas,
+2023BMUU071,2023,COVID-19,Bermuda,BMU,Americas,
+2023BOLA920,2023,Chikungunya mosquito-borne viral fever,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2023BOLA979,2023,"Dengue fever, unspecified",Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2023BOLU071,2023,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2023BRAA920,2023,Chikungunya mosquito-borne viral fever,Brazil,BRA,Americas,Region of the Americas
+2023BRAA979,2023,"Dengue fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2023BRAJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,Americas,Region of the Americas
+2023BRAU071,2023,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2023BRBA979,2023,"Dengue fever, unspecified",Barbados,BRB,Americas,Region of the Americas
+2023BRBU071,2023,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2023BRNU071,2023,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2023BTNU071,2023,COVID-19,Bhutan,BTN,Asia,South-East Asia Region
+2023BWAU071,2023,COVID-19,Botswana,BWA,Africa,African Region
+2023CAFA959,2023,"Yellow fever, unspecified",Central African Republic,CAF,Africa,African Region
+2023CAFU071,2023,COVID-19,Central African Republic,CAF,Africa,African Region
+2023CANU071,2023,COVID-19,Canada,CAN,Americas,Region of the Americas
+2023CHEA051,2023,Botulism,Switzerland,CHE,Europe,European Region
+2023CHEU071,2023,COVID-19,Switzerland,CHE,Europe,European Region
+2023CHLB05,2023,Measles,Chile,CHL,Americas,Region of the Americas
+2023CHLJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Chile,CHL,Americas,Region of the Americas
+2023CHLU071,2023,COVID-19,Chile,CHL,Americas,Region of the Americas
+2023CHNJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2023CHNJ101,2023,"Influenza with other manifestations, seasonal influenza virus identified",China,CHN,Asia,Western Pacific Region
+2023CHNJ121,2023,Human respiratory syncytial virus,China,CHN,Asia,Western Pacific Region
+2023CHNJ157,2023,Pneumonia due to Mycoplasma pneumoniae,China,CHN,Asia,Western Pacific Region
+2023CHNU049,2023,Severe acute respiratory syndrome,China,CHN,Asia,Western Pacific Region
+2023CHNU071,2023,COVID-19,China,CHN,Asia,Western Pacific Region
+2023CIVA959,2023,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2023CIVA979,2023,"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2023CIVU071,2023,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2023CMRA000,2023,Cholera,Cameroon,CMR,Africa,African Region
+2023CMRA959,2023,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2023CMRU071,2023,COVID-19,Cameroon,CMR,Africa,African Region
+2023CODA000,2023,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2023CODA959,2023,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2023CODB04,2023,Monkeypox,Congo Democratic Republic of the,COD,Africa,African Region
+2023CODU071,2023,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2023COGA000,2023,Cholera,Congo,COG,Africa,African Region
+2023COGA010,2023,Typhoid fever,Congo,COG,Africa,African Region
+2023COGA030,2023,Shigellosis due to Shigella dysenteriae,Congo,COG,Africa,African Region
+2023COGA031,2023,Intestinal infections due to Shigella,Congo,COG,Africa,African Region
+2023COGA959,2023,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2023COGU071,2023,COVID-19,Congo,COG,Africa,African Region
+2023COKU071,2023,COVID-19,Cook Islands,COK,Oceania,Western Pacific Region
+2023COLA979,2023,"Dengue fever, unspecified",Colombia,COL,Americas,Region of the Americas
+2023COLU071,2023,COVID-19,Colombia,COL,Americas,Region of the Americas
+2023COMU071,2023,COVID-19,Comoros,COM,Africa,African Region
+2023CPVA979,2023,"Dengue fever, unspecified",Cabo Verde,CPV,Africa,African Region
+2023CPVU071,2023,COVID-19,Cabo Verde,CPV,Africa,African Region
+2023CRIA979,2023,"Dengue fever, unspecified",Costa Rica,CRI,Americas,Region of the Americas
+2023CRIU071,2023,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2023CUBU071,2023,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2023CUWU071,2023,COVID-19,CuraÃ§ao,CUW,Americas,
+2023CYMA979,2023,"Dengue fever, unspecified",Cayman Islands,CYM,Americas,
+2023CYPU071,2023,COVID-19,Cyprus,CYP,Asia,European Region
+2023CZEU071,2023,COVID-19,Czechia,CZE,Europe,European Region
+2023DEUA051,2023,Botulism,Germany,DEU,Europe,European Region
+2023DEUU071,2023,COVID-19,Germany,DEU,Europe,European Region
+2023DMAA979,2023,"Dengue fever, unspecified",Dominica,DMA,Americas,Region of the Americas
+2023DMAU071,2023,COVID-19,Dominica,DMA,Americas,Region of the Americas
+2023DNKU071,2023,COVID-19,Denmark,DNK,Europe,European Region
+2023DOMA000,2023,Cholera,Dominican Republic,DOM,Americas,Region of the Americas
+2023DOMA979,2023,"Dengue fever, unspecified",Dominican Republic,DOM,Americas,Region of the Americas
+2023DOMU071,2023,COVID-19,Dominican Republic,DOM,Americas,Region of the Americas
+2023DZAU071,2023,COVID-19,Algeria,DZA,Africa,African Region
+2023ECUA979,2023,"Dengue fever, unspecified",Ecuador,ECU,Americas,Region of the Americas
+2023ECUJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Ecuador,ECU,Americas,Region of the Americas
+2023ECUU071,2023,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2023EGYU071,2023,COVID-19,Egypt,EGY,Africa,Eastern Mediterranean Region
+2023ESPB341,2023,Enterovirus infection of unspecified site,Spain,ESP,Europe,European Region
+2023ESPU071,2023,COVID-19,Spain,ESP,Europe,European Region
+2023ESTU071,2023,COVID-19,Estonia,EST,Europe,European Region
+2023ETHA000,2023,Cholera,Ethiopia,ETH,Africa,African Region
+2023ETHA979,2023,"Dengue fever, unspecified",Ethiopia,ETH,Africa,African Region
+2023ETHB05,2023,Measles,Ethiopia,ETH,Africa,African Region
+2023ETHU071,2023,COVID-19,Ethiopia,ETH,Africa,African Region
+2023FINU071,2023,COVID-19,Finland,FIN,Europe,European Region
+2023FJIU071,2023,COVID-19,Fiji,FJI,Oceania,Western Pacific Region
+2023FRAA051,2023,Botulism,France,FRA,Europe,European Region
+2023FRAB341,2023,Enterovirus infection of unspecified site,France,FRA,Europe,European Region
+2023FRAU071,2023,COVID-19,France,FRA,Europe,European Region
+2023FSMU071,2023,COVID-19,Micronesia (Federated States of),FSM,Oceania,Western Pacific Region
+2023GABU071,2023,COVID-19,Gabon,GAB,Africa,African Region
+2023GBRB341,2023,Enterovirus infection of unspecified site,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2023GBRB990,2023,"Infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2023GBRJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2023GBRU071,2023,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2023GEOU071,2023,COVID-19,Georgia,GEO,Asia,European Region
+2023GGYU071,2023,COVID-19,Guernsey,GGY,Europe,
+2023GHAA959,2023,"Yellow fever, unspecified",Ghana,GHA,Africa,African Region
+2023GHAU071,2023,COVID-19,Ghana,GHA,Africa,African Region
+2023GIBU071,2023,COVID-19,Gibraltar,GIB,Europe,
+2023GINA369,2023,"Diphtheria, unspecified",Guinea,GIN,Africa,African Region
+2023GINU071,2023,COVID-19,Guinea,GIN,Africa,African Region
+2023GLPA979,2023,"Dengue fever, unspecified",Guadeloupe,GLP,Americas,
+2023GLPU071,2023,COVID-19,Guadeloupe,GLP,Americas,
+2023GMBU071,2023,COVID-19,Gambia,GMB,Africa,African Region
+2023GNBU071,2023,COVID-19,Guinea-Bissau,GNB,Africa,African Region
+2023GNQA983,2023,Marburg disease,Equatorial Guinea,GNQ,Africa,African Region
+2023GNQU071,2023,COVID-19,Equatorial Guinea,GNQ,Africa,African Region
+2023GRCU071,2023,COVID-19,Greece,GRC,Europe,European Region
+2023GRDA979,2023,"Dengue fever, unspecified",Grenada,GRD,Americas,Region of the Americas
+2023GRDU071,2023,COVID-19,Grenada,GRD,Americas,Region of the Americas
+2023GTMA979,2023,"Dengue fever, unspecified",Guatemala,GTM,Americas,Region of the Americas
+2023GTMU071,2023,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2023GUFA979,2023,"Dengue fever, unspecified",French Guiana,GUF,Americas,
+2023GUFU071,2023,COVID-19,French Guiana,GUF,Americas,
+2023GUMU071,2023,COVID-19,Guam,GUM,Oceania,
+2023GUYA979,2023,"Dengue fever, unspecified",Guyana,GUY,Americas,Region of the Americas
+2023GUYU071,2023,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2023HNDA979,2023,"Dengue fever, unspecified",Honduras,HND,Americas,Region of the Americas
+2023HNDU071,2023,COVID-19,Honduras,HND,Americas,Region of the Americas
+2023HRVB341,2023,Enterovirus infection of unspecified site,Croatia,HRV,Europe,European Region
+2023HRVU071,2023,COVID-19,Croatia,HRV,Europe,European Region
+2023HTIA000,2023,Cholera,Haiti,HTI,Americas,Region of the Americas
+2023HTIU071,2023,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2023HUNU071,2023,COVID-19,Hungary,HUN,Europe,European Region
+2023IDNA809,2023,"Acute poliomyelitis, unspecified",Indonesia,IDN,Asia,South-East Asia Region
+2023IDNB05,2023,Measles,Indonesia,IDN,Asia,South-East Asia Region
+2023IDNU071,2023,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2023INDB348,2023,Unspecified viral disease,India,IND,Asia,South-East Asia Region
+2023INDU071,2023,COVID-19,India,IND,Asia,South-East Asia Region
+2023IRLU071,2023,COVID-19,Ireland,IRL,Europe,European Region
+2023IRNU071,2023,COVID-19,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2023IRQU071,2023,COVID-19,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2023ISLU071,2023,COVID-19,Iceland,ISL,Europe,European Region
+2023ISRU071,2023,COVID-19,Israel,ISR,Asia,European Region
+2023ITAB341,2023,Enterovirus infection of unspecified site,Italy,ITA,Europe,European Region
+2023ITAU071,2023,COVID-19,Italy,ITA,Europe,European Region
+2023JAMA979,2023,"Dengue fever, unspecified",Jamaica,JAM,Americas,Region of the Americas
+2023JAMU071,2023,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2023JEYU071,2023,COVID-19,Jersey,JEY,Europe,
+2023JPNU071,2023,COVID-19,Japan,JPN,Asia,Western Pacific Region
+2023KAZU071,2023,COVID-19,Kazakhstan,KAZ,Asia,European Region
+2023KENA000,2023,Cholera,Kenya,KEN,Africa,African Region
+2023KENA809,2023,"Acute poliomyelitis, unspecified",Kenya,KEN,Africa,African Region
+2023KENA959,2023,"Yellow fever, unspecified",Kenya,KEN,Africa,African Region
+2023KENU071,2023,COVID-19,Kenya,KEN,Africa,African Region
+2023KGZU071,2023,COVID-19,Kyrgyzstan,KGZ,Asia,European Region
+2023KHMJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2023KHMU071,2023,COVID-19,Cambodia,KHM,Asia,Western Pacific Region
+2023KIRU071,2023,COVID-19,Kiribati,KIR,Oceania,Western Pacific Region
+2023KNAA979,2023,"Dengue fever, unspecified",Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2023KNAU071,2023,COVID-19,Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2023KORU071,2023,COVID-19,Korea Republic of,KOR,Asia,Western Pacific Region
+2023KWTU071,2023,COVID-19,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2023LAOU071,2023,COVID-19,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2023LBNA000,2023,Cholera,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2023LBNU071,2023,COVID-19,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2023LBYU071,2023,COVID-19,Libya,LBY,Africa,Eastern Mediterranean Region
+2023LCAA979,2023,"Dengue fever, unspecified",Saint Lucia,LCA,Americas,Region of the Americas
+2023LCAU071,2023,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2023LIEU071,2023,COVID-19,Liechtenstein,LIE,Europe,
+2023LKAA979,2023,"Dengue fever, unspecified",Sri Lanka,LKA,Asia,South-East Asia Region
+2023LKAU071,2023,COVID-19,Sri Lanka,LKA,Asia,South-East Asia Region
+2023LSOU071,2023,COVID-19,Lesotho,LSO,Africa,African Region
+2023LTUU071,2023,COVID-19,Lithuania,LTU,Europe,European Region
+2023LUXU071,2023,COVID-19,Luxembourg,LUX,Europe,European Region
+2023LVAU071,2023,COVID-19,Latvia,LVA,Europe,European Region
+2023MAFA979,2023,"Dengue fever, unspecified",Saint Martin (French part),MAF,Americas,
+2023MAFU071,2023,COVID-19,Saint Martin (French part),MAF,Americas,
+2023MARU071,2023,COVID-19,Morocco,MAR,Africa,Eastern Mediterranean Region
+2023MCOU071,2023,COVID-19,Monaco,MCO,Europe,European Region
+2023MDAU071,2023,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2023MDGU071,2023,COVID-19,Madagascar,MDG,Africa,African Region
+2023MDVA979,2023,"Dengue fever, unspecified",Maldives,MDV,Asia,South-East Asia Region
+2023MDVU071,2023,COVID-19,Maldives,MDV,Asia,South-East Asia Region
+2023MEXA979,2023,"Dengue fever, unspecified",Mexico,MEX,Americas,Region of the Americas
+2023MEXG009,2023,"Bacterial meningitis, unspecified",Mexico,MEX,Americas,Region of the Americas
+2023MEXU071,2023,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2023MHLU071,2023,COVID-19,Marshall Islands,MHL,Oceania,Western Pacific Region
+2023MKDU071,2023,COVID-19,North Macedonia,MKD,Europe,European Region
+2023MLIU071,2023,COVID-19,Mali,MLI,Africa,African Region
+2023MLTU071,2023,COVID-19,Malta,MLT,Europe,European Region
+2023MMRU071,2023,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2023MNEU071,2023,COVID-19,Montenegro,MNE,Europe,European Region
+2023MNGU071,2023,COVID-19,Mongolia,MNG,Asia,Western Pacific Region
+2023MNPU071,2023,COVID-19,Northern Mariana Islands,MNP,Oceania,
+2023MOZA000,2023,Cholera,Mozambique,MOZ,Africa,African Region
+2023MOZU071,2023,COVID-19,Mozambique,MOZ,Africa,African Region
+2023MRTA979,2023,"Dengue fever, unspecified",Mauritania,MRT,Africa,African Region
+2023MRTU071,2023,COVID-19,Mauritania,MRT,Africa,African Region
+2023MSRA979,2023,"Dengue fever, unspecified",Montserrat,MSR,Americas,
+2023MTQA979,2023,"Dengue fever, unspecified",Martinique,MTQ,Americas,
+2023MTQU071,2023,COVID-19,Martinique,MTQ,Americas,
+2023MUSA979,2023,"Dengue fever, unspecified",Mauritius,MUS,Africa,African Region
+2023MUSU071,2023,COVID-19,Mauritius,MUS,Africa,African Region
+2023MWIA000,2023,Cholera,Malawi,MWI,Africa,African Region
+2023MWIU071,2023,COVID-19,Malawi,MWI,Africa,African Region
+2023MYSU071,2023,COVID-19,Malaysia,MYS,Asia,Western Pacific Region
+2023MYTU071,2023,COVID-19,Mayotte,MYT,Africa,
+2023NCLU071,2023,COVID-19,New Caledonia,NCL,Oceania,
+2023NERA959,2023,"Yellow fever, unspecified",Niger,NER,Africa,African Region
+2023NERG009,2023,"Bacterial meningitis, unspecified",Niger,NER,Africa,African Region
+2023NERU071,2023,COVID-19,Niger,NER,Africa,African Region
+2023NGAA000,2023,Cholera,Nigeria,NGA,Africa,African Region
+2023NGAA369,2023,"Diphtheria, unspecified",Nigeria,NGA,Africa,African Region
+2023NGAA959,2023,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2023NGAA962,2023,Lassa fever,Nigeria,NGA,Africa,African Region
+2023NGAG009,2023,"Bacterial meningitis, unspecified",Nigeria,NGA,Africa,African Region
+2023NGAU071,2023,COVID-19,Nigeria,NGA,Africa,African Region
+2023NICA979,2023,"Dengue fever, unspecified",Nicaragua,NIC,Americas,Region of the Americas
+2023NICU071,2023,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2023NIUU071,2023,COVID-19,Niue,NIU,Oceania,Western Pacific Region
+2023NLDJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Netherlands,NLD,Europe,European Region
+2023NLDU071,2023,COVID-19,Netherlands,NLD,Europe,European Region
+2023NORU071,2023,COVID-19,Norway,NOR,Europe,European Region
+2023NPLA979,2023,"Dengue fever, unspecified",Nepal,NPL,Asia,South-East Asia Region
+2023NPLB05,2023,Measles,Nepal,NPL,Asia,South-East Asia Region
+2023NPLU071,2023,COVID-19,Nepal,NPL,Asia,South-East Asia Region
+2023NRUU071,2023,COVID-19,Nauru,NRU,Oceania,Western Pacific Region
+2023NZLU071,2023,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2023OMNU040,2023,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2023OMNU071,2023,COVID-19,Oman,OMN,Asia,Eastern Mediterranean Region
+2023PAKA000,2023,Cholera,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2023PAKA979,2023,"Dengue fever, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2023PAKU071,2023,COVID-19,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2023PANA979,2023,"Dengue fever, unspecified",Panama,PAN,Americas,Region of the Americas
+2023PANU071,2023,COVID-19,Panama,PAN,Americas,Region of the Americas
+2023PERA920,2023,Chikungunya mosquito-borne viral fever,Peru,PER,Americas,Region of the Americas
+2023PERA979,2023,"Dengue fever, unspecified",Peru,PER,Americas,Region of the Americas
+2023PERG610,2023,Guillain Barre syndrome,Peru,PER,Americas,Region of the Americas
+2023PERU071,2023,COVID-19,Peru,PER,Americas,Region of the Americas
+2023PHLA000,2023,Cholera,Philippines,PHL,Asia,Western Pacific Region
+2023PHLU071,2023,COVID-19,Philippines,PHL,Asia,Western Pacific Region
+2023PLWU071,2023,COVID-19,Palau,PLW,Oceania,Western Pacific Region
+2023PNGU071,2023,COVID-19,Papua New Guinea,PNG,Oceania,Western Pacific Region
+2023POLA481,2023,Legionnaires disease,Poland,POL,Europe,European Region
+2023POLJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,Poland,POL,Europe,European Region
+2023POLU071,2023,COVID-19,Poland,POL,Europe,European Region
+2023PRIA979,2023,"Dengue fever, unspecified",Puerto Rico,PRI,Americas,
+2023PRIU071,2023,COVID-19,Puerto Rico,PRI,Americas,
+2023PRTU071,2023,COVID-19,Portugal,PRT,Europe,European Region
+2023PRYA920,2023,Chikungunya mosquito-borne viral fever,Paraguay,PRY,Americas,Region of the Americas
+2023PRYA979,2023,"Dengue fever, unspecified",Paraguay,PRY,Americas,Region of the Americas
+2023PRYB05,2023,Measles,Paraguay,PRY,Americas,Region of the Americas
+2023PRYU071,2023,COVID-19,Paraguay,PRY,Americas,Region of the Americas
+2023PYFU071,2023,COVID-19,French Polynesia,PYF,Oceania,
+2023QATU071,2023,COVID-19,Qatar,QAT,Asia,Eastern Mediterranean Region
+2023REUU071,2023,COVID-19,RÃ©union,REU,Africa,
+2023ROUU071,2023,COVID-19,Romania,ROU,Europe,European Region
+2023RUSU071,2023,COVID-19,Russian Federation,RUS,Europe,European Region
+2023RWAU071,2023,COVID-19,Rwanda,RWA,Africa,African Region
+2023SAUU040,2023,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2023SAUU071,2023,COVID-19,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2023SDNA809,2023,"Acute poliomyelitis, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2023SDNA979,2023,"Dengue fever, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2023SDNU071,2023,COVID-19,Sudan,SDN,Africa,Eastern Mediterranean Region
+2023SENU071,2023,COVID-19,Senegal,SEN,Africa,African Region
+2023SGPU071,2023,COVID-19,Singapore,SGP,Asia,Western Pacific Region
+2023SLBU071,2023,COVID-19,Solomon Islands,SLB,Oceania,Western Pacific Region
+2023SLEA959,2023,"Yellow fever, unspecified",Sierra Leone,SLE,Africa,African Region
+2023SLEU071,2023,COVID-19,Sierra Leone,SLE,Africa,African Region
+2023SLVA979,2023,"Dengue fever, unspecified",El Salvador,SLV,Americas,Region of the Americas
+2023SLVU071,2023,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2023SMRU071,2023,COVID-19,San Marino,SMR,Europe,European Region
+2023SOMA000,2023,Cholera,Somalia,SOM,Africa,Eastern Mediterranean Region
+2023SOMU071,2023,COVID-19,Somalia,SOM,Africa,Eastern Mediterranean Region
+2023SPMU071,2023,COVID-19,Saint Pierre and Miquelon,SPM,Americas,
+2023SRBU071,2023,COVID-19,Serbia,SRB,Europe,European Region
+2023SSDB05,2023,Measles,South Sudan,SSD,Africa,African Region
+2023SSDB172,2023,Acute hepatitis E,South Sudan,SSD,Africa,African Region
+2023SSDU071,2023,COVID-19,South Sudan,SSD,Africa,African Region
+2023STPA979,2023,"Dengue fever, unspecified",Sao Tome and Principe,STP,Africa,African Region
+2023STPU071,2023,COVID-19,Sao Tome and Principe,STP,Africa,African Region
+2023SURA979,2023,"Dengue fever, unspecified",Suriname,SUR,Americas,Region of the Americas
+2023SURU071,2023,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2023SVKU071,2023,COVID-19,Slovakia,SVK,Europe,European Region
+2023SVNU071,2023,COVID-19,Slovenia,SVN,Europe,European Region
+2023SWEB341,2023,Enterovirus infection of unspecified site,Sweden,SWE,Europe,European Region
+2023SWEU071,2023,COVID-19,Sweden,SWE,Europe,European Region
+2023SWZU071,2023,COVID-19,Eswatini,SWZ,Africa,African Region
+2023SXMA979,2023,"Dengue fever, unspecified",Sint Maarten (Dutch part),SXM,Americas,
+2023SXMU071,2023,COVID-19,Sint Maarten (Dutch part),SXM,Americas,
+2023SYCA979,2023,"Dengue fever, unspecified",Seychelles,SYC,Africa,African Region
+2023SYCU071,2023,COVID-19,Seychelles,SYC,Africa,African Region
+2023SYRA000,2023,Cholera,Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2023TCAA979,2023,"Dengue fever, unspecified",Turks and Caicos Islands,TCA,Americas,
+2023TCAU071,2023,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2023TCDA959,2023,"Yellow fever, unspecified",Chad,TCD,Africa,African Region
+2023TCDA979,2023,"Dengue fever, unspecified",Chad,TCD,Africa,African Region
+2023TCDU071,2023,COVID-19,Chad,TCD,Africa,African Region
+2023TGOA979,2023,"Dengue fever, unspecified",Togo,TGO,Africa,African Region
+2023TGOG009,2023,"Bacterial meningitis, unspecified",Togo,TGO,Africa,African Region
+2023TGOU071,2023,COVID-19,Togo,TGO,Africa,African Region
+2023THAA979,2023,"Dengue fever, unspecified",Thailand,THA,Asia,South-East Asia Region
+2023THAU071,2023,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2023TKLU071,2023,COVID-19,Tokelau,TKL,Oceania,
+2023TLSU071,2023,COVID-19,Timor-Leste,TLS,Asia,South-East Asia Region
+2023TONU071,2023,COVID-19,Tonga,TON,Oceania,Western Pacific Region
+2023TTOA979,2023,"Dengue fever, unspecified",Trinidad and Tobago,TTO,Americas,Region of the Americas
+2023TTOU071,2023,COVID-19,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2023TUNU071,2023,COVID-19,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2023TURA051,2023,Botulism,Turkey,TUR,Asia,European Region
+2023TURU071,2023,COVID-19,Turkey,TUR,Asia,European Region
+2023TUVU071,2023,COVID-19,Tuvalu,TUV,Oceania,Western Pacific Region
+2023TZAA809,2023,"Acute poliomyelitis, unspecified",Tanzania United Republic of,TZA,Africa,African Region
+2023TZAA983,2023,Marburg disease,Tanzania United Republic of,TZA,Africa,African Region
+2023TZAU071,2023,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2023UGAA959,2023,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2023UGAA984,2023,Ebola disease,Uganda,UGA,Africa,African Region
+2023UGAU071,2023,COVID-19,Uganda,UGA,Africa,African Region
+2023UKRU071,2023,COVID-19,Ukraine,UKR,Europe,European Region
+2023URYA979,2023,"Dengue fever, unspecified",Uruguay,URY,Americas,Region of the Americas
+2023URYU071,2023,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2023USAG009,2023,"Bacterial meningitis, unspecified",United States of America,USA,Americas,Region of the Americas
+2023USAJ090,2023,Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,Americas,Region of the Americas
+2023USAU071,2023,COVID-19,United States of America,USA,Americas,Region of the Americas
+2023UZBU071,2023,COVID-19,Uzbekistan,UZB,Asia,European Region
+2023VCTA979,2023,"Dengue fever, unspecified",Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2023VCTU071,2023,COVID-19,Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2023VENA979,2023,"Dengue fever, unspecified",Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2023VENU071,2023,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2023VGBA979,2023,"Dengue fever, unspecified",Virgin Islands (British),VGB,Americas,
+2023VGBU071,2023,COVID-19,Virgin Islands (British),VGB,Americas,
+2023VIRU071,2023,COVID-19,Virgin Islands (U.S.),VIR,Americas,
+2023VNMU071,2023,COVID-19,Viet Nam,VNM,Asia,Western Pacific Region
+2023VUTU071,2023,COVID-19,Vanuatu,VUT,Oceania,Western Pacific Region
+2023WLFU071,2023,COVID-19,Wallis and Futuna,WLF,Oceania,
+2023WSMU071,2023,COVID-19,Samoa,WSM,Oceania,Western Pacific Region
+2023ZAFB05,2023,Measles,South Africa,ZAF,Africa,African Region
+2023ZAFU071,2023,COVID-19,South Africa,ZAF,Africa,African Region
+2023ZMBA000,2023,Cholera,Zambia,ZMB,Africa,African Region
+2023ZMBA220,2023,Cutaneous anthrax,Zambia,ZMB,Africa,African Region
+2023ZMBU071,2023,COVID-19,Zambia,ZMB,Africa,African Region
+2023ZWEU071,2023,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2022ABWU071,2022,COVID-19,Aruba,ABW,Americas,
+2022AFGA000,2022,Cholera,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2022AFGB05,2022,Measles,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2022AFGU071,2022,COVID-19,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2022AGOU071,2022,COVID-19,Angola,AGO,Africa,African Region
+2022AIAU071,2022,COVID-19,Anguilla,AIA,Americas,
+2022ALBU071,2022,COVID-19,Albania,ALB,Europe,European Region
+2022ANDU071,2022,COVID-19,Andorra,AND,Europe,European Region
+2022AREB04,2022,Monkeypox,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2022AREU071,2022,COVID-19,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2022ARGA481,2022,Legionnaires disease,Argentina,ARG,Americas,Region of the Americas
+2022ARGB04,2022,Monkeypox,Argentina,ARG,Americas,Region of the Americas
+2022ARGB179,2022,"Acute viral hepatitis, unspecified",Argentina,ARG,Americas,Region of the Americas
+2022ARGU071,2022,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2022ARMU071,2022,COVID-19,Armenia,ARM,Asia,European Region
+2022ASMU071,2022,COVID-19,American Samoa,ASM,Oceania,
+2022ATGU071,2022,COVID-19,Antigua and Barbuda,ATG,Americas,Region of the Americas
+2022AUSA830,2022,Japanese encephalitis virus disease,Australia,AUS,Oceania,Western Pacific Region
+2022AUSB04,2022,Monkeypox,Australia,AUS,Oceania,Western Pacific Region
+2022AUSU071,2022,COVID-19,Australia,AUS,Oceania,Western Pacific Region
+2022AUTB04,2022,Monkeypox,Austria,AUT,Europe,European Region
+2022AUTB179,2022,"Acute viral hepatitis, unspecified",Austria,AUT,Europe,European Region
+2022AUTU071,2022,COVID-19,Austria,AUT,Europe,European Region
+2022AZEU071,2022,COVID-19,Azerbaijan,AZE,Asia,European Region
+2022BDIA000,2022,Cholera,Burundi,BDI,Africa,African Region
+2022BDIU071,2022,COVID-19,Burundi,BDI,Africa,African Region
+2022BELA029,2022,Infections due to other Salmonella,Belgium,BEL,Europe,European Region
+2022BELB04,2022,Monkeypox,Belgium,BEL,Europe,European Region
+2022BELB179,2022,"Acute viral hepatitis, unspecified",Belgium,BEL,Europe,European Region
+2022BELU071,2022,COVID-19,Belgium,BEL,Europe,European Region
+2022BENA000,2022,Cholera,Benin,BEN,Africa,African Region
+2022BENB04,2022,Monkeypox,Benin,BEN,Africa,African Region
+2022BENU071,2022,COVID-19,Benin,BEN,Africa,African Region
+2022BESU071,2022,COVID-19,Bonaire Sint Eustatius and Saba,BES,Americas,
+2022BFAA000,2022,Cholera,Burkina Faso,BFA,Africa,African Region
+2022BFAU071,2022,COVID-19,Burkina Faso,BFA,Africa,African Region
+2022BGDA000,2022,Cholera,Bangladesh,BGD,Asia,South-East Asia Region
+2022BGDA979,2022,"Dengue fever, unspecified",Bangladesh,BGD,Asia,South-East Asia Region
+2022BGDU071,2022,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2022BGRB179,2022,"Acute viral hepatitis, unspecified",Bulgaria,BGR,Europe,European Region
+2022BGRU071,2022,COVID-19,Bulgaria,BGR,Europe,European Region
+2022BHRU071,2022,COVID-19,Bahrain,BHR,Asia,Eastern Mediterranean Region
+2022BHSU071,2022,COVID-19,Bahamas,BHS,Americas,Region of the Americas
+2022BIHU071,2022,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2022BLMU071,2022,COVID-19,Saint BarthÃ©lemy,BLM,Americas,
+2022BLRU071,2022,COVID-19,Belarus,BLR,Europe,European Region
+2022BLZU071,2022,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2022BMUU071,2022,COVID-19,Bermuda,BMU,Americas,
+2022BOLU071,2022,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2022BRAB04,2022,Monkeypox,Brazil,BRA,Americas,Region of the Americas
+2022BRAB179,2022,"Acute viral hepatitis, unspecified",Brazil,BRA,Americas,Region of the Americas
+2022BRAU071,2022,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2022BRBU071,2022,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2022BRNU071,2022,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2022BTNU071,2022,COVID-19,Bhutan,BTN,Asia,South-East Asia Region
+2022BWAU071,2022,COVID-19,Botswana,BWA,Africa,African Region
+2022CAFA959,2022,"Yellow fever, unspecified",Central African Republic,CAF,Africa,African Region
+2022CAFB04,2022,Monkeypox,Central African Republic,CAF,Africa,African Region
+2022CAFU071,2022,COVID-19,Central African Republic,CAF,Africa,African Region
+2022CANB04,2022,Monkeypox,Canada,CAN,Americas,Region of the Americas
+2022CANB179,2022,"Acute viral hepatitis, unspecified",Canada,CAN,Americas,Region of the Americas
+2022CANU071,2022,COVID-19,Canada,CAN,Americas,Region of the Americas
+2022CHEB04,2022,Monkeypox,Switzerland,CHE,Europe,European Region
+2022CHEU071,2022,COVID-19,Switzerland,CHE,Europe,European Region
+2022CHLU071,2022,COVID-19,Chile,CHL,Americas,Region of the Americas
+2022CHNA000,2022,Cholera,China,CHN,Asia,Western Pacific Region
+2022CHNJ090,2022,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2022CHNU071,2022,COVID-19,China,CHN,Asia,Western Pacific Region
+2022CIVA959,2022,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2022CIVU071,2022,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2022CMRA000,2022,Cholera,Cameroon,CMR,Africa,African Region
+2022CMRA959,2022,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2022CMRB04,2022,Monkeypox,Cameroon,CMR,Africa,African Region
+2022CMRU071,2022,COVID-19,Cameroon,CMR,Africa,African Region
+2022CODA000,2022,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2022CODA959,2022,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2022CODA984,2022,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2022CODB04,2022,Monkeypox,Congo Democratic Republic of the,COD,Africa,African Region
+2022CODU071,2022,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2022COGA959,2022,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2022COGB04,2022,Monkeypox,Congo,COG,Africa,African Region
+2022COGU071,2022,COVID-19,Congo,COG,Africa,African Region
+2022COKU071,2022,COVID-19,Cook Islands,COK,Oceania,Western Pacific Region
+2022COLB179,2022,"Acute viral hepatitis, unspecified",Colombia,COL,Americas,Region of the Americas
+2022COLU071,2022,COVID-19,Colombia,COL,Americas,Region of the Americas
+2022COMU071,2022,COVID-19,Comoros,COM,Africa,African Region
+2022CPVU071,2022,COVID-19,Cabo Verde,CPV,Africa,African Region
+2022CRIB04,2022,Monkeypox,Costa Rica,CRI,Americas,Region of the Americas
+2022CRIB179,2022,"Acute viral hepatitis, unspecified",Costa Rica,CRI,Americas,Region of the Americas
+2022CRIU071,2022,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2022CUBU071,2022,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2022CUWU071,2022,COVID-19,CuraÃ§ao,CUW,Americas,
+2022CYMU071,2022,COVID-19,Cayman Islands,CYM,Americas,
+2022CYPB179,2022,"Acute viral hepatitis, unspecified",Cyprus,CYP,Asia,European Region
+2022CYPU071,2022,COVID-19,Cyprus,CYP,Asia,European Region
+2022CZEB04,2022,Monkeypox,Czechia,CZE,Europe,European Region
+2022CZEU071,2022,COVID-19,Czechia,CZE,Europe,European Region
+2022DEUA029,2022,Infections due to other Salmonella,Germany,DEU,Europe,European Region
+2022DEUB04,2022,Monkeypox,Germany,DEU,Europe,European Region
+2022DEUJ090,2022,Influenza due to identified zoonotic or pandemic influenza virus,Germany,DEU,Europe,European Region
+2022DEUU071,2022,COVID-19,Germany,DEU,Europe,European Region
+2022DJIU071,2022,COVID-19,Djibouti,DJI,Africa,Eastern Mediterranean Region
+2022DMAU071,2022,COVID-19,Dominica,DMA,Americas,Region of the Americas
+2022DNKA031,2022,Intestinal infections due to Shigella,Denmark,DNK,Europe,European Region
+2022DNKB04,2022,Monkeypox,Denmark,DNK,Europe,European Region
+2022DNKB179,2022,"Acute viral hepatitis, unspecified",Denmark,DNK,Europe,European Region
+2022DNKU071,2022,COVID-19,Denmark,DNK,Europe,European Region
+2022DOMU071,2022,COVID-19,Dominican Republic,DOM,Americas,Region of the Americas
+2022DZAA809,2022,"Acute poliomyelitis, unspecified",Algeria,DZA,Africa,African Region
+2022DZAU071,2022,COVID-19,Algeria,DZA,Africa,African Region
+2022ECUU071,2022,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2022EGYU071,2022,COVID-19,Egypt,EGY,Africa,Eastern Mediterranean Region
+2022ERIU071,2022,COVID-19,Eritrea,ERI,Africa,African Region
+2022ESPA029,2022,Infections due to other Salmonella,Spain,ESP,Europe,European Region
+2022ESPA031,2022,Intestinal infections due to Shigella,Spain,ESP,Europe,European Region
+2022ESPB04,2022,Monkeypox,Spain,ESP,Europe,European Region
+2022ESPB179,2022,"Acute viral hepatitis, unspecified",Spain,ESP,Europe,European Region
+2022ESPJ090,2022,Influenza due to identified zoonotic or pandemic influenza virus,Spain,ESP,Europe,European Region
+2022ESPU071,2022,COVID-19,Spain,ESP,Europe,European Region
+2022ESTU071,2022,COVID-19,Estonia,EST,Europe,European Region
+2022ETHA000,2022,Cholera,Ethiopia,ETH,Africa,African Region
+2022ETHU071,2022,COVID-19,Ethiopia,ETH,Africa,African Region
+2022FINB04,2022,Monkeypox,Finland,FIN,Europe,European Region
+2022FINU071,2022,COVID-19,Finland,FIN,Europe,European Region
+2022FJIU071,2022,COVID-19,Fiji,FJI,Oceania,Western Pacific Region
+2022FLKU071,2022,COVID-19,Falkland Islands (Malvinas),FLK,Americas,
+2022FRAA029,2022,Infections due to other Salmonella,France,FRA,Europe,European Region
+2022FRAA380,2022,Scarlet fever,France,FRA,Europe,European Region
+2022FRAA400,2022,"Sepsis due to streptococcus, group A",France,FRA,Europe,European Region
+2022FRAB04,2022,Monkeypox,France,FRA,Europe,European Region
+2022FRAB179,2022,"Acute viral hepatitis, unspecified",France,FRA,Europe,European Region
+2022FRAU071,2022,COVID-19,France,FRA,Europe,European Region
+2022FROU071,2022,COVID-19,Faroe Islands,FRO,Europe,
+2022FSMU071,2022,COVID-19,Micronesia (Federated States of),FSM,Oceania,Western Pacific Region
+2022GABU071,2022,COVID-19,Gabon,GAB,Africa,African Region
+2022GBRA029,2022,Infections due to other Salmonella,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRA031,2022,Intestinal infections due to Shigella,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRA380,2022,Scarlet fever,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRA400,2022,"Sepsis due to streptococcus, group A",United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRA809,2022,"Acute poliomyelitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRA962,2022,Lassa fever,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRB04,2022,Monkeypox,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRB179,2022,"Acute viral hepatitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRJ090,2022,Influenza due to identified zoonotic or pandemic influenza virus,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GBRU071,2022,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2022GEOB04,2022,Monkeypox,Georgia,GEO,Asia,European Region
+2022GEOU071,2022,COVID-19,Georgia,GEO,Asia,European Region
+2022GGYU071,2022,COVID-19,Guernsey,GGY,Europe,
+2022GHAA959,2022,"Yellow fever, unspecified",Ghana,GHA,Africa,African Region
+2022GHAA983,2022,Marburg disease,Ghana,GHA,Africa,African Region
+2022GHAB04,2022,Monkeypox,Ghana,GHA,Africa,African Region
+2022GHAU071,2022,COVID-19,Ghana,GHA,Africa,African Region
+2022GIBB04,2022,Monkeypox,Gibraltar,GIB,Europe,
+2022GIBU071,2022,COVID-19,Gibraltar,GIB,Europe,
+2022GINA962,2022,Lassa fever,Guinea,GIN,Africa,African Region
+2022GINU071,2022,COVID-19,Guinea,GIN,Africa,African Region
+2022GLPU071,2022,COVID-19,Guadeloupe,GLP,Americas,
+2022GMBU071,2022,COVID-19,Gambia,GMB,Africa,African Region
+2022GNBU071,2022,COVID-19,Guinea-Bissau,GNB,Africa,African Region
+2022GNQU071,2022,COVID-19,Equatorial Guinea,GNQ,Africa,African Region
+2022GRCB04,2022,Monkeypox,Greece,GRC,Europe,European Region
+2022GRCB179,2022,"Acute viral hepatitis, unspecified",Greece,GRC,Europe,European Region
+2022GRCU071,2022,COVID-19,Greece,GRC,Europe,European Region
+2022GRDU071,2022,COVID-19,Grenada,GRD,Americas,Region of the Americas
+2022GRLU071,2022,COVID-19,Greenland,GRL,Americas,
+2022GTMU071,2022,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2022GUFB04,2022,Monkeypox,French Guiana,GUF,Americas,
+2022GUFU071,2022,COVID-19,French Guiana,GUF,Americas,
+2022GUMU071,2022,COVID-19,Guam,GUM,Oceania,
+2022GUYU071,2022,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2022HNDU071,2022,COVID-19,Honduras,HND,Americas,Region of the Americas
+2022HRVU071,2022,COVID-19,Croatia,HRV,Europe,European Region
+2022HTIA000,2022,Cholera,Haiti,HTI,Americas,Region of the Americas
+2022HTIU071,2022,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2022HUNB04,2022,Monkeypox,Hungary,HUN,Europe,European Region
+2022HUNU071,2022,COVID-19,Hungary,HUN,Europe,European Region
+2022IDNA809,2022,"Acute poliomyelitis, unspecified",Indonesia,IDN,Asia,South-East Asia Region
+2022IDNB179,2022,"Acute viral hepatitis, unspecified",Indonesia,IDN,Asia,South-East Asia Region
+2022IDNU071,2022,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2022IMNU071,2022,COVID-19,Isle of Man,IMN,Europe,
+2022INDA000,2022,Cholera,India,IND,Asia,South-East Asia Region
+2022INDU071,2022,COVID-19,India,IND,Asia,South-East Asia Region
+2022IRLA029,2022,Infections due to other Salmonella,Ireland,IRL,Europe,European Region
+2022IRLA400,2022,"Sepsis due to streptococcus, group A",Ireland,IRL,Europe,European Region
+2022IRLB04,2022,Monkeypox,Ireland,IRL,Europe,European Region
+2022IRLB179,2022,"Acute viral hepatitis, unspecified",Ireland,IRL,Europe,European Region
+2022IRLU071,2022,COVID-19,Ireland,IRL,Europe,European Region
+2022IRNA000,2022,Cholera,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2022IRNU071,2022,COVID-19,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2022IRQA000,2022,Cholera,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2022IRQA980,2022,Crimean-Congo haemorrhagic fever,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2022IRQU071,2022,COVID-19,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2022ISLB04,2022,Monkeypox,Iceland,ISL,Europe,European Region
+2022ISLU071,2022,COVID-19,Iceland,ISL,Europe,European Region
+2022ISRA809,2022,"Acute poliomyelitis, unspecified",Israel,ISR,Asia,European Region
+2022ISRB04,2022,Monkeypox,Israel,ISR,Asia,European Region
+2022ISRB179,2022,"Acute viral hepatitis, unspecified",Israel,ISR,Asia,European Region
+2022ISRU071,2022,COVID-19,Israel,ISR,Asia,European Region
+2022ITAB04,2022,Monkeypox,Italy,ITA,Europe,European Region
+2022ITAB179,2022,"Acute viral hepatitis, unspecified",Italy,ITA,Europe,European Region
+2022ITAU071,2022,COVID-19,Italy,ITA,Europe,European Region
+2022JAMU071,2022,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2022JEYU071,2022,COVID-19,Jersey,JEY,Europe,
+2022JORU071,2022,COVID-19,Jordan,JOR,Asia,Eastern Mediterranean Region
+2022JPNB179,2022,"Acute viral hepatitis, unspecified",Japan,JPN,Asia,Western Pacific Region
+2022JPNU071,2022,COVID-19,Japan,JPN,Asia,Western Pacific Region
+2022KAZU071,2022,COVID-19,Kazakhstan,KAZ,Asia,European Region
+2022KENA000,2022,Cholera,Kenya,KEN,Africa,African Region
+2022KENA959,2022,"Yellow fever, unspecified",Kenya,KEN,Africa,African Region
+2022KENU071,2022,COVID-19,Kenya,KEN,Africa,African Region
+2022KGZU071,2022,COVID-19,Kyrgyzstan,KGZ,Asia,European Region
+2022KHMU071,2022,COVID-19,Cambodia,KHM,Asia,Western Pacific Region
+2022KIRU071,2022,COVID-19,Kiribati,KIR,Oceania,Western Pacific Region
+2022KNAU071,2022,COVID-19,Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2022KORB04,2022,Monkeypox,Korea Republic of,KOR,Asia,Western Pacific Region
+2022KORB179,2022,"Acute viral hepatitis, unspecified",Korea Republic of,KOR,Asia,Western Pacific Region
+2022KORU071,2022,COVID-19,Korea Republic of,KOR,Asia,Western Pacific Region
+2022KWTU071,2022,COVID-19,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2022LAOU071,2022,COVID-19,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2022LBNA000,2022,Cholera,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2022LBNB04,2022,Monkeypox,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2022LBNU071,2022,COVID-19,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2022LBRU071,2022,COVID-19,Liberia,LBR,Africa,African Region
+2022LBYU071,2022,COVID-19,Libya,LBY,Africa,Eastern Mediterranean Region
+2022LCAU071,2022,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2022LIEU071,2022,COVID-19,Liechtenstein,LIE,Europe,
+2022LKAU071,2022,COVID-19,Sri Lanka,LKA,Asia,South-East Asia Region
+2022LSOU071,2022,COVID-19,Lesotho,LSO,Africa,African Region
+2022LTUU071,2022,COVID-19,Lithuania,LTU,Europe,European Region
+2022LUXA029,2022,Infections due to other Salmonella,Luxembourg,LUX,Europe,European Region
+2022LUXB04,2022,Monkeypox,Luxembourg,LUX,Europe,European Region
+2022LUXU071,2022,COVID-19,Luxembourg,LUX,Europe,European Region
+2022LVAB04,2022,Monkeypox,Latvia,LVA,Europe,European Region
+2022LVAB179,2022,"Acute viral hepatitis, unspecified",Latvia,LVA,Europe,European Region
+2022LVAU071,2022,COVID-19,Latvia,LVA,Europe,European Region
+2022MAFU071,2022,COVID-19,Saint Martin (French part),MAF,Americas,
+2022MARB04,2022,Monkeypox,Morocco,MAR,Africa,Eastern Mediterranean Region
+2022MARU071,2022,COVID-19,Morocco,MAR,Africa,Eastern Mediterranean Region
+2022MCOU071,2022,COVID-19,Monaco,MCO,Europe,European Region
+2022MDAB179,2022,"Acute viral hepatitis, unspecified",Moldova Republic of,MDA,Europe,European Region
+2022MDAU071,2022,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2022MDGU071,2022,COVID-19,Madagascar,MDG,Africa,African Region
+2022MDVB179,2022,"Acute viral hepatitis, unspecified",Maldives,MDV,Asia,South-East Asia Region
+2022MDVU071,2022,COVID-19,Maldives,MDV,Asia,South-East Asia Region
+2022MEXB04,2022,Monkeypox,Mexico,MEX,Americas,Region of the Americas
+2022MEXB179,2022,"Acute viral hepatitis, unspecified",Mexico,MEX,Americas,Region of the Americas
+2022MEXU071,2022,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2022MHLU071,2022,COVID-19,Marshall Islands,MHL,Oceania,Western Pacific Region
+2022MKDU071,2022,COVID-19,North Macedonia,MKD,Europe,European Region
+2022MLIU071,2022,COVID-19,Mali,MLI,Africa,African Region
+2022MLTB04,2022,Monkeypox,Malta,MLT,Europe,European Region
+2022MLTU071,2022,COVID-19,Malta,MLT,Europe,European Region
+2022MMRU071,2022,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2022MNEU071,2022,COVID-19,Montenegro,MNE,Europe,European Region
+2022MNGU071,2022,COVID-19,Mongolia,MNG,Asia,Western Pacific Region
+2022MNPU071,2022,COVID-19,Northern Mariana Islands,MNP,Oceania,
+2022MOZA000,2022,Cholera,Mozambique,MOZ,Africa,African Region
+2022MOZA809,2022,"Acute poliomyelitis, unspecified",Mozambique,MOZ,Africa,African Region
+2022MOZU071,2022,COVID-19,Mozambique,MOZ,Africa,African Region
+2022MRTA924,2022,Rift Valley fever,Mauritania,MRT,Africa,African Region
+2022MRTU071,2022,COVID-19,Mauritania,MRT,Africa,African Region
+2022MSRU071,2022,COVID-19,Montserrat,MSR,Americas,
+2022MTQU071,2022,COVID-19,Martinique,MTQ,Americas,
+2022MUSU071,2022,COVID-19,Mauritius,MUS,Africa,African Region
+2022MWIA000,2022,Cholera,Malawi,MWI,Africa,African Region
+2022MWIA809,2022,"Acute poliomyelitis, unspecified",Malawi,MWI,Africa,African Region
+2022MWIU071,2022,COVID-19,Malawi,MWI,Africa,African Region
+2022MYSU071,2022,COVID-19,Malaysia,MYS,Asia,Western Pacific Region
+2022MYTU071,2022,COVID-19,Mayotte,MYT,Africa,
+2022NCLU071,2022,COVID-19,New Caledonia,NCL,Oceania,
+2022NERA000,2022,Cholera,Niger,NER,Africa,African Region
+2022NERA959,2022,"Yellow fever, unspecified",Niger,NER,Africa,African Region
+2022NERU071,2022,COVID-19,Niger,NER,Africa,African Region
+2022NGAA000,2022,Cholera,Nigeria,NGA,Africa,African Region
+2022NGAA959,2022,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2022NGAA962,2022,Lassa fever,Nigeria,NGA,Africa,African Region
+2022NGAB04,2022,Monkeypox,Nigeria,NGA,Africa,African Region
+2022NGAU071,2022,COVID-19,Nigeria,NGA,Africa,African Region
+2022NICU071,2022,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2022NIUU071,2022,COVID-19,Niue,NIU,Oceania,Western Pacific Region
+2022NLDA029,2022,Infections due to other Salmonella,Netherlands,NLD,Europe,European Region
+2022NLDA400,2022,"Sepsis due to streptococcus, group A",Netherlands,NLD,Europe,European Region
+2022NLDB04,2022,Monkeypox,Netherlands,NLD,Europe,European Region
+2022NLDB179,2022,"Acute viral hepatitis, unspecified",Netherlands,NLD,Europe,European Region
+2022NLDU071,2022,COVID-19,Netherlands,NLD,Europe,European Region
+2022NORA029,2022,Infections due to other Salmonella,Norway,NOR,Europe,European Region
+2022NORB04,2022,Monkeypox,Norway,NOR,Europe,European Region
+2022NORB179,2022,"Acute viral hepatitis, unspecified",Norway,NOR,Europe,European Region
+2022NORU071,2022,COVID-19,Norway,NOR,Europe,European Region
+2022NPLA000,2022,Cholera,Nepal,NPL,Asia,South-East Asia Region
+2022NPLA979,2022,"Dengue fever, unspecified",Nepal,NPL,Asia,South-East Asia Region
+2022NPLU071,2022,COVID-19,Nepal,NPL,Asia,South-East Asia Region
+2022NRUU071,2022,COVID-19,Nauru,NRU,Oceania,Western Pacific Region
+2022NZLU071,2022,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2022OMNU040,2022,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2022OMNU071,2022,COVID-19,Oman,OMN,Asia,Eastern Mediterranean Region
+2022PAKA000,2022,Cholera,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2022PAKA979,2022,"Dengue fever, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2022PAKB509,2022,"Malaria due to Plasmodium falciparum, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2022PAKB518,2022,Malaria due to Plasmodium vivax with other complications,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2022PAKU071,2022,COVID-19,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2022PANB179,2022,"Acute viral hepatitis, unspecified",Panama,PAN,Americas,Region of the Americas
+2022PANU071,2022,COVID-19,Panama,PAN,Americas,Region of the Americas
+2022PCNU071,2022,COVID-19,Pitcairn,PCN,Oceania,
+2022PERU071,2022,COVID-19,Peru,PER,Americas,Region of the Americas
+2022PHLA000,2022,Cholera,Philippines,PHL,Asia,Western Pacific Region
+2022PHLU071,2022,COVID-19,Philippines,PHL,Asia,Western Pacific Region
+2022PLWU071,2022,COVID-19,Palau,PLW,Oceania,Western Pacific Region
+2022PNGU071,2022,COVID-19,Papua New Guinea,PNG,Oceania,Western Pacific Region
+2022POLB04,2022,Monkeypox,Poland,POL,Europe,European Region
+2022POLB179,2022,"Acute viral hepatitis, unspecified",Poland,POL,Europe,European Region
+2022POLU071,2022,COVID-19,Poland,POL,Europe,European Region
+2022PRIU071,2022,COVID-19,Puerto Rico,PRI,Americas,
+2022PRTB04,2022,Monkeypox,Portugal,PRT,Europe,European Region
+2022PRTB179,2022,"Acute viral hepatitis, unspecified",Portugal,PRT,Europe,European Region
+2022PRTU071,2022,COVID-19,Portugal,PRT,Europe,European Region
+2022PRYU071,2022,COVID-19,Paraguay,PRY,Americas,Region of the Americas
+2022PSEB179,2022,"Acute viral hepatitis, unspecified",Palestine State of,PSE,Asia,
+2022PSEU071,2022,COVID-19,Palestine State of,PSE,Asia,
+2022PYFU071,2022,COVID-19,French Polynesia,PYF,Oceania,
+2022QATB179,2022,"Acute viral hepatitis, unspecified",Qatar,QAT,Asia,Eastern Mediterranean Region
+2022QATU040,2022,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2022QATU071,2022,COVID-19,Qatar,QAT,Asia,Eastern Mediterranean Region
+2022REUU071,2022,COVID-19,RÃ©union,REU,Africa,
+2022ROUB04,2022,Monkeypox,Romania,ROU,Europe,European Region
+2022ROUB179,2022,"Acute viral hepatitis, unspecified",Romania,ROU,Europe,European Region
+2022ROUU071,2022,COVID-19,Romania,ROU,Europe,European Region
+2022RUSU071,2022,COVID-19,Russian Federation,RUS,Europe,European Region
+2022RWAU071,2022,COVID-19,Rwanda,RWA,Africa,African Region
+2022SAUU040,2022,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2022SAUU071,2022,COVID-19,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2022SDNB04,2022,Monkeypox,Sudan,SDN,Africa,Eastern Mediterranean Region
+2022SDNU071,2022,COVID-19,Sudan,SDN,Africa,Eastern Mediterranean Region
+2022SENU071,2022,COVID-19,Senegal,SEN,Africa,African Region
+2022SGPB04,2022,Monkeypox,Singapore,SGP,Asia,Western Pacific Region
+2022SGPB179,2022,"Acute viral hepatitis, unspecified",Singapore,SGP,Asia,Western Pacific Region
+2022SGPU071,2022,COVID-19,Singapore,SGP,Asia,Western Pacific Region
+2022SHNU071,2022,COVID-19,Saint Helena Ascension and Tristan da Cunha,SHN,Africa,
+2022SLBU071,2022,COVID-19,Solomon Islands,SLB,Oceania,Western Pacific Region
+2022SLEA959,2022,"Yellow fever, unspecified",Sierra Leone,SLE,Africa,African Region
+2022SLEU071,2022,COVID-19,Sierra Leone,SLE,Africa,African Region
+2022SLVU071,2022,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2022SMRU071,2022,COVID-19,San Marino,SMR,Europe,European Region
+2022SOMA000,2022,Cholera,Somalia,SOM,Africa,Eastern Mediterranean Region
+2022SOMB05,2022,Measles,Somalia,SOM,Africa,Eastern Mediterranean Region
+2022SOMU071,2022,COVID-19,Somalia,SOM,Africa,Eastern Mediterranean Region
+2022SPMU071,2022,COVID-19,Saint Pierre and Miquelon,SPM,Americas,
+2022SRBB04,2022,Monkeypox,Serbia,SRB,Europe,European Region
+2022SRBB179,2022,"Acute viral hepatitis, unspecified",Serbia,SRB,Europe,European Region
+2022SRBU071,2022,COVID-19,Serbia,SRB,Europe,European Region
+2022SSDA000,2022,Cholera,South Sudan,SSD,Africa,African Region
+2022SSDU071,2022,COVID-19,South Sudan,SSD,Africa,African Region
+2022STPA979,2022,"Dengue fever, unspecified",Sao Tome and Principe,STP,Africa,African Region
+2022STPU071,2022,COVID-19,Sao Tome and Principe,STP,Africa,African Region
+2022SURU071,2022,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2022SVKB04,2022,Monkeypox,Slovakia,SVK,Europe,European Region
+2022SVKB179,2022,"Acute viral hepatitis, unspecified",Slovakia,SVK,Europe,European Region
+2022SVKU071,2022,COVID-19,Slovakia,SVK,Europe,European Region
+2022SVNB04,2022,Monkeypox,Slovenia,SVN,Europe,European Region
+2022SVNB179,2022,"Acute viral hepatitis, unspecified",Slovenia,SVN,Europe,European Region
+2022SVNU071,2022,COVID-19,Slovenia,SVN,Europe,European Region
+2022SWEA029,2022,Infections due to other Salmonella,Sweden,SWE,Europe,European Region
+2022SWEA400,2022,"Sepsis due to streptococcus, group A",Sweden,SWE,Europe,European Region
+2022SWEB04,2022,Monkeypox,Sweden,SWE,Europe,European Region
+2022SWEB179,2022,"Acute viral hepatitis, unspecified",Sweden,SWE,Europe,European Region
+2022SWEU071,2022,COVID-19,Sweden,SWE,Europe,European Region
+2022SWZU071,2022,COVID-19,Eswatini,SWZ,Africa,African Region
+2022SXMU071,2022,COVID-19,Sint Maarten (Dutch part),SXM,Americas,
+2022SYCU071,2022,COVID-19,Seychelles,SYC,Africa,African Region
+2022SYRA000,2022,Cholera,Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2022SYRU071,2022,COVID-19,Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2022TCAU071,2022,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2022TCDA959,2022,"Yellow fever, unspecified",Chad,TCD,Africa,African Region
+2022TCDB172,2022,Acute hepatitis E,Chad,TCD,Africa,African Region
+2022TCDU071,2022,COVID-19,Chad,TCD,Africa,African Region
+2022TGOA962,2022,Lassa fever,Togo,TGO,Africa,African Region
+2022TGOU071,2022,COVID-19,Togo,TGO,Africa,African Region
+2022THAU071,2022,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2022TJKU071,2022,COVID-19,Tajikistan,TJK,Asia,European Region
+2022TKLU071,2022,COVID-19,Tokelau,TKL,Oceania,
+2022TLSA979,2022,"Dengue fever, unspecified",Timor-Leste,TLS,Asia,South-East Asia Region
+2022TLSU071,2022,COVID-19,Timor-Leste,TLS,Asia,South-East Asia Region
+2022TONU071,2022,COVID-19,Tonga,TON,Oceania,Western Pacific Region
+2022TTOU071,2022,COVID-19,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2022TUNU071,2022,COVID-19,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2022TURU071,2022,COVID-19,Turkey,TUR,Asia,European Region
+2022TUVU071,2022,COVID-19,Tuvalu,TUV,Oceania,Western Pacific Region
+2022TZAA000,2022,Cholera,Tanzania United Republic of,TZA,Africa,African Region
+2022TZAA279,2022,"Leptospirosis, unspecified",Tanzania United Republic of,TZA,Africa,African Region
+2022TZAU071,2022,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2022UGAA959,2022,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2022UGAA984,2022,Ebola disease,Uganda,UGA,Africa,African Region
+2022UGAU071,2022,COVID-19,Uganda,UGA,Africa,African Region
+2022UKRU071,2022,COVID-19,Ukraine,UKR,Europe,European Region
+2022URYU071,2022,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2022USAA029,2022,Infections due to other Salmonella,United States of America,USA,Americas,Region of the Americas
+2022USAB04,2022,Monkeypox,United States of America,USA,Americas,Region of the Americas
+2022USAB179,2022,"Acute viral hepatitis, unspecified",United States of America,USA,Americas,Region of the Americas
+2022USAJ090,2022,Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,Americas,Region of the Americas
+2022USAU071,2022,COVID-19,United States of America,USA,Americas,Region of the Americas
+2022UZBU071,2022,COVID-19,Uzbekistan,UZB,Asia,European Region
+2022VCTU071,2022,COVID-19,Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2022VENB04,2022,Monkeypox,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2022VENU071,2022,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2022VGBU071,2022,COVID-19,Virgin Islands (British),VGB,Americas,
+2022VIRU071,2022,COVID-19,Virgin Islands (U.S.),VIR,Americas,
+2022VNMU071,2022,COVID-19,Viet Nam,VNM,Asia,Western Pacific Region
+2022VUTU071,2022,COVID-19,Vanuatu,VUT,Oceania,Western Pacific Region
+2022WLFU071,2022,COVID-19,Wallis and Futuna,WLF,Oceania,
+2022WSMU071,2022,COVID-19,Samoa,WSM,Oceania,Western Pacific Region
+2022YEMA000,2022,Cholera,Yemen,YEM,Asia,Eastern Mediterranean Region
+2022YEMU071,2022,COVID-19,Yemen,YEM,Asia,Eastern Mediterranean Region
+2022ZAFB04,2022,Monkeypox,South Africa,ZAF,Africa,African Region
+2022ZAFU071,2022,COVID-19,South Africa,ZAF,Africa,African Region
+2022ZMBA000,2022,Cholera,Zambia,ZMB,Africa,African Region
+2022ZMBU071,2022,COVID-19,Zambia,ZMB,Africa,African Region
+2022ZWEA000,2022,Cholera,Zimbabwe,ZWE,Africa,African Region
+2022ZWEU071,2022,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2021ABWU071,2021,COVID-19,Aruba,ABW,Americas,
+2021AFGU071,2021,COVID-19,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2021AGOA809,2021,"Acute poliomyelitis, unspecified",Angola,AGO,Africa,African Region
+2021AGOU071,2021,COVID-19,Angola,AGO,Africa,African Region
+2021AIAU071,2021,COVID-19,Anguilla,AIA,Americas,
+2021ALBU071,2021,COVID-19,Albania,ALB,Europe,European Region
+2021ANDU071,2021,COVID-19,Andorra,AND,Europe,European Region
+2021AREU040,2021,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2021AREU071,2021,COVID-19,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2021ARGU071,2021,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2021ARMU071,2021,COVID-19,Armenia,ARM,Asia,European Region
+2021ASMU071,2021,COVID-19,American Samoa,ASM,Oceania,
+2021ATGU071,2021,COVID-19,Antigua and Barbuda,ATG,Americas,Region of the Americas
+2021AUSU071,2021,COVID-19,Australia,AUS,Oceania,Western Pacific Region
+2021AUTU071,2021,COVID-19,Austria,AUT,Europe,European Region
+2021AZEU071,2021,COVID-19,Azerbaijan,AZE,Asia,European Region
+2021BDIU071,2021,COVID-19,Burundi,BDI,Africa,African Region
+2021BELU071,2021,COVID-19,Belgium,BEL,Europe,European Region
+2021BENA809,2021,"Acute poliomyelitis, unspecified",Benin,BEN,Africa,African Region
+2021BENU071,2021,COVID-19,Benin,BEN,Africa,African Region
+2021BESU071,2021,COVID-19,Bonaire Sint Eustatius and Saba,BES,Americas,
+2021BFAA809,2021,"Acute poliomyelitis, unspecified",Burkina Faso,BFA,Africa,African Region
+2021BFAU071,2021,COVID-19,Burkina Faso,BFA,Africa,African Region
+2021BGDU071,2021,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2021BGRU071,2021,COVID-19,Bulgaria,BGR,Europe,European Region
+2021BHRU071,2021,COVID-19,Bahrain,BHR,Asia,Eastern Mediterranean Region
+2021BHSU071,2021,COVID-19,Bahamas,BHS,Americas,Region of the Americas
+2021BIHU071,2021,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2021BLMU071,2021,COVID-19,Saint BarthÃ©lemy,BLM,Americas,
+2021BLRU071,2021,COVID-19,Belarus,BLR,Europe,European Region
+2021BLZU071,2021,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2021BMUU071,2021,COVID-19,Bermuda,BMU,Americas,
+2021BOLU071,2021,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2021BRAJ090,2021,Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,Americas,Region of the Americas
+2021BRAU071,2021,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2021BRBU071,2021,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2021BRNU071,2021,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2021BTNU071,2021,COVID-19,Bhutan,BTN,Asia,South-East Asia Region
+2021BWAU071,2021,COVID-19,Botswana,BWA,Africa,African Region
+2021CAFA809,2021,"Acute poliomyelitis, unspecified",Central African Republic,CAF,Africa,African Region
+2021CAFA959,2021,"Yellow fever, unspecified",Central African Republic,CAF,Africa,African Region
+2021CAFU071,2021,COVID-19,Central African Republic,CAF,Africa,African Region
+2021CANU071,2021,COVID-19,Canada,CAN,Americas,Region of the Americas
+2021CHEU071,2021,COVID-19,Switzerland,CHE,Europe,European Region
+2021CHLU071,2021,COVID-19,Chile,CHL,Americas,Region of the Americas
+2021CHNJ090,2021,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2021CHNU071,2021,COVID-19,China,CHN,Asia,Western Pacific Region
+2021CIVA809,2021,"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2021CIVA959,2021,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2021CIVU071,2021,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2021CMRA000,2021,Cholera,Cameroon,CMR,Africa,African Region
+2021CMRA809,2021,"Acute poliomyelitis, unspecified",Cameroon,CMR,Africa,African Region
+2021CMRA959,2021,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2021CMRU071,2021,COVID-19,Cameroon,CMR,Africa,African Region
+2021CODA809,2021,"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2021CODA879,2021,"Viral meningitis not elsewhere classified, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2021CODA959,2021,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2021CODA984,2021,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2021CODU071,2021,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2021COGA809,2021,"Acute poliomyelitis, unspecified",Congo,COG,Africa,African Region
+2021COGA959,2021,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2021COGU071,2021,COVID-19,Congo,COG,Africa,African Region
+2021COLU071,2021,COVID-19,Colombia,COL,Americas,Region of the Americas
+2021COMU071,2021,COVID-19,Comoros,COM,Africa,African Region
+2021CPVU071,2021,COVID-19,Cabo Verde,CPV,Africa,African Region
+2021CRIU071,2021,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2021CUBU071,2021,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2021CUWU071,2021,COVID-19,CuraÃ§ao,CUW,Americas,
+2021CYMU071,2021,COVID-19,Cayman Islands,CYM,Americas,
+2021CYPU071,2021,COVID-19,Cyprus,CYP,Asia,European Region
+2021CZEU071,2021,COVID-19,Czechia,CZE,Europe,European Region
+2021DEUU071,2021,COVID-19,Germany,DEU,Europe,European Region
+2021DJIU071,2021,COVID-19,Djibouti,DJI,Africa,Eastern Mediterranean Region
+2021DMAU071,2021,COVID-19,Dominica,DMA,Americas,Region of the Americas
+2021DNKU071,2021,COVID-19,Denmark,DNK,Europe,European Region
+2021DOMU071,2021,COVID-19,Dominican Republic,DOM,Americas,Region of the Americas
+2021DZAU071,2021,COVID-19,Algeria,DZA,Africa,African Region
+2021ECUU071,2021,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2021EGYU071,2021,COVID-19,Egypt,EGY,Africa,Eastern Mediterranean Region
+2021ERIU071,2021,COVID-19,Eritrea,ERI,Africa,African Region
+2021ESPU071,2021,COVID-19,Spain,ESP,Europe,European Region
+2021ESTU071,2021,COVID-19,Estonia,EST,Europe,European Region
+2021ETHA809,2021,"Acute poliomyelitis, unspecified",Ethiopia,ETH,Africa,African Region
+2021ETHU071,2021,COVID-19,Ethiopia,ETH,Africa,African Region
+2021FINU071,2021,COVID-19,Finland,FIN,Europe,European Region
+2021FJIU071,2021,COVID-19,Fiji,FJI,Oceania,Western Pacific Region
+2021FLKU071,2021,COVID-19,Falkland Islands (Malvinas),FLK,Americas,
+2021FRAU071,2021,COVID-19,France,FRA,Europe,European Region
+2021FROU071,2021,COVID-19,Faroe Islands,FRO,Europe,
+2021GABU071,2021,COVID-19,Gabon,GAB,Africa,African Region
+2021GBRB04,2021,Monkeypox,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2021GBRU071,2021,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2021GEOU071,2021,COVID-19,Georgia,GEO,Asia,European Region
+2021GGYU071,2021,COVID-19,Guernsey,GGY,Europe,
+2021GHAA809,2021,"Acute poliomyelitis, unspecified",Ghana,GHA,Africa,African Region
+2021GHAA959,2021,"Yellow fever, unspecified",Ghana,GHA,Africa,African Region
+2021GHAU071,2021,COVID-19,Ghana,GHA,Africa,African Region
+2021GIBU071,2021,COVID-19,Gibraltar,GIB,Europe,
+2021GINA809,2021,"Acute poliomyelitis, unspecified",Guinea,GIN,Africa,African Region
+2021GINA983,2021,Marburg disease,Guinea,GIN,Africa,African Region
+2021GINA984,2021,Ebola disease,Guinea,GIN,Africa,African Region
+2021GINU071,2021,COVID-19,Guinea,GIN,Africa,African Region
+2021GLPU071,2021,COVID-19,Guadeloupe,GLP,Americas,
+2021GMBU071,2021,COVID-19,Gambia,GMB,Africa,African Region
+2021GNBU071,2021,COVID-19,Guinea-Bissau,GNB,Africa,African Region
+2021GNQU071,2021,COVID-19,Equatorial Guinea,GNQ,Africa,African Region
+2021GRCU071,2021,COVID-19,Greece,GRC,Europe,European Region
+2021GRDU071,2021,COVID-19,Grenada,GRD,Americas,Region of the Americas
+2021GRLU071,2021,COVID-19,Greenland,GRL,Americas,
+2021GTMU071,2021,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2021GUFU071,2021,COVID-19,French Guiana,GUF,Americas,
+2021GUMU071,2021,COVID-19,Guam,GUM,Oceania,
+2021GUYU071,2021,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2021HNDU071,2021,COVID-19,Honduras,HND,Americas,Region of the Americas
+2021HRVU071,2021,COVID-19,Croatia,HRV,Europe,European Region
+2021HTIU071,2021,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2021HUNU071,2021,COVID-19,Hungary,HUN,Europe,European Region
+2021IDNU071,2021,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2021IMNU071,2021,COVID-19,Isle of Man,IMN,Europe,
+2021INDA925,2021,Zika virus disease,India,IND,Asia,South-East Asia Region
+2021INDB348,2021,Unspecified viral disease,India,IND,Asia,South-East Asia Region
+2021INDJ090,2021,Influenza due to identified zoonotic or pandemic influenza virus,India,IND,Asia,South-East Asia Region
+2021INDU071,2021,COVID-19,India,IND,Asia,South-East Asia Region
+2021IRLU071,2021,COVID-19,Ireland,IRL,Europe,European Region
+2021IRNU071,2021,COVID-19,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2021IRQU071,2021,COVID-19,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2021ISLU071,2021,COVID-19,Iceland,ISL,Europe,European Region
+2021ISRU071,2021,COVID-19,Israel,ISR,Asia,European Region
+2021ITAU071,2021,COVID-19,Italy,ITA,Europe,European Region
+2021JAMU071,2021,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2021JEYU071,2021,COVID-19,Jersey,JEY,Europe,
+2021JORU071,2021,COVID-19,Jordan,JOR,Asia,Eastern Mediterranean Region
+2021JPNU071,2021,COVID-19,Japan,JPN,Asia,Western Pacific Region
+2021KAZU071,2021,COVID-19,Kazakhstan,KAZ,Asia,European Region
+2021KENA809,2021,"Acute poliomyelitis, unspecified",Kenya,KEN,Africa,African Region
+2021KENA924,2021,Rift Valley fever,Kenya,KEN,Africa,African Region
+2021KENU071,2021,COVID-19,Kenya,KEN,Africa,African Region
+2021KGZU071,2021,COVID-19,Kyrgyzstan,KGZ,Asia,European Region
+2021KHMU071,2021,COVID-19,Cambodia,KHM,Asia,Western Pacific Region
+2021KNAU071,2021,COVID-19,Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2021KORU071,2021,COVID-19,Korea Republic of,KOR,Asia,Western Pacific Region
+2021KWTU071,2021,COVID-19,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2021LAOU071,2021,COVID-19,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2021LBNU071,2021,COVID-19,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2021LBRA809,2021,"Acute poliomyelitis, unspecified",Liberia,LBR,Africa,African Region
+2021LBRU071,2021,COVID-19,Liberia,LBR,Africa,African Region
+2021LBYU071,2021,COVID-19,Libya,LBY,Africa,Eastern Mediterranean Region
+2021LCAU071,2021,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2021LIEU071,2021,COVID-19,Liechtenstein,LIE,Europe,
+2021LKAU071,2021,COVID-19,Sri Lanka,LKA,Asia,South-East Asia Region
+2021LSOU071,2021,COVID-19,Lesotho,LSO,Africa,African Region
+2021LTUU071,2021,COVID-19,Lithuania,LTU,Europe,European Region
+2021LUXU071,2021,COVID-19,Luxembourg,LUX,Europe,European Region
+2021LVAU071,2021,COVID-19,Latvia,LVA,Europe,European Region
+2021MAFU071,2021,COVID-19,Saint Martin (French part),MAF,Americas,
+2021MARU071,2021,COVID-19,Morocco,MAR,Africa,Eastern Mediterranean Region
+2021MCOU071,2021,COVID-19,Monaco,MCO,Europe,European Region
+2021MDAU071,2021,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2021MDGA209,2021,"Plague, unspecified",Madagascar,MDG,Africa,African Region
+2021MDGU071,2021,COVID-19,Madagascar,MDG,Africa,African Region
+2021MDVU071,2021,COVID-19,Maldives,MDV,Asia,South-East Asia Region
+2021MEXU071,2021,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2021MKDU071,2021,COVID-19,North Macedonia,MKD,Europe,European Region
+2021MLIA809,2021,"Acute poliomyelitis, unspecified",Mali,MLI,Africa,African Region
+2021MLIU071,2021,COVID-19,Mali,MLI,Africa,African Region
+2021MLTU071,2021,COVID-19,Malta,MLT,Europe,European Region
+2021MMRU071,2021,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2021MNEU071,2021,COVID-19,Montenegro,MNE,Europe,European Region
+2021MNGU071,2021,COVID-19,Mongolia,MNG,Asia,Western Pacific Region
+2021MNPU071,2021,COVID-19,Northern Mariana Islands,MNP,Oceania,
+2021MOZU071,2021,COVID-19,Mozambique,MOZ,Africa,African Region
+2021MRTU071,2021,COVID-19,Mauritania,MRT,Africa,African Region
+2021MSRU071,2021,COVID-19,Montserrat,MSR,Americas,
+2021MTQU071,2021,COVID-19,Martinique,MTQ,Americas,
+2021MUSU071,2021,COVID-19,Mauritius,MUS,Africa,African Region
+2021MWIU071,2021,COVID-19,Malawi,MWI,Africa,African Region
+2021MYSU071,2021,COVID-19,Malaysia,MYS,Asia,Western Pacific Region
+2021MYTU071,2021,COVID-19,Mayotte,MYT,Africa,
+2021NCLU071,2021,COVID-19,New Caledonia,NCL,Oceania,
+2021NERA809,2021,"Acute poliomyelitis, unspecified",Niger,NER,Africa,African Region
+2021NERA959,2021,"Yellow fever, unspecified",Niger,NER,Africa,African Region
+2021NERU071,2021,COVID-19,Niger,NER,Africa,African Region
+2021NGAA809,2021,"Acute poliomyelitis, unspecified",Nigeria,NGA,Africa,African Region
+2021NGAA959,2021,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2021NGAU071,2021,COVID-19,Nigeria,NGA,Africa,African Region
+2021NICU071,2021,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2021NLDU071,2021,COVID-19,Netherlands,NLD,Europe,European Region
+2021NORU071,2021,COVID-19,Norway,NOR,Europe,European Region
+2021NPLU071,2021,COVID-19,Nepal,NPL,Asia,South-East Asia Region
+2021NZLU071,2021,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2021OMNU071,2021,COVID-19,Oman,OMN,Asia,Eastern Mediterranean Region
+2021PAKA979,2021,"Dengue fever, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2021PAKU071,2021,COVID-19,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2021PANU071,2021,COVID-19,Panama,PAN,Americas,Region of the Americas
+2021PERU071,2021,COVID-19,Peru,PER,Americas,Region of the Americas
+2021PHLU071,2021,COVID-19,Philippines,PHL,Asia,Western Pacific Region
+2021PLWU071,2021,COVID-19,Palau,PLW,Oceania,Western Pacific Region
+2021PNGU071,2021,COVID-19,Papua New Guinea,PNG,Oceania,Western Pacific Region
+2021POLU071,2021,COVID-19,Poland,POL,Europe,European Region
+2021PRIU071,2021,COVID-19,Puerto Rico,PRI,Americas,
+2021PRTU071,2021,COVID-19,Portugal,PRT,Europe,European Region
+2021PRYU071,2021,COVID-19,Paraguay,PRY,Americas,Region of the Americas
+2021PSEU071,2021,COVID-19,Palestine State of,PSE,Asia,
+2021PYFU071,2021,COVID-19,French Polynesia,PYF,Oceania,
+2021QATU071,2021,COVID-19,Qatar,QAT,Asia,Eastern Mediterranean Region
+2021REUU071,2021,COVID-19,RÃ©union,REU,Africa,
+2021ROUU071,2021,COVID-19,Romania,ROU,Europe,European Region
+2021RUSJ090,2021,Influenza due to identified zoonotic or pandemic influenza virus,Russian Federation,RUS,Europe,European Region
+2021RUSU071,2021,COVID-19,Russian Federation,RUS,Europe,European Region
+2021RWAU071,2021,COVID-19,Rwanda,RWA,Africa,African Region
+2021SAUU040,2021,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2021SAUU071,2021,COVID-19,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2021SDNU071,2021,COVID-19,Sudan,SDN,Africa,Eastern Mediterranean Region
+2021SENA809,2021,"Acute poliomyelitis, unspecified",Senegal,SEN,Africa,African Region
+2021SENU071,2021,COVID-19,Senegal,SEN,Africa,African Region
+2021SGPU071,2021,COVID-19,Singapore,SGP,Asia,Western Pacific Region
+2021SLBU071,2021,COVID-19,Solomon Islands,SLB,Oceania,Western Pacific Region
+2021SLEA809,2021,"Acute poliomyelitis, unspecified",Sierra Leone,SLE,Africa,African Region
+2021SLEU071,2021,COVID-19,Sierra Leone,SLE,Africa,African Region
+2021SLVU071,2021,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2021SMRU071,2021,COVID-19,San Marino,SMR,Europe,European Region
+2021SOMU071,2021,COVID-19,Somalia,SOM,Africa,Eastern Mediterranean Region
+2021SPMU071,2021,COVID-19,Saint Pierre and Miquelon,SPM,Americas,
+2021SRBU071,2021,COVID-19,Serbia,SRB,Europe,European Region
+2021SSDA809,2021,"Acute poliomyelitis, unspecified",South Sudan,SSD,Africa,African Region
+2021SSDB172,2021,Acute hepatitis E,South Sudan,SSD,Africa,African Region
+2021SSDU071,2021,COVID-19,South Sudan,SSD,Africa,African Region
+2021STPU071,2021,COVID-19,Sao Tome and Principe,STP,Africa,African Region
+2021SURU071,2021,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2021SVKU071,2021,COVID-19,Slovakia,SVK,Europe,European Region
+2021SVNU071,2021,COVID-19,Slovenia,SVN,Europe,European Region
+2021SWEU071,2021,COVID-19,Sweden,SWE,Europe,European Region
+2021SWZU071,2021,COVID-19,Eswatini,SWZ,Africa,African Region
+2021SXMU071,2021,COVID-19,Sint Maarten (Dutch part),SXM,Americas,
+2021SYCU071,2021,COVID-19,Seychelles,SYC,Africa,African Region
+2021SYRU071,2021,COVID-19,Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2021TCAU071,2021,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2021TCDA809,2021,"Acute poliomyelitis, unspecified",Chad,TCD,Africa,African Region
+2021TCDA959,2021,"Yellow fever, unspecified",Chad,TCD,Africa,African Region
+2021TCDU071,2021,COVID-19,Chad,TCD,Africa,African Region
+2021TGOA000,2021,Cholera,Togo,TGO,Africa,African Region
+2021TGOA809,2021,"Acute poliomyelitis, unspecified",Togo,TGO,Africa,African Region
+2021TGOU071,2021,COVID-19,Togo,TGO,Africa,African Region
+2021THAU071,2021,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2021TJKU071,2021,COVID-19,Tajikistan,TJK,Asia,European Region
+2021TLSU071,2021,COVID-19,Timor-Leste,TLS,Asia,South-East Asia Region
+2021TONU071,2021,COVID-19,Tonga,TON,Oceania,Western Pacific Region
+2021TTOU071,2021,COVID-19,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2021TUNU071,2021,COVID-19,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2021TURU071,2021,COVID-19,Turkey,TUR,Asia,European Region
+2021TZAU071,2021,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2021UGAU071,2021,COVID-19,Uganda,UGA,Africa,African Region
+2021UKRA809,2021,"Acute poliomyelitis, unspecified",Ukraine,UKR,Europe,European Region
+2021UKRU071,2021,COVID-19,Ukraine,UKR,Europe,European Region
+2021URYU071,2021,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2021USAB04,2021,Monkeypox,United States of America,USA,Americas,Region of the Americas
+2021USAJ090,2021,Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,Americas,Region of the Americas
+2021USAU071,2021,COVID-19,United States of America,USA,Americas,Region of the Americas
+2021UZBU071,2021,COVID-19,Uzbekistan,UZB,Asia,European Region
+2021VCTU071,2021,COVID-19,Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2021VENA959,2021,"Yellow fever, unspecified",Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2021VENU071,2021,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2021VGBU071,2021,COVID-19,Virgin Islands (British),VGB,Americas,
+2021VIRU071,2021,COVID-19,Virgin Islands (U.S.),VIR,Americas,
+2021VNMU071,2021,COVID-19,Viet Nam,VNM,Asia,Western Pacific Region
+2021VUTU071,2021,COVID-19,Vanuatu,VUT,Oceania,Western Pacific Region
+2021WLFU071,2021,COVID-19,Wallis and Futuna,WLF,Oceania,
+2021WSMU071,2021,COVID-19,Samoa,WSM,Oceania,Western Pacific Region
+2021YEMA809,2021,"Acute poliomyelitis, unspecified",Yemen,YEM,Asia,Eastern Mediterranean Region
+2021YEMU071,2021,COVID-19,Yemen,YEM,Asia,Eastern Mediterranean Region
+2021ZAFU071,2021,COVID-19,South Africa,ZAF,Africa,African Region
+2021ZMBU071,2021,COVID-19,Zambia,ZMB,Africa,African Region
+2021ZWEU071,2021,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2020ABWU071,2020,COVID-19,Aruba,ABW,Americas,
+2020AFGU071,2020,COVID-19,Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2020AGOU071,2020,COVID-19,Angola,AGO,Africa,African Region
+2020AIAU071,2020,COVID-19,Anguilla,AIA,Americas,
+2020ALBU071,2020,COVID-19,Albania,ALB,Europe,European Region
+2020ANDU071,2020,COVID-19,Andorra,AND,Europe,European Region
+2020AREU040,2020,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2020AREU071,2020,COVID-19,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2020ARGU071,2020,COVID-19,Argentina,ARG,Americas,Region of the Americas
+2020ARMU071,2020,COVID-19,Armenia,ARM,Asia,European Region
+2020ATGU071,2020,COVID-19,Antigua and Barbuda,ATG,Americas,Region of the Americas
+2020AUSU071,2020,COVID-19,Australia,AUS,Oceania,Western Pacific Region
+2020AUTU071,2020,COVID-19,Austria,AUT,Europe,European Region
+2020AZEU071,2020,COVID-19,Azerbaijan,AZE,Asia,European Region
+2020BDIB05,2020,Measles,Burundi,BDI,Africa,African Region
+2020BDIU071,2020,COVID-19,Burundi,BDI,Africa,African Region
+2020BELU071,2020,COVID-19,Belgium,BEL,Europe,European Region
+2020BENU071,2020,COVID-19,Benin,BEN,Africa,African Region
+2020BESU071,2020,COVID-19,Bonaire Sint Eustatius and Saba,BES,Americas,
+2020BFAB172,2020,Acute hepatitis E,Burkina Faso,BFA,Africa,African Region
+2020BFAU071,2020,COVID-19,Burkina Faso,BFA,Africa,African Region
+2020BGDU071,2020,COVID-19,Bangladesh,BGD,Asia,South-East Asia Region
+2020BGRU071,2020,COVID-19,Bulgaria,BGR,Europe,European Region
+2020BHRU071,2020,COVID-19,Bahrain,BHR,Asia,Eastern Mediterranean Region
+2020BHSU071,2020,COVID-19,Bahamas,BHS,Americas,Region of the Americas
+2020BIHU071,2020,COVID-19,Bosnia and Herzegovina,BIH,Europe,European Region
+2020BLMA979,2020,"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,Americas,
+2020BLMU071,2020,COVID-19,Saint BarthÃ©lemy,BLM,Americas,
+2020BLRU071,2020,COVID-19,Belarus,BLR,Europe,European Region
+2020BLZU071,2020,COVID-19,Belize,BLZ,Americas,Region of the Americas
+2020BMUU071,2020,COVID-19,Bermuda,BMU,Americas,
+2020BOLU071,2020,COVID-19,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2020BRAJ090,2020,Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,Americas,Region of the Americas
+2020BRAU071,2020,COVID-19,Brazil,BRA,Americas,Region of the Americas
+2020BRBU071,2020,COVID-19,Barbados,BRB,Americas,Region of the Americas
+2020BRNU071,2020,COVID-19,Brunei Darussalam,BRN,Asia,Western Pacific Region
+2020BTNU071,2020,COVID-19,Bhutan,BTN,Asia,South-East Asia Region
+2020BWAU071,2020,COVID-19,Botswana,BWA,Africa,African Region
+2020CAFB05,2020,Measles,Central African Republic,CAF,Africa,African Region
+2020CAFU071,2020,COVID-19,Central African Republic,CAF,Africa,African Region
+2020CANU071,2020,COVID-19,Canada,CAN,Americas,Region of the Americas
+2020CHEU071,2020,COVID-19,Switzerland,CHE,Europe,European Region
+2020CHLA979,2020,"Dengue fever, unspecified",Chile,CHL,Americas,Region of the Americas
+2020CHLU071,2020,COVID-19,Chile,CHL,Americas,Region of the Americas
+2020CHNJ129,2020,Viral pneumonia,China,CHN,Asia,Western Pacific Region
+2020CHNU071,2020,COVID-19,China,CHN,Asia,Western Pacific Region
+2020CIVU071,2020,COVID-19,CÃ´te d'Ivoire,CIV,Africa,African Region
+2020CMRU071,2020,COVID-19,Cameroon,CMR,Africa,African Region
+2020CODA209,2020,"Plague, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2020CODA984,2020,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2020CODB04,2020,Monkeypox,Congo Democratic Republic of the,COD,Africa,African Region
+2020CODU071,2020,COVID-19,Congo Democratic Republic of the,COD,Africa,African Region
+2020COGU071,2020,COVID-19,Congo,COG,Africa,African Region
+2020COLU071,2020,COVID-19,Colombia,COL,Americas,Region of the Americas
+2020COMU071,2020,COVID-19,Comoros,COM,Africa,African Region
+2020CPVU071,2020,COVID-19,Cabo Verde,CPV,Africa,African Region
+2020CRIU071,2020,COVID-19,Costa Rica,CRI,Americas,Region of the Americas
+2020CUBU071,2020,COVID-19,Cuba,CUB,Americas,Region of the Americas
+2020CUWU071,2020,COVID-19,CuraÃ§ao,CUW,Americas,
+2020CYMU071,2020,COVID-19,Cayman Islands,CYM,Americas,
+2020CYPU071,2020,COVID-19,Cyprus,CYP,Asia,European Region
+2020CZEU071,2020,COVID-19,Czechia,CZE,Europe,European Region
+2020DEUU071,2020,COVID-19,Germany,DEU,Europe,European Region
+2020DJIU071,2020,COVID-19,Djibouti,DJI,Africa,Eastern Mediterranean Region
+2020DMAU071,2020,COVID-19,Dominica,DMA,Americas,Region of the Americas
+2020DNKU071,2020,COVID-19,Denmark,DNK,Europe,European Region
+2020DOMU071,2020,COVID-19,Dominican Republic,DOM,Americas,Region of the Americas
+2020DZAU071,2020,COVID-19,Algeria,DZA,Africa,African Region
+2020ECUU071,2020,COVID-19,Ecuador,ECU,Americas,Region of the Americas
+2020EGYU071,2020,COVID-19,Egypt,EGY,Africa,Eastern Mediterranean Region
+2020ERIU071,2020,COVID-19,Eritrea,ERI,Africa,African Region
+2020ESPU071,2020,COVID-19,Spain,ESP,Europe,European Region
+2020ESTU071,2020,COVID-19,Estonia,EST,Europe,European Region
+2020ETHA959,2020,"Yellow fever, unspecified",Ethiopia,ETH,Africa,African Region
+2020ETHB720,2020,Dracunculiasis,Ethiopia,ETH,Africa,African Region
+2020ETHU071,2020,COVID-19,Ethiopia,ETH,Africa,African Region
+2020FINU071,2020,COVID-19,Finland,FIN,Europe,European Region
+2020FJIU071,2020,COVID-19,Fiji,FJI,Oceania,Western Pacific Region
+2020FLKU071,2020,COVID-19,Falkland Islands (Malvinas),FLK,Americas,
+2020FRAU071,2020,COVID-19,France,FRA,Europe,European Region
+2020FROU071,2020,COVID-19,Faroe Islands,FRO,Europe,
+2020GABA959,2020,"Yellow fever, unspecified",Gabon,GAB,Africa,African Region
+2020GABU071,2020,COVID-19,Gabon,GAB,Africa,African Region
+2020GBRU071,2020,COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2020GEOU071,2020,COVID-19,Georgia,GEO,Asia,European Region
+2020GGYU071,2020,COVID-19,Guernsey,GGY,Europe,
+2020GHAU071,2020,COVID-19,Ghana,GHA,Africa,African Region
+2020GIBU071,2020,COVID-19,Gibraltar,GIB,Europe,
+2020GINA959,2020,"Yellow fever, unspecified",Guinea,GIN,Africa,African Region
+2020GINU071,2020,COVID-19,Guinea,GIN,Africa,African Region
+2020GLPA979,2020,"Dengue fever, unspecified",Guadeloupe,GLP,Americas,
+2020GLPU071,2020,COVID-19,Guadeloupe,GLP,Americas,
+2020GMBU071,2020,COVID-19,Gambia,GMB,Africa,African Region
+2020GNBU071,2020,COVID-19,Guinea-Bissau,GNB,Africa,African Region
+2020GNQU071,2020,COVID-19,Equatorial Guinea,GNQ,Africa,African Region
+2020GRCU071,2020,COVID-19,Greece,GRC,Europe,European Region
+2020GRDU071,2020,COVID-19,Grenada,GRD,Americas,Region of the Americas
+2020GRLU071,2020,COVID-19,Greenland,GRL,Americas,
+2020GTMU071,2020,COVID-19,Guatemala,GTM,Americas,Region of the Americas
+2020GUFA928,2020,"Arthropod-borne viral fever, virus unspecified",French Guiana,GUF,Americas,
+2020GUFA930,2020,Oropouche virus disease,French Guiana,GUF,Americas,
+2020GUFA959,2020,"Yellow fever, unspecified",French Guiana,GUF,Americas,
+2020GUFA979,2020,"Dengue fever, unspecified",French Guiana,GUF,Americas,
+2020GUFU071,2020,COVID-19,French Guiana,GUF,Americas,
+2020GUMU071,2020,COVID-19,Guam,GUM,Oceania,
+2020GUYU071,2020,COVID-19,Guyana,GUY,Americas,Region of the Americas
+2020HNDU071,2020,COVID-19,Honduras,HND,Americas,Region of the Americas
+2020HRVU071,2020,COVID-19,Croatia,HRV,Europe,European Region
+2020HTIU071,2020,COVID-19,Haiti,HTI,Americas,Region of the Americas
+2020HUNU071,2020,COVID-19,Hungary,HUN,Europe,European Region
+2020IDNU071,2020,COVID-19,Indonesia,IDN,Asia,South-East Asia Region
+2020IMNU071,2020,COVID-19,Isle of Man,IMN,Europe,
+2020INDU071,2020,COVID-19,India,IND,Asia,South-East Asia Region
+2020IRLU071,2020,COVID-19,Ireland,IRL,Europe,European Region
+2020IRNU071,2020,COVID-19,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2020IRQU071,2020,COVID-19,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2020ISLU071,2020,COVID-19,Iceland,ISL,Europe,European Region
+2020ISRU071,2020,COVID-19,Israel,ISR,Asia,European Region
+2020ITAU071,2020,COVID-19,Italy,ITA,Europe,European Region
+2020JAMU071,2020,COVID-19,Jamaica,JAM,Americas,Region of the Americas
+2020JEYU071,2020,COVID-19,Jersey,JEY,Europe,
+2020JORU071,2020,COVID-19,Jordan,JOR,Asia,Eastern Mediterranean Region
+2020JPNU071,2020,COVID-19,Japan,JPN,Asia,Western Pacific Region
+2020KAZU071,2020,COVID-19,Kazakhstan,KAZ,Asia,European Region
+2020KENU071,2020,COVID-19,Kenya,KEN,Africa,African Region
+2020KHMU071,2020,COVID-19,Cambodia,KHM,Asia,Western Pacific Region
+2020KNAU071,2020,COVID-19,Saint Kitts and Nevis,KNA,Americas,Region of the Americas
+2020KORU071,2020,COVID-19,Korea Republic of,KOR,Asia,Western Pacific Region
+2020KWTU071,2020,COVID-19,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2020LAOJ090,2020,Influenza due to identified zoonotic or pandemic influenza virus,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2020LAOU071,2020,COVID-19,Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2020LBNU071,2020,COVID-19,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2020LBRU071,2020,COVID-19,Liberia,LBR,Africa,African Region
+2020LBYU071,2020,COVID-19,Libya,LBY,Africa,Eastern Mediterranean Region
+2020LCAU071,2020,COVID-19,Saint Lucia,LCA,Americas,Region of the Americas
+2020LIEU071,2020,COVID-19,Liechtenstein,LIE,Europe,
+2020LKAU071,2020,COVID-19,Sri Lanka,LKA,Asia,South-East Asia Region
+2020LSOU071,2020,COVID-19,Lesotho,LSO,Africa,African Region
+2020LTUU071,2020,COVID-19,Lithuania,LTU,Europe,European Region
+2020LUXU071,2020,COVID-19,Luxembourg,LUX,Europe,European Region
+2020LVAU071,2020,COVID-19,Latvia,LVA,Europe,European Region
+2020MAFA979,2020,"Dengue fever, unspecified",Saint Martin (French part),MAF,Americas,
+2020MAFU071,2020,COVID-19,Saint Martin (French part),MAF,Americas,
+2020MARU071,2020,COVID-19,Morocco,MAR,Africa,Eastern Mediterranean Region
+2020MCOU071,2020,COVID-19,Monaco,MCO,Europe,European Region
+2020MDAU071,2020,COVID-19,Moldova Republic of,MDA,Europe,European Region
+2020MDGU071,2020,COVID-19,Madagascar,MDG,Africa,African Region
+2020MDVU071,2020,COVID-19,Maldives,MDV,Asia,South-East Asia Region
+2020MEXB05,2020,Measles,Mexico,MEX,Americas,Region of the Americas
+2020MEXU071,2020,COVID-19,Mexico,MEX,Americas,Region of the Americas
+2020MHLU071,2020,COVID-19,Marshall Islands,MHL,Oceania,Western Pacific Region
+2020MKDU071,2020,COVID-19,North Macedonia,MKD,Europe,European Region
+2020MLIU071,2020,COVID-19,Mali,MLI,Africa,African Region
+2020MLTU071,2020,COVID-19,Malta,MLT,Europe,European Region
+2020MMRU071,2020,COVID-19,Myanmar,MMR,Asia,South-East Asia Region
+2020MNEU071,2020,COVID-19,Montenegro,MNE,Europe,European Region
+2020MNGU071,2020,COVID-19,Mongolia,MNG,Asia,Western Pacific Region
+2020MNPU071,2020,COVID-19,Northern Mariana Islands,MNP,Oceania,
+2020MOZU071,2020,COVID-19,Mozambique,MOZ,Africa,African Region
+2020MRTA924,2020,Rift Valley fever,Mauritania,MRT,Africa,African Region
+2020MRTU071,2020,COVID-19,Mauritania,MRT,Africa,African Region
+2020MSRU071,2020,COVID-19,Montserrat,MSR,Americas,
+2020MTQA979,2020,"Dengue fever, unspecified",Martinique,MTQ,Americas,
+2020MTQU071,2020,COVID-19,Martinique,MTQ,Americas,
+2020MUSU071,2020,COVID-19,Mauritius,MUS,Africa,African Region
+2020MWIU071,2020,COVID-19,Malawi,MWI,Africa,African Region
+2020MYSU071,2020,COVID-19,Malaysia,MYS,Asia,Western Pacific Region
+2020MYTA979,2020,"Dengue fever, unspecified",Mayotte,MYT,Africa,
+2020MYTU071,2020,COVID-19,Mayotte,MYT,Africa,
+2020NCLU071,2020,COVID-19,New Caledonia,NCL,Oceania,
+2020NERU071,2020,COVID-19,Niger,NER,Africa,African Region
+2020NGAA959,2020,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2020NGAA962,2020,Lassa fever,Nigeria,NGA,Africa,African Region
+2020NGAU071,2020,COVID-19,Nigeria,NGA,Africa,African Region
+2020NICU071,2020,COVID-19,Nicaragua,NIC,Americas,Region of the Americas
+2020NLDU071,2020,COVID-19,Netherlands,NLD,Europe,European Region
+2020NORU071,2020,COVID-19,Norway,NOR,Europe,European Region
+2020NPLU071,2020,COVID-19,Nepal,NPL,Asia,South-East Asia Region
+2020NZLU071,2020,COVID-19,New Zealand,NZL,Oceania,Western Pacific Region
+2020OMNU071,2020,COVID-19,Oman,OMN,Asia,Eastern Mediterranean Region
+2020PAKU071,2020,COVID-19,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2020PANU071,2020,COVID-19,Panama,PAN,Americas,Region of the Americas
+2020PERU071,2020,COVID-19,Peru,PER,Americas,Region of the Americas
+2020PHLU071,2020,COVID-19,Philippines,PHL,Asia,Western Pacific Region
+2020PNGU071,2020,COVID-19,Papua New Guinea,PNG,Oceania,Western Pacific Region
+2020POLU071,2020,COVID-19,Poland,POL,Europe,European Region
+2020PRIU071,2020,COVID-19,Puerto Rico,PRI,Americas,
+2020PRTU071,2020,COVID-19,Portugal,PRT,Europe,European Region
+2020PRYU071,2020,COVID-19,Paraguay,PRY,Americas,Region of the Americas
+2020PSEB05,2020,Measles,Palestine State of,PSE,Asia,
+2020PSEU071,2020,COVID-19,Palestine State of,PSE,Asia,
+2020PYFU071,2020,COVID-19,French Polynesia,PYF,Oceania,
+2020QATU040,2020,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2020QATU071,2020,COVID-19,Qatar,QAT,Asia,Eastern Mediterranean Region
+2020REUU071,2020,COVID-19,RÃ©union,REU,Africa,
+2020ROUU071,2020,COVID-19,Romania,ROU,Europe,European Region
+2020RUSU071,2020,COVID-19,Russian Federation,RUS,Europe,European Region
+2020RWAU071,2020,COVID-19,Rwanda,RWA,Africa,African Region
+2020SAUU040,2020,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2020SAUU071,2020,COVID-19,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2020SDNA809,2020,"Acute poliomyelitis, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2020SDNU071,2020,COVID-19,Sudan,SDN,Africa,Eastern Mediterranean Region
+2020SENA959,2020,"Yellow fever, unspecified",Senegal,SEN,Africa,African Region
+2020SENU071,2020,COVID-19,Senegal,SEN,Africa,African Region
+2020SGPU071,2020,COVID-19,Singapore,SGP,Asia,Western Pacific Region
+2020SLBU071,2020,COVID-19,Solomon Islands,SLB,Oceania,Western Pacific Region
+2020SLEU071,2020,COVID-19,Sierra Leone,SLE,Africa,African Region
+2020SLVU071,2020,COVID-19,El Salvador,SLV,Americas,Region of the Americas
+2020SMRU071,2020,COVID-19,San Marino,SMR,Europe,European Region
+2020SOMU071,2020,COVID-19,Somalia,SOM,Africa,Eastern Mediterranean Region
+2020SPMU071,2020,COVID-19,Saint Pierre and Miquelon,SPM,Americas,
+2020SRBU071,2020,COVID-19,Serbia,SRB,Europe,European Region
+2020SSDA959,2020,"Yellow fever, unspecified",South Sudan,SSD,Africa,African Region
+2020SSDU071,2020,COVID-19,South Sudan,SSD,Africa,African Region
+2020STPU071,2020,COVID-19,Sao Tome and Principe,STP,Africa,African Region
+2020SURU071,2020,COVID-19,Suriname,SUR,Americas,Region of the Americas
+2020SVKU071,2020,COVID-19,Slovakia,SVK,Europe,European Region
+2020SVNU071,2020,COVID-19,Slovenia,SVN,Europe,European Region
+2020SWEU071,2020,COVID-19,Sweden,SWE,Europe,European Region
+2020SWZU071,2020,COVID-19,Eswatini,SWZ,Africa,African Region
+2020SXMU071,2020,COVID-19,Sint Maarten (Dutch part),SXM,Americas,
+2020SYCU071,2020,COVID-19,Seychelles,SYC,Africa,African Region
+2020SYRU071,2020,COVID-19,Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2020TCAU071,2020,COVID-19,Turks and Caicos Islands,TCA,Americas,
+2020TCDA920,2020,Chikungunya mosquito-borne viral fever,Chad,TCD,Africa,African Region
+2020TCDU071,2020,COVID-19,Chad,TCD,Africa,African Region
+2020TGOA959,2020,"Yellow fever, unspecified",Togo,TGO,Africa,African Region
+2020TGOU071,2020,COVID-19,Togo,TGO,Africa,African Region
+2020THAU071,2020,COVID-19,Thailand,THA,Asia,South-East Asia Region
+2020TJKU071,2020,COVID-19,Tajikistan,TJK,Asia,European Region
+2020TLSU071,2020,COVID-19,Timor-Leste,TLS,Asia,South-East Asia Region
+2020TTOU071,2020,COVID-19,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2020TUNU071,2020,COVID-19,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2020TURU071,2020,COVID-19,Turkey,TUR,Asia,European Region
+2020TZAU071,2020,COVID-19,Tanzania United Republic of,TZA,Africa,African Region
+2020UGAA959,2020,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2020UGAU071,2020,COVID-19,Uganda,UGA,Africa,African Region
+2020UKRU071,2020,COVID-19,Ukraine,UKR,Europe,European Region
+2020URYU071,2020,COVID-19,Uruguay,URY,Americas,Region of the Americas
+2020USAU071,2020,COVID-19,United States of America,USA,Americas,Region of the Americas
+2020UZBU071,2020,COVID-19,Uzbekistan,UZB,Asia,European Region
+2020VATU071,2020,COVID-19,Holy See,VAT,Europe,
+2020VCTU071,2020,COVID-19,Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2020VENU071,2020,COVID-19,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2020VGBU071,2020,COVID-19,Virgin Islands (British),VGB,Americas,
+2020VIRU071,2020,COVID-19,Virgin Islands (U.S.),VIR,Americas,
+2020VNMU071,2020,COVID-19,Viet Nam,VNM,Asia,Western Pacific Region
+2020VUTU071,2020,COVID-19,Vanuatu,VUT,Oceania,Western Pacific Region
+2020WLFU071,2020,COVID-19,Wallis and Futuna,WLF,Oceania,
+2020WSMU071,2020,COVID-19,Samoa,WSM,Oceania,Western Pacific Region
+2020YEMU071,2020,COVID-19,Yemen,YEM,Asia,Eastern Mediterranean Region
+2020ZAFU071,2020,COVID-19,South Africa,ZAF,Africa,African Region
+2020ZMBU071,2020,COVID-19,Zambia,ZMB,Africa,African Region
+2020ZWEU071,2020,COVID-19,Zimbabwe,ZWE,Africa,African Region
+2019AFGA979,2019,"Dengue fever, unspecified",Afghanistan,AFG,Asia,Eastern Mediterranean Region
+2019AGOA809,2019,"Acute poliomyelitis, unspecified",Angola,AGO,Africa,African Region
+2019AREU040,2019,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2019ARGB334,2019,Hantavirus pulmonary syndrome,Argentina,ARG,Americas,Region of the Americas
+2019ASMB05,2019,Measles,American Samoa,ASM,Oceania,
+2019AUSB05,2019,Measles,Australia,AUS,Oceania,Western Pacific Region
+2019BENA809,2019,"Acute poliomyelitis, unspecified",Benin,BEN,Africa,African Region
+2019BGDB05,2019,Measles,Bangladesh,BGD,Asia,South-East Asia Region
+2019BRAA959,2019,"Yellow fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2019BRAB05,2019,Measles,Brazil,BRA,Americas,Region of the Americas
+2019CAFA809,2019,"Acute poliomyelitis, unspecified",Central African Republic,CAF,Africa,African Region
+2019CHNB05,2019,Measles,China,CHN,Asia,Western Pacific Region
+2019CIVA809,2019,"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2019CMRA809,2019,"Acute poliomyelitis, unspecified",Cameroon,CMR,Africa,African Region
+2019CODA809,2019,"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2019CODA984,2019,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2019CODB05,2019,Measles,Congo Democratic Republic of the,COD,Africa,African Region
+2019COGA920,2019,Chikungunya mosquito-borne viral fever,Congo,COG,Africa,African Region
+2019COLB05,2019,Measles,Colombia,COL,Americas,Region of the Americas
+2019ESPA329,2019,"Listeriosis, unspecified",Spain,ESP,Europe,European Region
+2019ESPA979,2019,"Dengue fever, unspecified",Spain,ESP,Europe,European Region
+2019ETHA809,2019,"Acute poliomyelitis, unspecified",Ethiopia,ETH,Africa,African Region
+2019FJIB05,2019,Measles,Fiji,FJI,Oceania,Western Pacific Region
+2019FRAA924,2019,Rift Valley fever,France,FRA,Europe,European Region
+2019FRAA925,2019,Zika virus disease,France,FRA,Europe,European Region
+2019FRAB05,2019,Measles,France,FRA,Europe,European Region
+2019GBRA549,2019,"Gonococcal infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2019GEOB05,2019,Measles,Georgia,GEO,Asia,European Region
+2019GHAA809,2019,"Acute poliomyelitis, unspecified",Ghana,GHA,Africa,African Region
+2019GINB05,2019,Measles,Guinea,GIN,Africa,African Region
+2019GRCB05,2019,Measles,Greece,GRC,Europe,European Region
+2019HKGB05,2019,Measles,Hong Kong,HKG,Asia,
+2019IDNA809,2019,"Acute poliomyelitis, unspecified",Indonesia,IDN,Asia,South-East Asia Region
+2019IRNA809,2019,"Acute poliomyelitis, unspecified",Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2019IRQB05,2019,Measles,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2019ISRB05,2019,Measles,Israel,ISR,Asia,European Region
+2019JAMA979,2019,"Dengue fever, unspecified",Jamaica,JAM,Americas,Region of the Americas
+2019JPNB05,2019,Measles,Japan,JPN,Asia,Western Pacific Region
+2019KAZB05,2019,Measles,Kazakhstan,KAZ,Asia,European Region
+2019KENA809,2019,"Acute poliomyelitis, unspecified",Kenya,KEN,Africa,African Region
+2019KGZB05,2019,Measles,Kyrgyzstan,KGZ,Asia,European Region
+2019KORB05,2019,Measles,Korea Republic of,KOR,Asia,Western Pacific Region
+2019LBNB05,2019,Measles,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2019MACB05,2019,Measles,Macao,MAC,Asia,
+2019MDGB05,2019,Measles,Madagascar,MDG,Africa,African Region
+2019MEXB965,2019,Pseudomonas aeruginosa,Mexico,MEX,Americas,Region of the Americas
+2019MLIA959,2019,"Yellow fever, unspecified",Mali,MLI,Africa,African Region
+2019MMRA809,2019,"Acute poliomyelitis, unspecified",Myanmar,MMR,Asia,South-East Asia Region
+2019MMRB05,2019,Measles,Myanmar,MMR,Asia,South-East Asia Region
+2019MOZA809,2019,"Acute poliomyelitis, unspecified",Mozambique,MOZ,Africa,African Region
+2019MYSB05,2019,Measles,Malaysia,MYS,Asia,Western Pacific Region
+2019NERA809,2019,"Acute poliomyelitis, unspecified",Niger,NER,Africa,African Region
+2019NGAA809,2019,"Acute poliomyelitis, unspecified",Nigeria,NGA,Africa,African Region
+2019NGAA959,2019,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2019NGAA962,2019,Lassa fever,Nigeria,NGA,Africa,African Region
+2019NGAB05,2019,Measles,Nigeria,NGA,Africa,African Region
+2019NLDA962,2019,Lassa fever,Netherlands,NLD,Europe,European Region
+2019NZLB05,2019,Measles,New Zealand,NZL,Oceania,Western Pacific Region
+2019OMNU040,2019,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2019PAKA809,2019,"Acute poliomyelitis, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2019PAKA979,2019,"Dengue fever, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2019PAKB05,2019,Measles,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2019PAKB24,2019,"Human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2019PANB334,2019,Hantavirus pulmonary syndrome,Panama,PAN,Americas,Region of the Americas
+2019PHLA809,2019,"Acute poliomyelitis, unspecified",Philippines,PHL,Asia,Western Pacific Region
+2019PHLB05,2019,Measles,Philippines,PHL,Asia,Western Pacific Region
+2019PNGA809,2019,"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,Oceania,Western Pacific Region
+2019QATU040,2019,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2019REUA979,2019,"Dengue fever, unspecified",RÃ©union,REU,Africa,
+2019RUSB05,2019,Measles,Russian Federation,RUS,Europe,European Region
+2019SAUU040,2019,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2019SDNA000,2019,Cholera,Sudan,SDN,Africa,Eastern Mediterranean Region
+2019SDNA924,2019,Rift Valley fever,Sudan,SDN,Africa,Eastern Mediterranean Region
+2019SDNA979,2019,"Dengue fever, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2019SDNB05,2019,Measles,Sudan,SDN,Africa,Eastern Mediterranean Region
+2019SGPB04,2019,Monkeypox,Singapore,SGP,Asia,Western Pacific Region
+2019SOMA809,2019,"Acute poliomyelitis, unspecified",Somalia,SOM,Africa,Eastern Mediterranean Region
+2019SOMB05,2019,Measles,Somalia,SOM,Africa,Eastern Mediterranean Region
+2019SRBB05,2019,Measles,Serbia,SRB,Europe,European Region
+2019TCDA809,2019,"Acute poliomyelitis, unspecified",Chad,TCD,Africa,African Region
+2019TCDB05,2019,Measles,Chad,TCD,Africa,African Region
+2019TGOA809,2019,"Acute poliomyelitis, unspecified",Togo,TGO,Africa,African Region
+2019TONB05,2019,Measles,Tonga,TON,Oceania,Western Pacific Region
+2019TUNB05,2019,Measles,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2019TURB05,2019,Measles,Turkey,TUR,Asia,European Region
+2019TZAA984,2019,Ebola disease,Tanzania United Republic of,TZA,Africa,African Region
+2019UGAA984,2019,Ebola disease,Uganda,UGA,Africa,African Region
+2019UKRB05,2019,Measles,Ukraine,UKR,Europe,European Region
+2019USAB05,2019,Measles,United States of America,USA,Americas,Region of the Americas
+2019VENA959,2019,"Yellow fever, unspecified",Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2019VENB05,2019,Measles,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2019VNMB05,2019,Measles,Viet Nam,VNM,Asia,Western Pacific Region
+2019WSMB05,2019,Measles,Samoa,WSM,Oceania,Western Pacific Region
+2019YEMB05,2019,Measles,Yemen,YEM,Asia,Eastern Mediterranean Region
+2019ZMBA809,2019,"Acute poliomyelitis, unspecified",Zambia,ZMB,Africa,African Region
+2018AREU040,2018,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2018AUSA329,2018,"Listeriosis, unspecified",Australia,AUS,Oceania,Western Pacific Region
+2018BRAA959,2018,"Yellow fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2018BRAB05,2018,Measles,Brazil,BRA,Americas,Region of the Americas
+2018CHNJ090,2018,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2018CMRA000,2018,Cholera,Cameroon,CMR,Africa,African Region
+2018CMRB04,2018,Monkeypox,Cameroon,CMR,Africa,African Region
+2018CODA000,2018,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2018CODA809,2018,"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2018CODA984,2018,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2018COGA959,2018,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2018DZAA000,2018,Cholera,Algeria,DZA,Africa,African Region
+2018FRAA959,2018,"Yellow fever, unspecified",France,FRA,Europe,European Region
+2018GBRU040,2018,Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2018GMBA924,2018,Rift Valley fever,Gambia,GMB,Africa,African Region
+2018INDB348,2018,Unspecified viral disease,India,IND,Asia,South-East Asia Region
+2018JPNB05,2018,Measles,Japan,JPN,Asia,Western Pacific Region
+2018KENA809,2018,"Acute poliomyelitis, unspecified",Kenya,KEN,Africa,African Region
+2018KENA920,2018,Chikungunya mosquito-borne viral fever,Kenya,KEN,Africa,African Region
+2018KENA924,2018,Rift Valley fever,Kenya,KEN,Africa,African Region
+2018KORU040,2018,Middle East respiratory syndrome,Korea Republic of,KOR,Asia,Western Pacific Region
+2018LBRA962,2018,Lassa fever,Liberia,LBR,Africa,African Region
+2018MOZA000,2018,Cholera,Mozambique,MOZ,Africa,African Region
+2018MYSU040,2018,Middle East respiratory syndrome,Malaysia,MYS,Asia,Western Pacific Region
+2018NAMB172,2018,Acute hepatitis E,Namibia,NAM,Africa,African Region
+2018NERA000,2018,Cholera,Niger,NER,Africa,African Region
+2018NERA809,2018,"Acute poliomyelitis, unspecified",Niger,NER,Africa,African Region
+2018NGAA809,2018,"Acute poliomyelitis, unspecified",Nigeria,NGA,Africa,African Region
+2018NGAA962,2018,Lassa fever,Nigeria,NGA,Africa,African Region
+2018NGAB04,2018,Monkeypox,Nigeria,NGA,Africa,African Region
+2018NLDA959,2018,"Yellow fever, unspecified",Netherlands,NLD,Europe,European Region
+2018NLDJ090,2018,Influenza due to identified zoonotic or pandemic influenza virus,Netherlands,NLD,Europe,European Region
+2018OMNU040,2018,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2018PAKA010,2018,Typhoid fever,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2018PNGA809,2018,"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,Oceania,Western Pacific Region
+2018REUA979,2018,"Dengue fever, unspecified",RÃ©union,REU,Africa,
+2018SAUU040,2018,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2018SDNA920,2018,Chikungunya mosquito-borne viral fever,Sudan,SDN,Africa,Eastern Mediterranean Region
+2018SOMA000,2018,Cholera,Somalia,SOM,Africa,Eastern Mediterranean Region
+2018SOMA809,2018,"Acute poliomyelitis, unspecified",Somalia,SOM,Africa,Eastern Mediterranean Region
+2018TZAA000,2018,Cholera,Tanzania United Republic of,TZA,Africa,African Region
+2018ZAFA329,2018,"Listeriosis, unspecified",South Africa,ZAF,Africa,African Region
+2018ZWEA000,2018,Cholera,Zimbabwe,ZWE,Africa,African Region
+2017AREU040,2017,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2017AUTB15,2017,Acute hepatitis A,Austria,AUT,Europe,European Region
+2017BELB15,2017,Acute hepatitis A,Belgium,BEL,Europe,European Region
+2017BENA962,2017,Lassa fever,Benin,BEN,Africa,African Region
+2017BFAA962,2017,Lassa fever,Burkina Faso,BFA,Africa,African Region
+2017BFAA979,2017,"Dengue fever, unspecified",Burkina Faso,BFA,Africa,African Region
+2017BGDA369,2017,"Diphtheria, unspecified",Bangladesh,BGD,Asia,South-East Asia Region
+2017BRAA959,2017,"Yellow fever, unspecified",Brazil,BRA,Americas,Region of the Americas
+2017CHNJ090,2017,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2017CIVA979,2017,"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2017CODA809,2017,"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2017CODA984,2017,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2017DEUB15,2017,Acute hepatitis A,Germany,DEU,Europe,European Region
+2017DNKB15,2017,Acute hepatitis A,Denmark,DNK,Europe,European Region
+2017ESPB15,2017,Acute hepatitis A,Spain,ESP,Europe,European Region
+2017FINB15,2017,Acute hepatitis A,Finland,FIN,Europe,European Region
+2017FRAA029,2017,Infections due to other Salmonella,France,FRA,Europe,European Region
+2017FRAA920,2017,Chikungunya mosquito-borne viral fever,France,FRA,Europe,European Region
+2017FRAA959,2017,"Yellow fever, unspecified",France,FRA,Europe,European Region
+2017FRAB15,2017,Acute hepatitis A,France,FRA,Europe,European Region
+2017GBRB15,2017,Acute hepatitis A,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2017INDA925,2017,Zika virus disease,India,IND,Asia,South-East Asia Region
+2017IRLB15,2017,Acute hepatitis A,Ireland,IRL,Europe,European Region
+2017ITAA920,2017,Chikungunya mosquito-borne viral fever,Italy,ITA,Europe,European Region
+2017ITAB15,2017,Acute hepatitis A,Italy,ITA,Europe,European Region
+2017KENA000,2017,Cholera,Kenya,KEN,Africa,African Region
+2017LBNU040,2017,Middle East respiratory syndrome,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2017LBRA390,2017,Meningococcal meningitis,Liberia,LBR,Africa,African Region
+2017LBRB990,2017,"Infection, unspecified",Liberia,LBR,Africa,African Region
+2017LKAA979,2017,"Dengue fever, unspecified",Sri Lanka,LKA,Asia,South-East Asia Region
+2017MDGA209,2017,"Plague, unspecified",Madagascar,MDG,Africa,African Region
+2017NERB172,2017,Acute hepatitis E,Niger,NER,Africa,African Region
+2017NGAA000,2017,Cholera,Nigeria,NGA,Africa,African Region
+2017NGAA390,2017,Meningococcal meningitis,Nigeria,NGA,Africa,African Region
+2017NGAA959,2017,"Yellow fever, unspecified",Nigeria,NGA,Africa,African Region
+2017NGAA962,2017,Lassa fever,Nigeria,NGA,Africa,African Region
+2017NGAB04,2017,Monkeypox,Nigeria,NGA,Africa,African Region
+2017NGAB172,2017,Acute hepatitis E,Nigeria,NGA,Africa,African Region
+2017NLDB15,2017,Acute hepatitis A,Netherlands,NLD,Europe,European Region
+2017NORB15,2017,Acute hepatitis A,Norway,NOR,Europe,European Region
+2017OMNU040,2017,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2017PRTB15,2017,Acute hepatitis A,Portugal,PRT,Europe,European Region
+2017QATU040,2017,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2017SAUU040,2017,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2017SURA959,2017,"Yellow fever, unspecified",Suriname,SUR,Americas,Region of the Americas
+2017SVNB15,2017,Acute hepatitis A,Slovenia,SVN,Europe,European Region
+2017SWEB15,2017,Acute hepatitis A,Sweden,SWE,Europe,European Region
+2017SYCA209,2017,"Plague, unspecified",Seychelles,SYC,Africa,African Region
+2017SYRA809,2017,"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2017TCDB172,2017,Acute hepatitis E,Chad,TCD,Africa,African Region
+2017TGOA390,2017,Meningococcal meningitis,Togo,TGO,Africa,African Region
+2017TGOA962,2017,Lassa fever,Togo,TGO,Africa,African Region
+2017UGAA983,2017,Marburg disease,Uganda,UGA,Africa,African Region
+2017USAA985,2017,Haemorrhagic fever with renal syndrome,United States of America,USA,Americas,Region of the Americas
+2017USAB15,2017,Acute hepatitis A,United States of America,USA,Americas,Region of the Americas
+2017YEMA369,2017,"Diphtheria, unspecified",Yemen,YEM,Asia,Eastern Mediterranean Region
+2017ZMBA000,2017,Cholera,Zambia,ZMB,Africa,African Region
+2016AGOA959,2016,"Yellow fever, unspecified",Angola,AGO,Africa,African Region
+2016AREU040,2016,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2016ARGA920,2016,Chikungunya mosquito-borne viral fever,Argentina,ARG,Americas,Region of the Americas
+2016AUTU040,2016,Middle East respiratory syndrome,Austria,AUT,Europe,European Region
+2016BENA962,2016,Lassa fever,Benin,BEN,Africa,African Region
+2016BFAA979,2016,"Dengue fever, unspecified",Burkina Faso,BFA,Africa,African Region
+2016BHRU040,2016,Middle East respiratory syndrome,Bahrain,BHR,Asia,Eastern Mediterranean Region
+2016BOLA925,2016,Zika virus disease,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2016BRBA925,2016,Zika virus disease,Barbados,BRB,Americas,Region of the Americas
+2016CAFB04,2016,Monkeypox,Central African Republic,CAF,Africa,African Region
+2016CHLA925,2016,Zika virus disease,Chile,CHL,Americas,Region of the Americas
+2016CHNA924,2016,Rift Valley fever,China,CHN,Asia,Western Pacific Region
+2016CHNA959,2016,"Yellow fever, unspecified",China,CHN,Asia,Western Pacific Region
+2016CHNJ090,2016,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2016CODA959,2016,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2016CRIA925,2016,Zika virus disease,Costa Rica,CRI,Americas,Region of the Americas
+2016CUBA925,2016,Zika virus disease,Cuba,CUB,Americas,Region of the Americas
+2016CUWA925,2016,Zika virus disease,CuraÃ§ao,CUW,Americas,
+2016DEUA962,2016,Lassa fever,Germany,DEU,Europe,European Region
+2016DMAA925,2016,Zika virus disease,Dominica,DMA,Americas,Region of the Americas
+2016DOMA925,2016,Zika virus disease,Dominican Republic,DOM,Americas,Region of the Americas
+2016ECUA925,2016,Zika virus disease,Ecuador,ECU,Americas,Region of the Americas
+2016FRAA925,2016,Zika virus disease,France,FRA,Europe,European Region
+2016GBRB962,2016,Escherichia coli,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2016GUYA925,2016,Zika virus disease,Guyana,GUY,Americas,Region of the Americas
+2016HTIA925,2016,Zika virus disease,Haiti,HTI,Americas,Region of the Americas
+2016JAMA925,2016,Zika virus disease,Jamaica,JAM,Americas,Region of the Americas
+2016KENA920,2016,Chikungunya mosquito-borne viral fever,Kenya,KEN,Africa,African Region
+2016KENA959,2016,"Yellow fever, unspecified",Kenya,KEN,Africa,African Region
+2016LAOA809,2016,"Acute poliomyelitis, unspecified",Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2016LBRA962,2016,Lassa fever,Liberia,LBR,Africa,African Region
+2016LCAA925,2016,Zika virus disease,Saint Lucia,LCA,Americas,Region of the Americas
+2016MDVA925,2016,Zika virus disease,Maldives,MDV,Asia,South-East Asia Region
+2016NERA924,2016,Rift Valley fever,Niger,NER,Africa,African Region
+2016NGAA809,2016,"Acute poliomyelitis, unspecified",Nigeria,NGA,Africa,African Region
+2016NGAA962,2016,Lassa fever,Nigeria,NGA,Africa,African Region
+2016NICA925,2016,Zika virus disease,Nicaragua,NIC,Americas,Region of the Americas
+2016NLDA925,2016,Zika virus disease,Netherlands,NLD,Europe,European Region
+2016OMNU040,2016,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2016PAKA809,2016,"Acute poliomyelitis, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2016PERA925,2016,Zika virus disease,Peru,PER,Americas,Region of the Americas
+2016PERA930,2016,Oropouche virus disease,Peru,PER,Americas,Region of the Americas
+2016PNGA925,2016,Zika virus disease,Papua New Guinea,PNG,Oceania,Western Pacific Region
+2016QATU040,2016,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2016SAUU040,2016,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2016SSDA990,2016,Unspecified viral haemorrhagic fever,South Sudan,SSD,Africa,African Region
+2016SWEA962,2016,Lassa fever,Sweden,SWE,Europe,European Region
+2016TGOA962,2016,Lassa fever,Togo,TGO,Africa,African Region
+2016THAU040,2016,Middle East respiratory syndrome,Thailand,THA,Asia,South-East Asia Region
+2016TTOA925,2016,Zika virus disease,Trinidad and Tobago,TTO,Americas,Region of the Americas
+2016UGAA959,2016,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2016URYA979,2016,"Dengue fever, unspecified",Uruguay,URY,Americas,Region of the Americas
+2016USAA029,2016,Infections due to other Salmonella,United States of America,USA,Americas,Region of the Americas
+2016USAA920,2016,Chikungunya mosquito-borne viral fever,United States of America,USA,Americas,Region of the Americas
+2016USAA925,2016,Zika virus disease,United States of America,USA,Americas,Region of the Americas
+2016USAB990,2016,"Infection, unspecified",United States of America,USA,Americas,Region of the Americas
+2016VCTA925,2016,Zika virus disease,Saint Vincent and the Grenadines,VCT,Americas,Region of the Americas
+2016VNMA925,2016,Zika virus disease,Viet Nam,VNM,Asia,Western Pacific Region
+2015AREU040,2015,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2015BIHB05,2015,Measles,Bosnia and Herzegovina,BIH,Europe,European Region
+2015BRAA925,2015,Zika virus disease,Brazil,BRA,Americas,Region of the Americas
+2015BRAB05,2015,Measles,Brazil,BRA,Americas,Region of the Americas
+2015CANB05,2015,Measles,Canada,CAN,Americas,Region of the Americas
+2015CANJ090,2015,Influenza due to identified zoonotic or pandemic influenza virus,Canada,CAN,Americas,Region of the Americas
+2015CHLB05,2015,Measles,Chile,CHL,Americas,Region of the Americas
+2015CHNJ090,2015,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2015CHNU040,2015,Middle East respiratory syndrome,China,CHN,Asia,Western Pacific Region
+2015CODA000,2015,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2015COLA925,2015,Zika virus disease,Colombia,COL,Americas,Region of the Americas
+2015CPVA925,2015,Zika virus disease,Cabo Verde,CPV,Africa,African Region
+2015DEUB05,2015,Measles,Germany,DEU,Europe,European Region
+2015DEUU040,2015,Middle East respiratory syndrome,Germany,DEU,Europe,European Region
+2015EGYA979,2015,"Dengue fever, unspecified",Egypt,EGY,Africa,Eastern Mediterranean Region
+2015ESPA920,2015,Chikungunya mosquito-borne viral fever,Spain,ESP,Europe,European Region
+2015GEOB05,2015,Measles,Georgia,GEO,Asia,European Region
+2015GTMA925,2015,Zika virus disease,Guatemala,GTM,Americas,Region of the Americas
+2015HNDA925,2015,Zika virus disease,Honduras,HND,Americas,Region of the Americas
+2015HRVB05,2015,Measles,Croatia,HRV,Europe,European Region
+2015IRNU040,2015,Middle East respiratory syndrome,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2015IRQA000,2015,Cholera,Iraq,IRQ,Asia,Eastern Mediterranean Region
+2015ITAA984,2015,Ebola disease,Italy,ITA,Europe,European Region
+2015ITAB05,2015,Measles,Italy,ITA,Europe,European Region
+2015JORU040,2015,Middle East respiratory syndrome,Jordan,JOR,Asia,Eastern Mediterranean Region
+2015KAZB05,2015,Measles,Kazakhstan,KAZ,Asia,European Region
+2015KGZB05,2015,Measles,Kyrgyzstan,KGZ,Asia,European Region
+2015KORU040,2015,Middle East respiratory syndrome,Korea Republic of,KOR,Asia,Western Pacific Region
+2015KORU049,2015,Severe acute respiratory syndrome,Korea Republic of,KOR,Asia,Western Pacific Region
+2015KWTU040,2015,Middle East respiratory syndrome,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2015LAOA809,2015,"Acute poliomyelitis, unspecified",Lao People's Democratic Republic,LAO,Asia,Western Pacific Region
+2015MDGA209,2015,"Plague, unspecified",Madagascar,MDG,Africa,African Region
+2015MDGA809,2015,"Acute poliomyelitis, unspecified",Madagascar,MDG,Africa,African Region
+2015MEXA925,2015,Zika virus disease,Mexico,MEX,Americas,Region of the Americas
+2015MEXB05,2015,Measles,Mexico,MEX,Americas,Region of the Americas
+2015MMRA809,2015,"Acute poliomyelitis, unspecified",Myanmar,MMR,Asia,South-East Asia Region
+2015NERA390,2015,Meningococcal meningitis,Niger,NER,Africa,African Region
+2015NGAA390,2015,Meningococcal meningitis,Nigeria,NGA,Africa,African Region
+2015OMNU040,2015,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2015PANA925,2015,Zika virus disease,Panama,PAN,Americas,Region of the Americas
+2015PHLU040,2015,Middle East respiratory syndrome,Philippines,PHL,Asia,Western Pacific Region
+2015PRTA923,2015,West Nile virus infection,Portugal,PRT,Europe,European Region
+2015PRYA925,2015,Zika virus disease,Paraguay,PRY,Americas,Region of the Americas
+2015QATU040,2015,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2015RUSB05,2015,Measles,Russian Federation,RUS,Europe,European Region
+2015SAUU040,2015,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2015SENA920,2015,Chikungunya mosquito-borne viral fever,Senegal,SEN,Africa,African Region
+2015SLVA925,2015,Zika virus disease,El Salvador,SLV,Americas,Region of the Americas
+2015SRBB05,2015,Measles,Serbia,SRB,Europe,European Region
+2015SURA925,2015,Zika virus disease,Suriname,SUR,Americas,Region of the Americas
+2015THAU040,2015,Middle East respiratory syndrome,Thailand,THA,Asia,South-East Asia Region
+2015TZAA000,2015,Cholera,Tanzania United Republic of,TZA,Africa,African Region
+2015UGAA010,2015,Typhoid fever,Uganda,UGA,Africa,African Region
+2015UKRA809,2015,"Acute poliomyelitis, unspecified",Ukraine,UKR,Europe,European Region
+2015USAA962,2015,Lassa fever,United States of America,USA,Americas,Region of the Americas
+2015USAB05,2015,Measles,United States of America,USA,Americas,Region of the Americas
+2015VENA925,2015,Zika virus disease,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2014AREU040,2014,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2014AUTU040,2014,Middle East respiratory syndrome,Austria,AUT,Europe,European Region
+2014BRAA809,2014,"Acute poliomyelitis, unspecified",Brazil,BRA,Americas,Region of the Americas
+2014BRAA923,2014,West Nile virus infection,Brazil,BRA,Americas,Region of the Americas
+2014CANJ090,2014,Influenza due to identified zoonotic or pandemic influenza virus,Canada,CAN,Americas,Region of the Americas
+2014CHNJ090,2014,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2014CMRA809,2014,"Acute poliomyelitis, unspecified",Cameroon,CMR,Africa,African Region
+2014CODA959,2014,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2014CODA984,2014,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2014DZAU040,2014,Middle East respiratory syndrome,Algeria,DZA,Africa,African Region
+2014EGYU040,2014,Middle East respiratory syndrome,Egypt,EGY,Africa,Eastern Mediterranean Region
+2014ESPA984,2014,Ebola disease,Spain,ESP,Europe,European Region
+2014FRAA920,2014,Chikungunya mosquito-borne viral fever,France,FRA,Europe,European Region
+2014GBRA984,2014,Ebola disease,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2014GINA984,2014,Ebola disease,Guinea,GIN,Africa,African Region
+2014GNQA809,2014,"Acute poliomyelitis, unspecified",Equatorial Guinea,GNQ,Africa,African Region
+2014GRCU040,2014,Middle East respiratory syndrome,Greece,GRC,Europe,European Region
+2014IRNU040,2014,Middle East respiratory syndrome,Iran (Islamic Republic of),IRN,Asia,Eastern Mediterranean Region
+2014JORU040,2014,Middle East respiratory syndrome,Jordan,JOR,Asia,Eastern Mediterranean Region
+2014LBNU040,2014,Middle East respiratory syndrome,Lebanon,LBN,Asia,Eastern Mediterranean Region
+2014LBRA984,2014,Ebola disease,Liberia,LBR,Africa,African Region
+2014MDGA209,2014,"Plague, unspecified",Madagascar,MDG,Africa,African Region
+2014MDGA809,2014,"Acute poliomyelitis, unspecified",Madagascar,MDG,Africa,African Region
+2014MLIA984,2014,Ebola disease,Mali,MLI,Africa,African Region
+2014MYSU040,2014,Middle East respiratory syndrome,Malaysia,MYS,Asia,Western Pacific Region
+2014NGAA984,2014,Ebola disease,Nigeria,NGA,Africa,African Region
+2014NLDU040,2014,Middle East respiratory syndrome,Netherlands,NLD,Europe,European Region
+2014PRTA481,2014,Legionnaires disease,Portugal,PRT,Europe,European Region
+2014QATU040,2014,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2014SAUU040,2014,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2014SENA984,2014,Ebola disease,Senegal,SEN,Africa,African Region
+2014SLEA984,2014,Ebola disease,Sierra Leone,SLE,Africa,African Region
+2014SSDA809,2014,"Acute poliomyelitis, unspecified",South Sudan,SSD,Africa,African Region
+2014SYRA809,2014,"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2014TURU040,2014,Middle East respiratory syndrome,Turkey,TUR,Asia,European Region
+2014UGAA983,2014,Marburg disease,Uganda,UGA,Africa,African Region
+2014USAA984,2014,Ebola disease,United States of America,USA,Americas,Region of the Americas
+2014USAB341,2014,Enterovirus infection of unspecified site,United States of America,USA,Americas,Region of the Americas
+2014USAU040,2014,Middle East respiratory syndrome,United States of America,USA,Americas,Region of the Americas
+2014YEMU040,2014,Middle East respiratory syndrome,Yemen,YEM,Asia,Eastern Mediterranean Region
+2013AREU040,2013,Middle East respiratory syndrome,United Arab Emirates,ARE,Asia,Eastern Mediterranean Region
+2013BENA390,2013,Meningococcal meningitis,Benin,BEN,Africa,African Region
+2013BFAA390,2013,Meningococcal meningitis,Burkina Faso,BFA,Africa,African Region
+2013CHNJ090,2013,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2013CMRA809,2013,"Acute poliomyelitis, unspecified",Cameroon,CMR,Africa,African Region
+2013CMRA959,2013,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2013CODA959,2013,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2013DEUU040,2013,Middle East respiratory syndrome,Germany,DEU,Europe,European Region
+2013ESPU040,2013,Middle East respiratory syndrome,Spain,ESP,Europe,European Region
+2013ETHA809,2013,"Acute poliomyelitis, unspecified",Ethiopia,ETH,Africa,African Region
+2013FRAU040,2013,Middle East respiratory syndrome,France,FRA,Europe,European Region
+2013GBRU040,2013,Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2013GINA390,2013,Meningococcal meningitis,Guinea,GIN,Africa,African Region
+2013ISRA809,2013,"Acute poliomyelitis, unspecified",Israel,ISR,Asia,European Region
+2013ITAU040,2013,Middle East respiratory syndrome,Italy,ITA,Europe,European Region
+2013JORU040,2013,Middle East respiratory syndrome,Jordan,JOR,Asia,Eastern Mediterranean Region
+2013KENA809,2013,"Acute poliomyelitis, unspecified",Kenya,KEN,Africa,African Region
+2013KHMJ090,2013,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2013KWTU040,2013,Middle East respiratory syndrome,Kuwait,KWT,Asia,Eastern Mediterranean Region
+2013MAFA920,2013,Chikungunya mosquito-borne viral fever,Saint Martin (French part),MAF,Americas,
+2013MEXA000,2013,Cholera,Mexico,MEX,Americas,Region of the Americas
+2013NERA809,2013,"Acute poliomyelitis, unspecified",Niger,NER,Africa,African Region
+2013NGAA390,2013,Meningococcal meningitis,Nigeria,NGA,Africa,African Region
+2013OMNU040,2013,Middle East respiratory syndrome,Oman,OMN,Asia,Eastern Mediterranean Region
+2013QATU040,2013,Middle East respiratory syndrome,Qatar,QAT,Asia,Eastern Mediterranean Region
+2013SAUU040,2013,Middle East respiratory syndrome,Saudi Arabia,SAU,Asia,Eastern Mediterranean Region
+2013SDNA959,2013,"Yellow fever, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2013SOMA809,2013,"Acute poliomyelitis, unspecified",Somalia,SOM,Africa,Eastern Mediterranean Region
+2013SSDA390,2013,Meningococcal meningitis,South Sudan,SSD,Africa,African Region
+2013SSDA809,2013,"Acute poliomyelitis, unspecified",South Sudan,SSD,Africa,African Region
+2013SYRA809,2013,"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,Asia,Eastern Mediterranean Region
+2013TCDA959,2013,"Yellow fever, unspecified",Chad,TCD,Africa,African Region
+2013TUNU040,2013,Middle East respiratory syndrome,Tunisia,TUN,Africa,Eastern Mediterranean Region
+2012BENA390,2012,Meningococcal meningitis,Benin,BEN,Africa,African Region
+2012BFAA390,2012,Meningococcal meningitis,Burkina Faso,BFA,Africa,African Region
+2012BGDJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,Asia,South-East Asia Region
+2012CAFA390,2012,Meningococcal meningitis,Central African Republic,CAF,Africa,African Region
+2012CHNJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2012CIVA390,2012,Meningococcal meningitis,CÃ´te d'Ivoire,CIV,Africa,African Region
+2012CMRA959,2012,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2012CODA000,2012,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2012CODA984,2012,Ebola disease,Congo Democratic Republic of the,COD,Africa,African Region
+2012COGA959,2012,"Yellow fever, unspecified",Congo,COG,Africa,African Region
+2012EGYJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,Africa,Eastern Mediterranean Region
+2012GBRU040,2012,Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2012GHAA390,2012,Meningococcal meningitis,Ghana,GHA,Africa,African Region
+2012GHAA959,2012,"Yellow fever, unspecified",Ghana,GHA,Africa,African Region
+2012GMBA390,2012,Meningococcal meningitis,Gambia,GMB,Africa,African Region
+2012HKGJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Hong Kong,HKG,Asia,
+2012IDNJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,Asia,South-East Asia Region
+2012KHMB084,2012,Enteroviral vesicular stomatitis,Cambodia,KHM,Asia,Western Pacific Region
+2012KHMB990,2012,"Infection, unspecified",Cambodia,KHM,Asia,Western Pacific Region
+2012KHMJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2012MLIA390,2012,Meningococcal meningitis,Mali,MLI,Africa,African Region
+2012MRTA924,2012,Rift Valley fever,Mauritania,MRT,Africa,African Region
+2012NGAA390,2012,Meningococcal meningitis,Nigeria,NGA,Africa,African Region
+2012NGAA962,2012,Lassa fever,Nigeria,NGA,Africa,African Region
+2012PRTA979,2012,"Dengue fever, unspecified",Portugal,PRT,Europe,European Region
+2012SDNA390,2012,Meningococcal meningitis,Sudan,SDN,Africa,Eastern Mediterranean Region
+2012SDNA959,2012,"Yellow fever, unspecified",Sudan,SDN,Africa,Eastern Mediterranean Region
+2012SLEA000,2012,Cholera,Sierra Leone,SLE,Africa,African Region
+2012TCDA390,2012,Meningococcal meningitis,Chad,TCD,Africa,African Region
+2012UGAA984,2012,Ebola disease,Uganda,UGA,Africa,African Region
+2012UGAA990,2012,Unspecified viral haemorrhagic fever,Uganda,UGA,Africa,African Region
+2012USAB334,2012,Hantavirus pulmonary syndrome,United States of America,USA,Americas,Region of the Americas
+2012VNMJ090,2012,Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,Asia,Western Pacific Region
+2011AGOB990,2011,"Infection, unspecified",Angola,AGO,Africa,African Region
+2011ALBA923,2011,West Nile virus infection,Albania,ALB,Europe,European Region
+2011AUTB962,2011,Escherichia coli,Austria,AUT,Europe,European Region
+2011BGDJ090,2011,Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,Asia,South-East Asia Region
+2011BRAB05,2011,Measles,Brazil,BRA,Americas,Region of the Americas
+2011CANB05,2011,Measles,Canada,CAN,Americas,Region of the Americas
+2011CHEB962,2011,Escherichia coli,Switzerland,CHE,Europe,European Region
+2011CHLB05,2011,Measles,Chile,CHL,Americas,Region of the Americas
+2011CHNA809,2011,"Acute poliomyelitis, unspecified",China,CHN,Asia,Western Pacific Region
+2011CIVA809,2011,"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2011CIVA959,2011,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2011CODA000,2011,Cholera,Congo Democratic Republic of the,COD,Africa,African Region
+2011CODB05,2011,Measles,Congo Democratic Republic of the,COD,Africa,African Region
+2011COLB05,2011,Measles,Colombia,COL,Americas,Region of the Americas
+2011DEUB05,2011,Measles,Germany,DEU,Europe,European Region
+2011DEUB962,2011,Escherichia coli,Germany,DEU,Europe,European Region
+2011DNKB962,2011,Escherichia coli,Denmark,DNK,Europe,European Region
+2011ECUB05,2011,Measles,Ecuador,ECU,Americas,Region of the Americas
+2011EGYJ090,2011,Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,Africa,Eastern Mediterranean Region
+2011ETHB05,2011,Measles,Ethiopia,ETH,Africa,African Region
+2011FRAB05,2011,Measles,France,FRA,Europe,European Region
+2011FRAB962,2011,Escherichia coli,France,FRA,Europe,European Region
+2011GBRB05,2011,Measles,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2011GBRB962,2011,Escherichia coli,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,European Region
+2011GRCA923,2011,West Nile virus infection,Greece,GRC,Europe,European Region
+2011IDNJ090,2011,Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,Asia,South-East Asia Region
+2011ISRA923,2011,West Nile virus infection,Israel,ISR,Asia,European Region
+2011KGZB05,2011,Measles,Kyrgyzstan,KGZ,Asia,European Region
+2011KHMJ090,2011,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2011MEXB05,2011,Measles,Mexico,MEX,Americas,Region of the Americas
+2011MKDB05,2011,Measles,North Macedonia,MKD,Europe,European Region
+2011NGAB05,2011,Measles,Nigeria,NGA,Africa,African Region
+2011NLDB962,2011,Escherichia coli,Netherlands,NLD,Europe,European Region
+2011NORB962,2011,Escherichia coli,Norway,NOR,Europe,European Region
+2011PAKA809,2011,"Acute poliomyelitis, unspecified",Pakistan,PAK,Asia,Eastern Mediterranean Region
+2011ROUA923,2011,West Nile virus infection,Romania,ROU,Europe,European Region
+2011ROUB05,2011,Measles,Romania,ROU,Europe,European Region
+2011RUSA923,2011,West Nile virus infection,Russian Federation,RUS,Europe,European Region
+2011SENA959,2011,"Yellow fever, unspecified",Senegal,SEN,Africa,African Region
+2011SLEA959,2011,"Yellow fever, unspecified",Sierra Leone,SLE,Africa,African Region
+2011SWEB962,2011,Escherichia coli,Sweden,SWE,Europe,European Region
+2011TCDA390,2011,Meningococcal meningitis,Chad,TCD,Africa,African Region
+2011TCDA809,2011,"Acute poliomyelitis, unspecified",Chad,TCD,Africa,African Region
+2011UGAA959,2011,"Yellow fever, unspecified",Uganda,UGA,Africa,African Region
+2011UGAA984,2011,Ebola disease,Uganda,UGA,Africa,African Region
+2011USAB05,2011,Measles,United States of America,USA,Americas,Region of the Americas
+2011USAJ090,2011,Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,Americas,Region of the Americas
+2011ZMBB05,2011,Measles,Zambia,ZMB,Africa,African Region
+2010AGOJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Angola,AGO,Africa,African Region
+2010ARGJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Argentina,ARG,Americas,Region of the Americas
+2010AUSJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Australia,AUS,Oceania,Western Pacific Region
+2010BGDJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,Asia,South-East Asia Region
+2010BOLJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Bolivia (Plurinational State of),BOL,Americas,Region of the Americas
+2010BRAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,Americas,Region of the Americas
+2010BTNJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Bhutan,BTN,Asia,South-East Asia Region
+2010CHLJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Chile,CHL,Americas,Region of the Americas
+2010CHNJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,Asia,Western Pacific Region
+2010CIVA959,2010,"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,Africa,African Region
+2010CMRA000,2010,Cholera,Cameroon,CMR,Africa,African Region
+2010CMRA959,2010,"Yellow fever, unspecified",Cameroon,CMR,Africa,African Region
+2010CMRJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Cameroon,CMR,Africa,African Region
+2010CODA809,2010,"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2010CODA959,2010,"Yellow fever, unspecified",Congo Democratic Republic of the,COD,Africa,African Region
+2010COGA809,2010,"Acute poliomyelitis, unspecified",Congo,COG,Africa,African Region
+2010COGA990,2010,Unspecified viral haemorrhagic fever,Congo,COG,Africa,African Region
+2010COLJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Colombia,COL,Americas,Region of the Americas
+2010CRIJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Costa Rica,CRI,Americas,Region of the Americas
+2010CUBJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Cuba,CUB,Americas,Region of the Americas
+2010CYPJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Cyprus,CYP,Asia,European Region
+2010DOMJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Dominican Republic,DOM,Americas,Region of the Americas
+2010EGYJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,Africa,Eastern Mediterranean Region
+2010GHAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Ghana,GHA,Africa,African Region
+2010GINA959,2010,"Yellow fever, unspecified",Guinea,GIN,Africa,African Region
+2010GINJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Guinea,GIN,Africa,African Region
+2010GTMJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Guatemala,GTM,Americas,Region of the Americas
+2010HKGJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Hong Kong,HKG,Asia,
+2010HNDJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Honduras,HND,Americas,Region of the Americas
+2010HTIA000,2010,Cholera,Haiti,HTI,Americas,Region of the Americas
+2010IDNJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,Asia,South-East Asia Region
+2010INDJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,India,IND,Asia,South-East Asia Region
+2010ITAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Italy,ITA,Europe,European Region
+2010JAMJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Jamaica,JAM,Americas,Region of the Americas
+2010KENJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Kenya,KEN,Africa,African Region
+2010KHMJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,Asia,Western Pacific Region
+2010KORJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Korea Republic of,KOR,Asia,Western Pacific Region
+2010MEXJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,Americas,Region of the Americas
+2010MLIJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Mali,MLI,Africa,African Region
+2010MRTJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Mauritania,MRT,Africa,African Region
+2010MYSJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Malaysia,MYS,Asia,Western Pacific Region
+2010NERA000,2010,Cholera,Niger,NER,Africa,African Region
+2010NERJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Niger,NER,Africa,African Region
+2010NGAA000,2010,Cholera,Nigeria,NGA,Africa,African Region
+2010NGAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Nigeria,NGA,Africa,African Region
+2010NICJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Nicaragua,NIC,Americas,Region of the Americas
+2010NZLJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,New Zealand,NZL,Oceania,Western Pacific Region
+2010PAKA000,2010,Cholera,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2010PAKA990,2010,Unspecified viral haemorrhagic fever,Pakistan,PAK,Asia,Eastern Mediterranean Region
+2010PANJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Panama,PAN,Americas,Region of the Americas
+2010PERA209,2010,"Plague, unspecified",Peru,PER,Americas,Region of the Americas
+2010PERJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Peru,PER,Americas,Region of the Americas
+2010PHLJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Philippines,PHL,Asia,Western Pacific Region
+2010RUSA809,2010,"Acute poliomyelitis, unspecified",Russian Federation,RUS,Europe,European Region
+2010RUSJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Russian Federation,RUS,Europe,European Region
+2010RWAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Rwanda,RWA,Africa,African Region
+2010SDNJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Sudan,SDN,Africa,Eastern Mediterranean Region
+2010SENA959,2010,"Yellow fever, unspecified",Senegal,SEN,Africa,African Region
+2010SENJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Senegal,SEN,Africa,African Region
+2010SGPJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Singapore,SGP,Asia,Western Pacific Region
+2010SLVJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,El Salvador,SLV,Americas,Region of the Americas
+2010STPJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Sao Tome and Principe,STP,Africa,African Region
+2010TCDA000,2010,Cholera,Chad,TCD,Africa,African Region
+2010TCDA390,2010,Meningococcal meningitis,Chad,TCD,Africa,African Region
+2010TCDJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Chad,TCD,Africa,African Region
+2010THAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Thailand,THA,Asia,South-East Asia Region
+2010TJKA809,2010,"Acute poliomyelitis, unspecified",Tajikistan,TJK,Asia,European Region
+2010TZAJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Tanzania United Republic of,TZA,Africa,African Region
+2010URYJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Uruguay,URY,Americas,Region of the Americas
+2010VENJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Venezuela (Bolivarian Republic of),VEN,Americas,Region of the Americas
+2010VNMJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,Asia,Western Pacific Region
+2010ZAFA924,2010,Rift Valley fever,South Africa,ZAF,Africa,African Region
+2010ZAFJ090,2010,Influenza due to identified zoonotic or pandemic influenza virus,South Africa,ZAF,Africa,African Region

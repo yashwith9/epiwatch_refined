@@ -1,0 +1,47 @@
+{
+  "Naive Bayes": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "train_time": 0.004510164260864258,
+    "inference_time_per_sample": 0.0004330975885482254,
+    "model_type": "classical_ml"
+  },
+  "Logistic Regression": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "train_time": 0.042685508728027344,
+    "inference_time_per_sample": 0.00044750889184492647,
+    "model_type": "classical_ml"
+  },
+  "Random Forest": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "train_time": 0.5726959705352783,
+    "inference_time_per_sample": 0.06265478447664327,
+    "model_type": "classical_ml"
+  },
+  "Linear SVM": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "train_time": 0.012042760848999023,
+    "inference_time_per_sample": 0.0002748260821669125,
+    "model_type": "classical_ml"
+  },
+  "Custom Neural Network": {
+    "accuracy": 0.6818663838812301,
+    "precision": 0.6476683937823834,
+    "recall": 0.7961783439490446,
+    "f1": 0.7142857142857143,
+    "train_time": 0.0,
+    "inference_time_per_sample": 16.448230025371338,
+    "model_type": "deep_learning"
+  }
+}

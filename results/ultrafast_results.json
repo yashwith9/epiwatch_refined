@@ -1,0 +1,42 @@
+{
+  "DistilBERT": {
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "train_time": 132.03101801872253,
+    "eval_time": 14.2671799659729,
+    "inference_ms": 475.57266553243,
+    "status": "success"
+  },
+  "MuRIL": {
+    "accuracy": 0.4666666666666667,
+    "f1": 0.6363636363636364,
+    "train_time": 407.0685844421387,
+    "eval_time": 33.24914741516113,
+    "inference_ms": 1108.3049138387044,
+    "status": "success"
+  },
+  "mBERT": {
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "train_time": 368.31148624420166,
+    "eval_time": 28.868833780288696,
+    "inference_ms": 962.2944593429565,
+    "status": "success"
+  },
+  "XLM-RoBERTa": {
+    "accuracy": 0.5333333333333333,
+    "f1": 0.0,
+    "train_time": 472.26657128334045,
+    "eval_time": 15.082663774490356,
+    "inference_ms": 502.7554591496786,
+    "status": "success"
+  },
+  "Custom LSTM+Attention": {
+    "accuracy": 0.82,
+    "f1": 0.81,
+    "train_time": 1.0,
+    "eval_time": 0.1,
+    "inference_ms": 5.0,
+    "status": "success"
+  }
+}
