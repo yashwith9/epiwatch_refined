@@ -8,10 +8,16 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
 from datetime import datetime, timedelta
-import pandas as pd
-import numpy as np
 import json
 import os
+
+# Lazy load heavy libraries only when needed
+try:
+    import pandas as pd
+    import numpy as np
+except ImportError:
+    pd = None
+    np = None
 
 app = FastAPI(
     title="EpiWatch API",

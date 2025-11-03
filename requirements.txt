@@ -1,21 +1,6 @@
-# API & Backend (ESSENTIAL)
+# API & Backend ONLY - No ML libraries
 fastapi==0.104.1
 uvicorn==0.24.0
 pydantic==2.5.0
-
-# ML/DL (Latest available versions)
-torch==2.5.1
-transformers==4.40.2
-numpy==1.24.3
-pandas==2.0.3
-
-# Data handling
 requests==2.31.0
-
-# NLP
-nltk==3.8.1
-langdetect==1.0.9
-
-# Utilities
 python-dotenv==1.0.0
-tqdm==4.66.1
