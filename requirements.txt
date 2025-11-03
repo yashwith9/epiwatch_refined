@@ -3,9 +3,9 @@ fastapi==0.104.1
 uvicorn==0.24.0
 pydantic==2.5.0
 
-# ML/DL (Python 3.12 compatible wheels)
-torch==2.2.0
-transformers==4.38.0
+# ML/DL (Latest available versions)
+torch==2.5.1
+transformers==4.40.2
 numpy==1.24.3
 pandas==2.0.3
 
