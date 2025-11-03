@@ -1,0 +1,50 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large)
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
+
+# Data files (can be large)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.txt
+
+# Output files
+outputs/visualizations/*.png
+outputs/visualizations/*.jpg
+outputs/alerts/*.json
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Hugging Face cache
+transformers_cache/
+.cache/

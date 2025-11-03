@@ -1,0 +1,88 @@
+# EpiWatch Configuration
+
+# Data Sources
+data:
+  gdelt_api: "https://api.gdeltproject.org/api/v2/"
+  newsapi_key: "YOUR_NEWSAPI_KEY"
+  twitter_bearer_token: "YOUR_TWITTER_TOKEN"
+  
+  # Languages to monitor
+  languages:
+    - en
+    - hi
+    - es
+    - fr
+    - pt
+    - sw
+    - ar
+  
+  # Diseases to track
+  diseases:
+    - COVID-19
+    - Influenza
+    - Dengue
+    - Malaria
+    - Cholera
+    - Measles
+    - Ebola
+    - Yellow Fever
+
+# Model Configuration
+models:
+  scratch:
+    name: "CustomEpiDetector"
+    embedding_dim: 256
+    hidden_dim: 128
+    num_layers: 2
+    dropout: 0.3
+    
+  pretrained:
+    - name: "xlm-roberta-base"
+      max_length: 512
+      batch_size: 16
+      learning_rate: 2e-5
+      epochs: 5
+      
+    - name: "bert-base-multilingual-cased"
+      max_length: 512
+      batch_size: 16
+      learning_rate: 2e-5
+      epochs: 5
+      
+    - name: "distilbert-base-multilingual-cased"
+      max_length: 512
+      batch_size: 32
+      learning_rate: 3e-5
+      epochs: 5
+      
+    - name: "google/muril-base-cased"
+      max_length: 512
+      batch_size: 16
+      learning_rate: 2e-5
+      epochs: 5
+
+# Anomaly Detection
+anomaly_detection:
+  method: "zscore"  # zscore, isolation_forest, prophet
+  threshold: 3.0
+  window_size: 7  # days
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  database: "mongodb://localhost:27017"
+  db_name: "epiwatch"
+
+# Alert System
+alerts:
+  risk_levels:
+    high: 
+      threshold: 100
+      color: "#FF4444"
+    moderate:
+      threshold: 50
+      color: "#FFA500"
+    low:
+      threshold: 10
+      color: "#4CAF50"

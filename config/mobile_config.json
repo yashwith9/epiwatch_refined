@@ -1,0 +1,12 @@
+{
+  "API_BASE_URL": "http://192.168.1.8:8000",
+  "endpoints": {
+    "dashboard": "/dashboard/stats",
+    "alerts": "/alerts",
+    "trends": "/trends",
+    "map": "/map/data",
+    "predict": "/predict"
+  },
+  "refresh_interval": 30000,
+  "timeout": 5000
+}
