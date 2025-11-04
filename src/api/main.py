@@ -137,6 +137,36 @@ def generate_sample_alerts():
             "date": (datetime.now() - timedelta(hours=3)).isoformat(),
             "summary": "Early indication suggest potential cholera outbreak risk in Dhaka region.",
             "color": "#FFA500"
+        },
+        {
+            "id": 4,
+            "title": "Typhoid Cases Rising",
+            "location": "Delhi, India",
+            "risk_level": "low",
+            "case_count": 45,
+            "date": (datetime.now() - timedelta(hours=6)).isoformat(),
+            "summary": "Sporadic typhoid cases reported in Delhi. Water quality being monitored.",
+            "color": "#4CAF50"
+        },
+        {
+            "id": 5,
+            "title": "Yellow Fever Activity",
+            "location": "Lagos, Nigeria",
+            "risk_level": "low",
+            "case_count": 28,
+            "date": (datetime.now() - timedelta(hours=24)).isoformat(),
+            "summary": "Yellow fever surveillance ongoing in Lagos region. Vaccination ongoing.",
+            "color": "#4CAF50"
+        },
+        {
+            "id": 6,
+            "title": "Measles Cluster Detected",
+            "location": "Manila, Philippines",
+            "risk_level": "low",
+            "case_count": 19,
+            "date": (datetime.now() - timedelta(hours=18)).isoformat(),
+            "summary": "Small cluster of measles cases detected in Manila. Immunization drive planned.",
+            "color": "#4CAF50"
         }
     ]
 
@@ -169,11 +199,12 @@ def generate_sample_trends():
 def generate_sample_map_data():
     """Generate sample map data"""
     return [
-        {"region": "Mumbai", "risk_level": "high", "alert_count": 3, "color": "#FF4444"},
-        {"region": "Nairobi", "risk_level": "moderate", "alert_count": 2, "color": "#FFA500"},
-        {"region": "Dhaka", "risk_level": "moderate", "alert_count": 2, "color": "#FFA500"},
-        {"region": "Delhi", "risk_level": "low", "alert_count": 1, "color": "#4CAF50"},
-        {"region": "Lagos", "risk_level": "low", "alert_count": 1, "color": "#4CAF50"},
+        {"region": "Mumbai, India", "risk_level": "high", "alert_count": 1, "color": "#FF4444"},
+        {"region": "Nairobi, Kenya", "risk_level": "moderate", "alert_count": 1, "color": "#FFA500"},
+        {"region": "Dhaka, Bangladesh", "risk_level": "moderate", "alert_count": 1, "color": "#FFA500"},
+        {"region": "Delhi, India", "risk_level": "low", "alert_count": 1, "color": "#4CAF50"},
+        {"region": "Lagos, Nigeria", "risk_level": "low", "alert_count": 1, "color": "#4CAF50"},
+        {"region": "Manila, Philippines", "risk_level": "low", "alert_count": 1, "color": "#4CAF50"},
     ]
 
 
@@ -213,10 +244,13 @@ async def get_stats():
     """Get system statistics"""
     alerts = generate_sample_alerts()
     
+    # Calculate total cases from all alerts
+    total_cases = sum(alert['case_count'] for alert in alerts)
+    
     return {
-        "total_cases": 8081,
-        "countries": 8,
-        "critical_alerts": 2,
+        "total_cases": total_cases,
+        "countries": 6,
+        "critical_alerts": 1,
         "regions_monitored": 6,
         "active_alerts": len(alerts),
         "last_update": datetime.now().isoformat()
@@ -332,9 +366,9 @@ async def get_diseases():
             {"name": "Dengue", "cases": 287, "trend": "up"},
             {"name": "Malaria", "cases": 134, "trend": "stable"},
             {"name": "Cholera", "cases": 67, "trend": "up"},
-            {"name": "Yellow Fever", "cases": 73, "trend": "down"},
-            {"name": "Measles", "cases": 68, "trend": "stable"},
-            {"name": "Influenza", "cases": 103, "trend": "up"}
+            {"name": "Typhoid", "cases": 45, "trend": "up"},
+            {"name": "Yellow Fever", "cases": 28, "trend": "down"},
+            {"name": "Measles", "cases": 19, "trend": "stable"}
         ]
     }
 
@@ -349,12 +383,12 @@ async def get_regions():
     """
     return {
         "regions": [
-            {"name": "Mumbai, India", "alerts": 3, "risk": "high"},
-            {"name": "Nairobi, Kenya", "alerts": 2, "risk": "moderate"},
-            {"name": "Dhaka, Bangladesh", "alerts": 2, "risk": "moderate"},
-            {"name": "Delhi, India", "alerts": 1, "risk": "low"},
-            {"name": "Lagos, Nigeria", "alerts": 1, "risk": "low"},
-            {"name": "Manila, Philippines", "alerts": 1, "risk": "low"}
+            {"name": "Mumbai, India", "alerts": 1, "risk": "high", "cases": 287},
+            {"name": "Nairobi, Kenya", "alerts": 1, "risk": "moderate", "cases": 134},
+            {"name": "Dhaka, Bangladesh", "alerts": 1, "risk": "moderate", "cases": 67},
+            {"name": "Delhi, India", "alerts": 1, "risk": "low", "cases": 45},
+            {"name": "Lagos, Nigeria", "alerts": 1, "risk": "low", "cases": 28},
+            {"name": "Manila, Philippines", "alerts": 1, "risk": "low", "cases": 19}
         ]
     }
 
