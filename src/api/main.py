@@ -10,6 +10,7 @@ from typing import List, Optional
 from datetime import datetime, timedelta
 import json
 import os
+import random
 
 # Lazy load heavy libraries only when needed
 try:
@@ -173,8 +174,6 @@ def generate_sample_alerts():
 
 def generate_sample_trends():
     """Generate sample 7-day trend data"""
-    import random
-    
     # Match diseases with alerts
     diseases = ["Dengue", "Malaria", "Cholera", "Typhoid", "Yellow Fever", "Measles"]
     trends = {}
