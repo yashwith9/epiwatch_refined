@@ -11,6 +11,7 @@ from datetime import datetime, timedelta
 import json
 import os
 import random
+import traceback
 
 # Lazy load heavy libraries only when needed
 try:
@@ -307,8 +308,15 @@ async def get_trends(days: int = 7):
     Returns:
         Dictionary with trend data for each disease
     """
-    trends = generate_sample_trends()
-    return trends
+    try:
+        trends = generate_sample_trends()
+        return trends
+    except Exception as e:
+        # Log the error and return a proper error response
+        print(f"Error in /trends endpoint: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=f"Error generating trends: {str(e)}")
 
 
 @app.get("/map", response_model=List[MapRegion])
