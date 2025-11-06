@@ -1,5 +1,6 @@
 """
 EpiWatch API - Main entry point for Render deployment
+Updated: 2025-11-06 - Fixed trends endpoint with random module import
 """
 import sys
 import os
